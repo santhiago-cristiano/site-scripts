@@ -1,10 +1,17 @@
 
 # pacotes -----------------------------------------------------------------
 
+# install.packages("readr")
+# install.packages("dplyr")
+# install.packages("abjData")
+# install.packages("purrr")
+# install.packages("glue")
+
 library(readr)
 library(dplyr)
 library(abjData)
 library(purrr)
+library(glue)
 
 
 # carregando os dados -----------------------------------------------------
@@ -27,7 +34,7 @@ morte_infantil <- map(
   col_types = "ccdi"
 )
 
-# atribuindo o ano como nome dos elementos da lista
+# atribuindo o ano como nome para cada um dos elementos da lista
 
 names(morte_infantil) <- 2010:2012
 
@@ -48,5 +55,27 @@ acrescenta_cod_uf_reg <- function(df) {
     relocate(c(cod_ibge, regiao, uf), .before = municipio)
 }
 
-morte_infantil_final <- map_df(morte_infantil, acrescenta_cod_uf_reg)
+morte_infantil_final <- map(morte_infantil, acrescenta_cod_uf_reg)
+
+
+# exportando os dados -----------------------------------------------------
+
+morte_infantil_final %>%
+  names(.) %>%
+  walk( ~ write.csv2(
+    morte_infantil_final[[.]],
+    glue("./2021/2021-07-15-leftjoin/dados-modificados/{.}-modificado.csv"),
+    row.names = FALSE
+  ))
+
+# ou
+
+walk(
+  names(morte_infantil_final),
+  ~ write.csv2(
+    morte_infantil_final[[.]],
+    glue("./2021/2021-07-15-leftjoin/dados-modificados/{.}-modificado.csv"),
+    row.names = FALSE
+  )
+)
 
