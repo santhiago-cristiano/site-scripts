@@ -1,12 +1,6 @@
 
 # pacotes -----------------------------------------------------------------
 
-# install.packages("readr")
-# install.packages("dplyr")
-# install.packages("abjData")
-# install.packages("purrr")
-# install.packages("glue")
-
 library(readr)
 library(dplyr)
 library(abjData)
@@ -16,15 +10,15 @@ library(glue)
 
 # carregando os dados -----------------------------------------------------
 
-# lista todos os arquivos csv na pasta
+# lista todos os arquivos csv contidos na pasta
 
 arquivos_csv <- list.files(
-  path = "./2021/2021-07-15-leftjoin/dados/",
+  path = "./2021/2021-07-16-leftjoin/dados/",
   pattern = "*.csv",
   full.names = TRUE
 )
 
-# lendo todos os arquivos e armazenando numa lista
+# lendo todos os arquivos e armazenando em uma lista
 
 morte_infantil <- map(
   arquivos_csv,
@@ -34,7 +28,7 @@ morte_infantil <- map(
   col_types = "ccdi"
 )
 
-# atribuindo o ano como nome para cada um dos elementos da lista
+# atribuindo o ano como "nome" para cada um dos elementos da lista
 
 names(morte_infantil) <- 2010:2012
 
@@ -60,13 +54,13 @@ morte_infantil_mesclado <- map(morte_infantil, mesclar_dados)
 
 # exportando os dados -----------------------------------------------------
 
-# utilizando o pipe
+# com o pipe
 
 morte_infantil_mesclado %>%
   names(.) %>%
   walk( ~ write.csv2(
     morte_infantil_mesclado[[.]],
-    file = glue("./2021/2021-07-15-leftjoin/dados-mesclados/{.}-mesclado.csv"),
+    file = glue("./2021/2021-07-16-leftjoin/dados-mesclados/{.}-mesclado.csv"),
     row.names = FALSE
   ))
 
@@ -76,14 +70,13 @@ walk(
   names(morte_infantil_mesclado),
   ~ write.csv2(
     morte_infantil_mesclado[[.]],
-    file = glue("./2021/2021-07-15-leftjoin/dados-mesclados/{.}-mesclado.csv"),
+    file = glue("./2021/2021-07-16-leftjoin/dados-mesclados/{.}-mesclado.csv"),
     row.names = FALSE
   )
 )
 
 # todos os anos empilhados
 
-map_df(morte_infantil, mesclar_dados) %>%
-  write.csv2(file = "./2021/2021-07-15-leftjoin/dados-mesclados/mortes_infantis_mesclado.csv",
+map_dfr(morte_infantil, mesclar_dados) %>%
+  write.csv2(file = "./2021/2021-07-16-leftjoin/dados-mesclados/mortes_infantis_mesclado.csv",
              row.names = FALSE)
-
