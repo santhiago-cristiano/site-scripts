@@ -1,0 +1,2314 @@
+"cod_ibge";"regiao";"uf";"municipio";"total";"ano"
+"1100015";"Norte";"RO";"Alta Floresta D'Oeste";1;2012
+"1100023";"Norte";"RO";"Ariquemes";14;2012
+"1100049";"Norte";"RO";"Cacoal";12;2012
+"1100056";"Norte";"RO";"Cerejeiras";3;2012
+"1100064";"Norte";"RO";"Colorado do Oeste";2;2012
+"1100080";"Norte";"RO";"Costa Marques";2;2012
+"1100098";"Norte";"RO";"Espigão D'Oeste";1;2012
+"1100106";"Norte";"RO";"Guajará-Mirim";3;2012
+"1100114";"Norte";"RO";"Jaru";6;2012
+"1100122";"Norte";"RO";"Ji-Paraná";10;2012
+"1100155";"Norte";"RO";"Ouro Preto do Oeste";3;2012
+"1100189";"Norte";"RO";"Pimenta Bueno";3;2012
+"1100205";"Norte";"RO";"Porto Velho";270;2012
+"1100254";"Norte";"RO";"Presidente Médici";1;2012
+"1100288";"Norte";"RO";"Rolim de Moura";3;2012
+"1100304";"Norte";"RO";"Vilhena";26;2012
+"1100320";"Norte";"RO";"São Miguel do Guaporé";2;2012
+"1100452";"Norte";"RO";"Buritis";2;2012
+"1100700";"Norte";"RO";"Campo Novo de Rondônia";1;2012
+"1100809";"Norte";"RO";"Candeias do Jamari";1;2012
+"1100940";"Norte";"RO";"Cujubim";1;2012
+"1101005";"Norte";"RO";"Governador Jorge Teixeira";1;2012
+"1101104";"Norte";"RO";"Itapuã do Oeste";2;2012
+"1101203";"Norte";"RO";"Ministro Andreazza";1;2012
+"1101302";"Norte";"RO";"Mirante da Serra";1;2012
+"1200013";"Norte";"AC";"Acrelândia";2;2012
+"1200054";"Norte";"AC";"Assis Brasil";1;2012
+"1200104";"Norte";"AC";"Brasiléia";7;2012
+"1200179";"Norte";"AC";"Capixaba";1;2012
+"1200203";"Norte";"AC";"Cruzeiro do Sul";37;2012
+"1200252";"Norte";"AC";"Epitaciolândia";1;2012
+"1200302";"Norte";"AC";"Feijó";11;2012
+"1200328";"Norte";"AC";"Jordão";9;2012
+"1200336";"Norte";"AC";"Mâncio Lima";1;2012
+"1200344";"Norte";"AC";"Manoel Urbano";4;2012
+"1200351";"Norte";"AC";"Marechal Thaumaturgo";3;2012
+"1200393";"Norte";"AC";"Porto Walter";3;2012
+"1200401";"Norte";"AC";"Rio Branco";169;2012
+"1200427";"Norte";"AC";"Rodrigues Alves";2;2012
+"1200435";"Norte";"AC";"Santa Rosa do Purus";5;2012
+"1200500";"Norte";"AC";"Sena Madureira";9;2012
+"1200609";"Norte";"AC";"Tarauacá";23;2012
+"1200708";"Norte";"AC";"Xapuri";1;2012
+"1300029";"Norte";"AM";"Alvarães";4;2012
+"1300060";"Norte";"AM";"Amaturá";5;2012
+"1300086";"Norte";"AM";"Anamã";1;2012
+"1300102";"Norte";"AM";"Anori";3;2012
+"1300144";"Norte";"AM";"Apuí";5;2012
+"1300201";"Norte";"AM";"Atalaia do Norte";6;2012
+"1300300";"Norte";"AM";"Autazes";5;2012
+"1300409";"Norte";"AM";"Barcelos";16;2012
+"1300508";"Norte";"AM";"Barreirinha";4;2012
+"1300607";"Norte";"AM";"Benjamin Constant";22;2012
+"1300631";"Norte";"AM";"Beruri";3;2012
+"1300706";"Norte";"AM";"Boca do Acre";6;2012
+"1300805";"Norte";"AM";"Borba";5;2012
+"1300904";"Norte";"AM";"Canutama";1;2012
+"1301001";"Norte";"AM";"Carauari";22;2012
+"1301100";"Norte";"AM";"Careiro";4;2012
+"1301159";"Norte";"AM";"Careiro da Várzea";1;2012
+"1301209";"Norte";"AM";"Coari";16;2012
+"1301308";"Norte";"AM";"Codajás";6;2012
+"1301407";"Norte";"AM";"Eirunepé";32;2012
+"1301506";"Norte";"AM";"Envira";6;2012
+"1301605";"Norte";"AM";"Fonte Boa";8;2012
+"1301654";"Norte";"AM";"Guajará";3;2012
+"1301704";"Norte";"AM";"Humaitá";4;2012
+"1301803";"Norte";"AM";"Ipixuna";1;2012
+"1301852";"Norte";"AM";"Iranduba";2;2012
+"1301902";"Norte";"AM";"Itacoatiara";17;2012
+"1301951";"Norte";"AM";"Itamarati";3;2012
+"1302009";"Norte";"AM";"Itapiranga";4;2012
+"1302108";"Norte";"AM";"Japurá";3;2012
+"1302207";"Norte";"AM";"Juruá";3;2012
+"1302306";"Norte";"AM";"Jutaí";7;2012
+"1302405";"Norte";"AM";"Lábrea";18;2012
+"1302504";"Norte";"AM";"Manacapuru";14;2012
+"1302603";"Norte";"AM";"Manaus";689;2012
+"1302702";"Norte";"AM";"Manicoré";10;2012
+"1302801";"Norte";"AM";"Maraã";3;2012
+"1302900";"Norte";"AM";"Maués";21;2012
+"1303007";"Norte";"AM";"Nhamundá";1;2012
+"1303106";"Norte";"AM";"Nova Olinda do Norte";7;2012
+"1303205";"Norte";"AM";"Novo Airão";1;2012
+"1303304";"Norte";"AM";"Novo Aripuanã";4;2012
+"1303403";"Norte";"AM";"Parintins";33;2012
+"1303502";"Norte";"AM";"Pauini";5;2012
+"1303569";"Norte";"AM";"Rio Preto da Eva";4;2012
+"1303601";"Norte";"AM";"Santa Isabel do Rio Negro";9;2012
+"1303700";"Norte";"AM";"Santo Antônio do Içá";22;2012
+"1303809";"Norte";"AM";"São Gabriel da Cachoeira";30;2012
+"1303908";"Norte";"AM";"São Paulo de Olivença";33;2012
+"1303957";"Norte";"AM";"São Sebastião do Uatumã";2;2012
+"1304005";"Norte";"AM";"Silves";2;2012
+"1304062";"Norte";"AM";"Tabatinga";38;2012
+"1304104";"Norte";"AM";"Tapauá";7;2012
+"1304203";"Norte";"AM";"Tefé";38;2012
+"1304237";"Norte";"AM";"Tonantins";5;2012
+"1304260";"Norte";"AM";"Uarini";6;2012
+"1304302";"Norte";"AM";"Urucará";3;2012
+"1304401";"Norte";"AM";"Urucurituba";1;2012
+"1400027";"Norte";"RR";"Amajari";8;2012
+"1400050";"Norte";"RR";"Alto Alegre";12;2012
+"1400100";"Norte";"RR";"Boa Vista";126;2012
+"1400175";"Norte";"RR";"Cantá";1;2012
+"1400209";"Norte";"RR";"Caracaraí";40;2012
+"1400282";"Norte";"RR";"Iracema";1;2012
+"1400308";"Norte";"RR";"Mucajaí";1;2012
+"1400472";"Norte";"RR";"Rorainópolis";2;2012
+"1400506";"Norte";"RR";"São João da Baliza";2;2012
+"1400704";"Norte";"RR";"Uiramutã";2;2012
+"1500107";"Norte";"PA";"Abaetetuba";23;2012
+"1500206";"Norte";"PA";"Acará";1;2012
+"1500305";"Norte";"PA";"Afuá";6;2012
+"1500404";"Norte";"PA";"Alenquer";26;2012
+"1500503";"Norte";"PA";"Almeirim";10;2012
+"1500602";"Norte";"PA";"Altamira";70;2012
+"1500701";"Norte";"PA";"Anajás";6;2012
+"1500800";"Norte";"PA";"Ananindeua";65;2012
+"1500859";"Norte";"PA";"Anapu";5;2012
+"1500909";"Norte";"PA";"Augusto Corrêa";2;2012
+"1500958";"Norte";"PA";"Aurora do Pará";1;2012
+"1501204";"Norte";"PA";"Baião";5;2012
+"1501303";"Norte";"PA";"Barcarena";5;2012
+"1501402";"Norte";"PA";"Belém";822;2012
+"1501501";"Norte";"PA";"Benevides";3;2012
+"1501576";"Norte";"PA";"Bom Jesus do Tocantins";3;2012
+"1501709";"Norte";"PA";"Bragança";70;2012
+"1501725";"Norte";"PA";"Brasil Novo";2;2012
+"1501782";"Norte";"PA";"Breu Branco";2;2012
+"1501808";"Norte";"PA";"Breves";73;2012
+"1501907";"Norte";"PA";"Bujaru";1;2012
+"1502004";"Norte";"PA";"Cachoeira do Arari";3;2012
+"1502103";"Norte";"PA";"Cametá";46;2012
+"1502152";"Norte";"PA";"Canaã dos Carajás";7;2012
+"1502202";"Norte";"PA";"Capanema";28;2012
+"1502301";"Norte";"PA";"Capitão Poço";4;2012
+"1502400";"Norte";"PA";"Castanhal";38;2012
+"1502707";"Norte";"PA";"Conceição do Araguaia";8;2012
+"1502756";"Norte";"PA";"Concórdia do Pará";7;2012
+"1502764";"Norte";"PA";"Cumaru do Norte";3;2012
+"1502772";"Norte";"PA";"Curionópolis";6;2012
+"1502806";"Norte";"PA";"Curralinho";6;2012
+"1502905";"Norte";"PA";"Curuçá";1;2012
+"1502939";"Norte";"PA";"Dom Eliseu";2;2012
+"1502954";"Norte";"PA";"Eldorado do Carajás";6;2012
+"1503002";"Norte";"PA";"Faro";2;2012
+"1503044";"Norte";"PA";"Floresta do Araguaia";2;2012
+"1503093";"Norte";"PA";"Goianésia do Pará";2;2012
+"1503101";"Norte";"PA";"Gurupá";4;2012
+"1503200";"Norte";"PA";"Igarapé-Açu";2;2012
+"1503309";"Norte";"PA";"Igarapé-Miri";7;2012
+"1503457";"Norte";"PA";"Ipixuna do Pará";4;2012
+"1503507";"Norte";"PA";"Irituia";1;2012
+"1503606";"Norte";"PA";"Itaituba";38;2012
+"1503705";"Norte";"PA";"Itupiranga";5;2012
+"1503754";"Norte";"PA";"Jacareacanga";9;2012
+"1503804";"Norte";"PA";"Jacundá";8;2012
+"1503903";"Norte";"PA";"Juruti";15;2012
+"1504000";"Norte";"PA";"Limoeiro do Ajuru";8;2012
+"1504059";"Norte";"PA";"Mãe do Rio";5;2012
+"1504208";"Norte";"PA";"Marabá";96;2012
+"1504406";"Norte";"PA";"Marapanim";1;2012
+"1504422";"Norte";"PA";"Marituba";16;2012
+"1504455";"Norte";"PA";"Medicilândia";3;2012
+"1504505";"Norte";"PA";"Melgaço";3;2012
+"1504604";"Norte";"PA";"Mocajuba";4;2012
+"1504703";"Norte";"PA";"Moju";6;2012
+"1504802";"Norte";"PA";"Monte Alegre";19;2012
+"1504901";"Norte";"PA";"Muaná";10;2012
+"1504950";"Norte";"PA";"Nova Esperança do Piriá";4;2012
+"1504976";"Norte";"PA";"Nova Ipixuna";1;2012
+"1505031";"Norte";"PA";"Novo Progresso";8;2012
+"1505064";"Norte";"PA";"Novo Repartimento";5;2012
+"1505106";"Norte";"PA";"Óbidos";13;2012
+"1505205";"Norte";"PA";"Oeiras do Pará";10;2012
+"1505304";"Norte";"PA";"Oriximiná";28;2012
+"1505437";"Norte";"PA";"Ourilândia do Norte";9;2012
+"1505486";"Norte";"PA";"Pacajá";6;2012
+"1505502";"Norte";"PA";"Paragominas";21;2012
+"1505536";"Norte";"PA";"Parauapebas";45;2012
+"1505551";"Norte";"PA";"Pau D'Arco";1;2012
+"1505635";"Norte";"PA";"Piçarra";2;2012
+"1505650";"Norte";"PA";"Placas";2;2012
+"1505700";"Norte";"PA";"Ponta de Pedras";5;2012
+"1505809";"Norte";"PA";"Portel";5;2012
+"1505908";"Norte";"PA";"Porto de Moz";6;2012
+"1506005";"Norte";"PA";"Prainha";11;2012
+"1506112";"Norte";"PA";"Quatipuru";1;2012
+"1506138";"Norte";"PA";"Redenção";58;2012
+"1506161";"Norte";"PA";"Rio Maria";2;2012
+"1506187";"Norte";"PA";"Rondon do Pará";6;2012
+"1506195";"Norte";"PA";"Rurópolis";7;2012
+"1506203";"Norte";"PA";"Salinópolis";4;2012
+"1506302";"Norte";"PA";"Salvaterra";6;2012
+"1506500";"Norte";"PA";"Santa Izabel do Pará";3;2012
+"1506559";"Norte";"PA";"Santa Luzia do Pará";1;2012
+"1506583";"Norte";"PA";"Santa Maria das Barreiras";1;2012
+"1506609";"Norte";"PA";"Santa Maria do Pará";1;2012
+"1506708";"Norte";"PA";"Santana do Araguaia";2;2012
+"1506807";"Norte";"PA";"Santarém";148;2012
+"1507003";"Norte";"PA";"Santo Antônio do Tauá";1;2012
+"1507102";"Norte";"PA";"São Caetano de Odivelas";1;2012
+"1507201";"Norte";"PA";"São Domingos do Capim";2;2012
+"1507300";"Norte";"PA";"São Félix do Xingu";16;2012
+"1507458";"Norte";"PA";"São Geraldo do Araguaia";3;2012
+"1507474";"Norte";"PA";"São João de Pirabas";1;2012
+"1507607";"Norte";"PA";"São Miguel do Guamá";4;2012
+"1507706";"Norte";"PA";"São Sebastião da Boa Vista";5;2012
+"1507755";"Norte";"PA";"Sapucaia";1;2012
+"1507805";"Norte";"PA";"Senador José Porfírio";4;2012
+"1507904";"Norte";"PA";"Soure";9;2012
+"1507953";"Norte";"PA";"Tailândia";13;2012
+"1507979";"Norte";"PA";"Terra Santa";2;2012
+"1508001";"Norte";"PA";"Tomé-Açu";20;2012
+"1508050";"Norte";"PA";"Trairão";4;2012
+"1508084";"Norte";"PA";"Tucumã";12;2012
+"1508100";"Norte";"PA";"Tucuruí";80;2012
+"1508126";"Norte";"PA";"Ulianópolis";5;2012
+"1508159";"Norte";"PA";"Uruará";8;2012
+"1508209";"Norte";"PA";"Vigia";4;2012
+"1508308";"Norte";"PA";"Viseu";5;2012
+"1508357";"Norte";"PA";"Vitória do Xingu";1;2012
+"1508407";"Norte";"PA";"Xinguara";8;2012
+"1600105";"Norte";"AP";"Amapá";1;2012
+"1600154";"Norte";"AP";"Pedra Branca do Amapari";3;2012
+"1600204";"Norte";"AP";"Calçoene";2;2012
+"1600279";"Norte";"AP";"Laranjal do Jari";24;2012
+"1600303";"Norte";"AP";"Macapá";259;2012
+"1600501";"Norte";"AP";"Oiapoque";6;2012
+"1600535";"Norte";"AP";"Porto Grande";2;2012
+"1600600";"Norte";"AP";"Santana";31;2012
+"1600709";"Norte";"AP";"Tartarugalzinho";1;2012
+"1700301";"Norte";"TO";"Aguiarnópolis";3;2012
+"1700350";"Norte";"TO";"Aliança do Tocantins";1;2012
+"1700400";"Norte";"TO";"Almas";1;2012
+"1700707";"Norte";"TO";"Alvorada";1;2012
+"1701101";"Norte";"TO";"Aparecida do Rio Negro";1;2012
+"1701309";"Norte";"TO";"Aragominas";1;2012
+"1701903";"Norte";"TO";"Araguacema";3;2012
+"1702109";"Norte";"TO";"Araguaína";89;2012
+"1702158";"Norte";"TO";"Araguanã";1;2012
+"1702406";"Norte";"TO";"Arraias";2;2012
+"1702554";"Norte";"TO";"Augustinópolis";11;2012
+"1702703";"Norte";"TO";"Aurora do Tocantins";1;2012
+"1702901";"Norte";"TO";"Axixá do Tocantins";1;2012
+"1705508";"Norte";"TO";"Colinas do Tocantins";5;2012
+"1707009";"Norte";"TO";"Dianópolis";2;2012
+"1707108";"Norte";"TO";"Divinópolis do Tocantins";1;2012
+"1709005";"Norte";"TO";"Goiatins";3;2012
+"1709302";"Norte";"TO";"Guaraí";7;2012
+"1709500";"Norte";"TO";"Gurupi";30;2012
+"1710508";"Norte";"TO";"Itacajá";2;2012
+"1711506";"Norte";"TO";"Jaú do Tocantins";1;2012
+"1711902";"Norte";"TO";"Lagoa da Confusão";1;2012
+"1712801";"Norte";"TO";"Maurilândia do Tocantins";1;2012
+"1713205";"Norte";"TO";"Miracema do Tocantins";2;2012
+"1713601";"Norte";"TO";"Monte do Carmo";1;2012
+"1714203";"Norte";"TO";"Natividade";1;2012
+"1715705";"Norte";"TO";"Palmeirante";1;2012
+"1716109";"Norte";"TO";"Paraíso do Tocantins";7;2012
+"1716208";"Norte";"TO";"Paranã";1;2012
+"1716505";"Norte";"TO";"Pedro Afonso";3;2012
+"1716604";"Norte";"TO";"Peixe";1;2012
+"1716653";"Norte";"TO";"Pequizeiro";1;2012
+"1717206";"Norte";"TO";"Piraquê";1;2012
+"1718204";"Norte";"TO";"Porto Nacional";10;2012
+"1718303";"Norte";"TO";"Praia Norte";1;2012
+"1718501";"Norte";"TO";"Recursolândia";1;2012
+"1718881";"Norte";"TO";"Santa Maria do Tocantins";1;2012
+"1719004";"Norte";"TO";"Santa Tereza do Tocantins";1;2012
+"1720499";"Norte";"TO";"São Valério";1;2012
+"1720804";"Norte";"TO";"Sítio Novo do Tocantins";1;2012
+"1720903";"Norte";"TO";"Taguatinga";1;2012
+"1720937";"Norte";"TO";"Taipas do Tocantins";1;2012
+"1721000";"Norte";"TO";"Palmas";113;2012
+"1721109";"Norte";"TO";"Tocantínia";1;2012
+"1721208";"Norte";"TO";"Tocantinópolis";1;2012
+"2100055";"Nordeste";"MA";"Açailândia";2;2012
+"2100204";"Nordeste";"MA";"Alcântara";3;2012
+"2100402";"Nordeste";"MA";"Altamira do Maranhão";1;2012
+"2100436";"Nordeste";"MA";"Alto Alegre do Maranhão";2;2012
+"2100477";"Nordeste";"MA";"Alto Alegre do Pindaré";5;2012
+"2100501";"Nordeste";"MA";"Alto Parnaíba";2;2012
+"2100600";"Nordeste";"MA";"Amarante do Maranhão";4;2012
+"2100709";"Nordeste";"MA";"Anajatuba";1;2012
+"2100808";"Nordeste";"MA";"Anapurus";1;2012
+"2100832";"Nordeste";"MA";"Apicum-Açu";2;2012
+"2100956";"Nordeste";"MA";"Arame";8;2012
+"2101004";"Nordeste";"MA";"Arari";2;2012
+"2101202";"Nordeste";"MA";"Bacabal";21;2012
+"2101251";"Nordeste";"MA";"Bacabeira";2;2012
+"2101400";"Nordeste";"MA";"Balsas";13;2012
+"2101608";"Nordeste";"MA";"Barra do Corda";26;2012
+"2101707";"Nordeste";"MA";"Barreirinhas";13;2012
+"2101731";"Nordeste";"MA";"Belágua";2;2012
+"2101905";"Nordeste";"MA";"Bequimão";1;2012
+"2102002";"Nordeste";"MA";"Bom Jardim";3;2012
+"2102036";"Nordeste";"MA";"Bom Jesus das Selvas";1;2012
+"2102101";"Nordeste";"MA";"Brejo";1;2012
+"2102200";"Nordeste";"MA";"Buriti";5;2012
+"2102309";"Nordeste";"MA";"Buriti Bravo";2;2012
+"2102325";"Nordeste";"MA";"Buriticupu";4;2012
+"2102408";"Nordeste";"MA";"Cajapió";1;2012
+"2102507";"Nordeste";"MA";"Cajari";1;2012
+"2102705";"Nordeste";"MA";"Cantanhede";4;2012
+"2102804";"Nordeste";"MA";"Carolina";1;2012
+"2102903";"Nordeste";"MA";"Carutapera";5;2012
+"2103000";"Nordeste";"MA";"Caxias";153;2012
+"2103158";"Nordeste";"MA";"Centro do Guilherme";1;2012
+"2103208";"Nordeste";"MA";"Chapadinha";37;2012
+"2103307";"Nordeste";"MA";"Codó";13;2012
+"2103406";"Nordeste";"MA";"Coelho Neto";10;2012
+"2103505";"Nordeste";"MA";"Colinas";4;2012
+"2103604";"Nordeste";"MA";"Coroatá";25;2012
+"2103703";"Nordeste";"MA";"Cururupu";22;2012
+"2104008";"Nordeste";"MA";"Esperantinópolis";4;2012
+"2104057";"Nordeste";"MA";"Estreito";2;2012
+"2104081";"Nordeste";"MA";"Fernando Falcão";1;2012
+"2104552";"Nordeste";"MA";"Governador Edison Lobão";1;2012
+"2104651";"Nordeste";"MA";"Governador Newton Bello";1;2012
+"2104677";"Nordeste";"MA";"Governador Nunes Freire";38;2012
+"2104800";"Nordeste";"MA";"Grajaú";10;2012
+"2104909";"Nordeste";"MA";"Guimarães";1;2012
+"2105005";"Nordeste";"MA";"Humberto de Campos";1;2012
+"2105104";"Nordeste";"MA";"Icatu";2;2012
+"2105153";"Nordeste";"MA";"Igarapé do Meio";1;2012
+"2105203";"Nordeste";"MA";"Igarapé Grande";1;2012
+"2105302";"Nordeste";"MA";"Imperatriz";272;2012
+"2105351";"Nordeste";"MA";"Itaipava do Grajaú";1;2012
+"2105401";"Nordeste";"MA";"Itapecuru Mirim";3;2012
+"2105476";"Nordeste";"MA";"Jenipapo dos Vieiras";3;2012
+"2105609";"Nordeste";"MA";"Joselândia";1;2012
+"2105708";"Nordeste";"MA";"Lago da Pedra";12;2012
+"2105948";"Nordeste";"MA";"Lago dos Rodrigues";2;2012
+"2106102";"Nordeste";"MA";"Loreto";2;2012
+"2106201";"Nordeste";"MA";"Luís Domingues";2;2012
+"2106300";"Nordeste";"MA";"Magalhães de Almeida";1;2012
+"2106326";"Nordeste";"MA";"Maracaçumé";1;2012
+"2106359";"Nordeste";"MA";"Marajá do Sena";2;2012
+"2106375";"Nordeste";"MA";"Maranhãozinho";2;2012
+"2106607";"Nordeste";"MA";"Matões";1;2012
+"2106706";"Nordeste";"MA";"Mirador";1;2012
+"2106755";"Nordeste";"MA";"Miranda do Norte";2;2012
+"2106805";"Nordeste";"MA";"Mirinzal";1;2012
+"2106904";"Nordeste";"MA";"Monção";7;2012
+"2107100";"Nordeste";"MA";"Morros";2;2012
+"2107209";"Nordeste";"MA";"Nina Rodrigues";4;2012
+"2107357";"Nordeste";"MA";"Nova Olinda do Maranhão";1;2012
+"2107407";"Nordeste";"MA";"Olho d'Água das Cunhãs";3;2012
+"2107506";"Nordeste";"MA";"Paço do Lumiar";2;2012
+"2107704";"Nordeste";"MA";"Paraibano";2;2012
+"2107803";"Nordeste";"MA";"Parnarama";1;2012
+"2108108";"Nordeste";"MA";"Paulo Ramos";3;2012
+"2108207";"Nordeste";"MA";"Pedreiras";5;2012
+"2108306";"Nordeste";"MA";"Penalva";9;2012
+"2108454";"Nordeste";"MA";"Peritoró";4;2012
+"2108603";"Nordeste";"MA";"Pinheiro";54;2012
+"2108801";"Nordeste";"MA";"Pirapemas";4;2012
+"2109007";"Nordeste";"MA";"Porto Franco";4;2012
+"2109106";"Nordeste";"MA";"Presidente Dutra";18;2012
+"2109403";"Nordeste";"MA";"Primeira Cruz";1;2012
+"2109502";"Nordeste";"MA";"Riachão";3;2012
+"2109700";"Nordeste";"MA";"Sambaíba";1;2012
+"2109809";"Nordeste";"MA";"Santa Helena";2;2012
+"2109908";"Nordeste";"MA";"Santa Inês";38;2012
+"2110005";"Nordeste";"MA";"Santa Luzia";13;2012
+"2110104";"Nordeste";"MA";"Santa Quitéria do Maranhão";2;2012
+"2110203";"Nordeste";"MA";"Santa Rita";4;2012
+"2110500";"Nordeste";"MA";"São Bento";4;2012
+"2110609";"Nordeste";"MA";"São Bernardo";6;2012
+"2110708";"Nordeste";"MA";"São Domingos do Maranhão";3;2012
+"2110856";"Nordeste";"MA";"São Francisco do Brejão";1;2012
+"2111029";"Nordeste";"MA";"São João do Carú";3;2012
+"2111102";"Nordeste";"MA";"São João dos Patos";3;2012
+"2111201";"Nordeste";"MA";"São José de Ribamar";11;2012
+"2111300";"Nordeste";"MA";"São Luís";564;2012
+"2111508";"Nordeste";"MA";"São Mateus do Maranhão";10;2012
+"2111532";"Nordeste";"MA";"São Pedro da Água Branca";1;2012
+"2111607";"Nordeste";"MA";"São Raimundo das Mangabeiras";1;2012
+"2111631";"Nordeste";"MA";"São Raimundo do Doca Bezerra";1;2012
+"2111706";"Nordeste";"MA";"São Vicente Ferrer";1;2012
+"2111748";"Nordeste";"MA";"Senador Alexandre Costa";2;2012
+"2111805";"Nordeste";"MA";"Sítio Novo";1;2012
+"2111953";"Nordeste";"MA";"Sucupira do Riachão";1;2012
+"2112209";"Nordeste";"MA";"Timon";11;2012
+"2112308";"Nordeste";"MA";"Tuntum";2;2012
+"2112407";"Nordeste";"MA";"Turiaçu";5;2012
+"2112506";"Nordeste";"MA";"Tutóia";1;2012
+"2112605";"Nordeste";"MA";"Urbano Santos";4;2012
+"2112704";"Nordeste";"MA";"Vargem Grande";14;2012
+"2112803";"Nordeste";"MA";"Viana";4;2012
+"2112902";"Nordeste";"MA";"Vitória do Mearim";7;2012
+"2113009";"Nordeste";"MA";"Vitorino Freire";2;2012
+"2114007";"Nordeste";"MA";"Zé Doca";9;2012
+"2200202";"Nordeste";"PI";"Água Branca";2;2012
+"2200459";"Nordeste";"PI";"Alvorada do Gurguéia";1;2012
+"2200509";"Nordeste";"PI";"Amarante";3;2012
+"2200707";"Nordeste";"PI";"Anísio de Abreu";1;2012
+"2200806";"Nordeste";"PI";"Antônio Almeida";1;2012
+"2201101";"Nordeste";"PI";"Avelino Lopes";1;2012
+"2201200";"Nordeste";"PI";"Barras";3;2012
+"2201309";"Nordeste";"PI";"Barreiras do Piauí";1;2012
+"2201408";"Nordeste";"PI";"Barro Duro";1;2012
+"2201507";"Nordeste";"PI";"Batalha";3;2012
+"2201556";"Nordeste";"PI";"Bela Vista do Piauí";1;2012
+"2201606";"Nordeste";"PI";"Beneditinos";2;2012
+"2201739";"Nordeste";"PI";"Betânia do Piauí";1;2012
+"2201903";"Nordeste";"PI";"Bom Jesus";11;2012
+"2201960";"Nordeste";"PI";"Brasileira";1;2012
+"2202117";"Nordeste";"PI";"Campo Alegre do Fidalgo";1;2012
+"2202174";"Nordeste";"PI";"Campo Largo do Piauí";1;2012
+"2202208";"Nordeste";"PI";"Campo Maior";2;2012
+"2202307";"Nordeste";"PI";"Canto do Buriti";3;2012
+"2202406";"Nordeste";"PI";"Capitão de Campos";1;2012
+"2202505";"Nordeste";"PI";"Caracol";1;2012
+"2202703";"Nordeste";"PI";"Cocal";1;2012
+"2202752";"Nordeste";"PI";"Colônia do Gurguéia";1;2012
+"2202901";"Nordeste";"PI";"Corrente";5;2012
+"2203107";"Nordeste";"PI";"Cristino Castro";1;2012
+"2203206";"Nordeste";"PI";"Curimatá";2;2012
+"2203271";"Nordeste";"PI";"Curral Novo do Piauí";1;2012
+"2203305";"Nordeste";"PI";"Demerval Lobão";1;2012
+"2203503";"Nordeste";"PI";"Elesbão Veloso";1;2012
+"2203602";"Nordeste";"PI";"Eliseu Martins";2;2012
+"2203701";"Nordeste";"PI";"Esperantina";6;2012
+"2203750";"Nordeste";"PI";"Fartura do Piauí";1;2012
+"2203909";"Nordeste";"PI";"Floriano";8;2012
+"2204303";"Nordeste";"PI";"Fronteiras";2;2012
+"2204402";"Nordeste";"PI";"Gilbués";2;2012
+"2204659";"Nordeste";"PI";"Ilha Grande";2;2012
+"2204808";"Nordeste";"PI";"Ipiranga do Piauí";1;2012
+"2204907";"Nordeste";"PI";"Isaías Coelho";2;2012
+"2205102";"Nordeste";"PI";"Itaueira";3;2012
+"2205201";"Nordeste";"PI";"Jaicós";1;2012
+"2205409";"Nordeste";"PI";"Joaquim Pires";1;2012
+"2205516";"Nordeste";"PI";"Juazeiro do Piauí";1;2012
+"2205706";"Nordeste";"PI";"Luís Correia";1;2012
+"2205805";"Nordeste";"PI";"Luzilândia";3;2012
+"2205953";"Nordeste";"PI";"Marcolândia";2;2012
+"2206654";"Nordeste";"PI";"Morro Cabeça no Tempo";1;2012
+"2206902";"Nordeste";"PI";"Novo Oriente do Piauí";1;2012
+"2207009";"Nordeste";"PI";"Oeiras";5;2012
+"2207306";"Nordeste";"PI";"Paes Landim";1;2012
+"2207603";"Nordeste";"PI";"Parnaguá";2;2012
+"2207702";"Nordeste";"PI";"Parnaíba";68;2012
+"2207777";"Nordeste";"PI";"Patos do Piauí";1;2012
+"2207801";"Nordeste";"PI";"Paulistana";8;2012
+"2207850";"Nordeste";"PI";"Pavussu";1;2012
+"2207900";"Nordeste";"PI";"Pedro II";5;2012
+"2208007";"Nordeste";"PI";"Picos";71;2012
+"2208106";"Nordeste";"PI";"Pimenteiras";1;2012
+"2208304";"Nordeste";"PI";"Piracuruca";5;2012
+"2208403";"Nordeste";"PI";"Piripiri";6;2012
+"2208502";"Nordeste";"PI";"Porto";2;2012
+"2208650";"Nordeste";"PI";"Queimada Nova";1;2012
+"2208700";"Nordeste";"PI";"Redenção do Gurguéia";1;2012
+"2208858";"Nordeste";"PI";"Riacho Frio";1;2012
+"2209757";"Nordeste";"PI";"São Gonçalo do Gurguéia";1;2012
+"2209971";"Nordeste";"PI";"São João do Arraial";1;2012
+"2210003";"Nordeste";"PI";"São João do Piauí";6;2012
+"2210409";"Nordeste";"PI";"São Miguel do Tapuio";2;2012
+"2210607";"Nordeste";"PI";"São Raimundo Nonato";13;2012
+"2210656";"Nordeste";"PI";"Sigefredo Pacheco";1;2012
+"2210706";"Nordeste";"PI";"Simões";4;2012
+"2210805";"Nordeste";"PI";"Simplício Mendes";1;2012
+"2211001";"Nordeste";"PI";"Teresina";568;2012
+"2211100";"Nordeste";"PI";"União";1;2012
+"2211209";"Nordeste";"PI";"Uruçuí";4;2012
+"2211308";"Nordeste";"PI";"Valença do Piauí";3;2012
+"2211357";"Nordeste";"PI";"Várzea Branca";1;2012
+"2211407";"Nordeste";"PI";"Várzea Grande";1;2012
+"2300200";"Nordeste";"CE";"Acaraú";3;2012
+"2300309";"Nordeste";"CE";"Acopiara";3;2012
+"2300408";"Nordeste";"CE";"Aiuaba";1;2012
+"2300804";"Nordeste";"CE";"Antonina do Norte";1;2012
+"2301000";"Nordeste";"CE";"Aquiraz";1;2012
+"2301109";"Nordeste";"CE";"Aracati";8;2012
+"2301257";"Nordeste";"CE";"Ararendá";1;2012
+"2301307";"Nordeste";"CE";"Araripe";3;2012
+"2301703";"Nordeste";"CE";"Aurora";1;2012
+"2301901";"Nordeste";"CE";"Barbalha";83;2012
+"2302107";"Nordeste";"CE";"Baturité";7;2012
+"2302206";"Nordeste";"CE";"Beberibe";1;2012
+"2302305";"Nordeste";"CE";"Bela Cruz";1;2012
+"2302404";"Nordeste";"CE";"Boa Viagem";5;2012
+"2302503";"Nordeste";"CE";"Brejo Santo";8;2012
+"2302602";"Nordeste";"CE";"Camocim";4;2012
+"2302701";"Nordeste";"CE";"Campos Sales";1;2012
+"2302800";"Nordeste";"CE";"Canindé";12;2012
+"2303402";"Nordeste";"CE";"Carnaubal";1;2012
+"2303501";"Nordeste";"CE";"Cascavel";3;2012
+"2303600";"Nordeste";"CE";"Catarina";1;2012
+"2303709";"Nordeste";"CE";"Caucaia";8;2012
+"2303907";"Nordeste";"CE";"Chaval";1;2012
+"2303956";"Nordeste";"CE";"Chorozinho";1;2012
+"2304103";"Nordeste";"CE";"Crateús";38;2012
+"2304202";"Nordeste";"CE";"Crato";29;2012
+"2304285";"Nordeste";"CE";"Eusébio";1;2012
+"2304301";"Nordeste";"CE";"Farias Brito";2;2012
+"2304350";"Nordeste";"CE";"Forquilha";1;2012
+"2304400";"Nordeste";"CE";"Fortaleza";870;2012
+"2304509";"Nordeste";"CE";"Frecheirinha";1;2012
+"2304707";"Nordeste";"CE";"Granja";2;2012
+"2305001";"Nordeste";"CE";"Guaraciaba do Norte";3;2012
+"2305233";"Nordeste";"CE";"Horizonte";1;2012
+"2305407";"Nordeste";"CE";"Icó";6;2012
+"2305506";"Nordeste";"CE";"Iguatu";21;2012
+"2305654";"Nordeste";"CE";"Ipaporanga";1;2012
+"2305704";"Nordeste";"CE";"Ipaumirim";1;2012
+"2305803";"Nordeste";"CE";"Ipu";4;2012
+"2305902";"Nordeste";"CE";"Ipueiras";2;2012
+"2306256";"Nordeste";"CE";"Itaitinga";2;2012
+"2306306";"Nordeste";"CE";"Itapagé";1;2012
+"2306405";"Nordeste";"CE";"Itapipoca";37;2012
+"2306553";"Nordeste";"CE";"Itarema";1;2012
+"2306603";"Nordeste";"CE";"Itatira";1;2012
+"2306900";"Nordeste";"CE";"Jaguaribe";4;2012
+"2307007";"Nordeste";"CE";"Jaguaruana";2;2012
+"2307304";"Nordeste";"CE";"Juazeiro do Norte";88;2012
+"2307403";"Nordeste";"CE";"Jucás";1;2012
+"2307502";"Nordeste";"CE";"Lavras da Mangabeira";1;2012
+"2307601";"Nordeste";"CE";"Limoeiro do Norte";4;2012
+"2307650";"Nordeste";"CE";"Maracanaú";11;2012
+"2307700";"Nordeste";"CE";"Maranguape";5;2012
+"2307809";"Nordeste";"CE";"Marco";1;2012
+"2308005";"Nordeste";"CE";"Massapê";1;2012
+"2308104";"Nordeste";"CE";"Mauriti";4;2012
+"2308401";"Nordeste";"CE";"Missão Velha";1;2012
+"2308500";"Nordeste";"CE";"Mombaça";2;2012
+"2308609";"Nordeste";"CE";"Monsenhor Tabosa";1;2012
+"2308708";"Nordeste";"CE";"Morada Nova";1;2012
+"2308807";"Nordeste";"CE";"Moraújo";4;2012
+"2308906";"Nordeste";"CE";"Morrinhos";2;2012
+"2309300";"Nordeste";"CE";"Nova Russas";1;2012
+"2309508";"Nordeste";"CE";"Orós";2;2012
+"2309607";"Nordeste";"CE";"Pacajus";1;2012
+"2309706";"Nordeste";"CE";"Pacatuba";2;2012
+"2310209";"Nordeste";"CE";"Paracuru";1;2012
+"2310308";"Nordeste";"CE";"Parambu";1;2012
+"2310506";"Nordeste";"CE";"Pedra Branca";3;2012
+"2310704";"Nordeste";"CE";"Pentecoste";1;2012
+"2310803";"Nordeste";"CE";"Pereiro";1;2012
+"2310852";"Nordeste";"CE";"Pindoretama";1;2012
+"2311009";"Nordeste";"CE";"Poranga";1;2012
+"2311207";"Nordeste";"CE";"Potengi";1;2012
+"2311264";"Nordeste";"CE";"Quiterianópolis";2;2012
+"2311306";"Nordeste";"CE";"Quixadá";20;2012
+"2311355";"Nordeste";"CE";"Quixelô";1;2012
+"2311405";"Nordeste";"CE";"Quixeramobim";3;2012
+"2311603";"Nordeste";"CE";"Redenção";1;2012
+"2311801";"Nordeste";"CE";"Russas";4;2012
+"2311900";"Nordeste";"CE";"Saboeiro";2;2012
+"2311959";"Nordeste";"CE";"Salitre";1;2012
+"2312007";"Nordeste";"CE";"Santana do Acaraú";2;2012
+"2312205";"Nordeste";"CE";"Santa Quitéria";1;2012
+"2312304";"Nordeste";"CE";"São Benedito";4;2012
+"2312601";"Nordeste";"CE";"São Luís do Curu";1;2012
+"2312700";"Nordeste";"CE";"Senador Pompeu";1;2012
+"2312908";"Nordeste";"CE";"Sobral";204;2012
+"2313005";"Nordeste";"CE";"Solonópole";1;2012
+"2313203";"Nordeste";"CE";"Tamboril";1;2012
+"2313302";"Nordeste";"CE";"Tauá";6;2012
+"2313351";"Nordeste";"CE";"Tejuçuoca";2;2012
+"2313401";"Nordeste";"CE";"Tianguá";14;2012
+"2313500";"Nordeste";"CE";"Trairi";2;2012
+"2313609";"Nordeste";"CE";"Ubajara";3;2012
+"2313955";"Nordeste";"CE";"Varjota";1;2012
+"2314003";"Nordeste";"CE";"Várzea Alegre";1;2012
+"2314102";"Nordeste";"CE";"Viçosa do Ceará";6;2012
+"2400208";"Nordeste";"RN";"Açu";3;2012
+"2400604";"Nordeste";"RN";"Almino Afonso";1;2012
+"2401107";"Nordeste";"RN";"Areia Branca";1;2012
+"2401206";"Nordeste";"RN";"Arês";2;2012
+"2401453";"Nordeste";"RN";"Baraúna";1;2012
+"2402006";"Nordeste";"RN";"Caicó";4;2012
+"2402204";"Nordeste";"RN";"Canguaretama";2;2012
+"2402303";"Nordeste";"RN";"Caraúbas";1;2012
+"2402600";"Nordeste";"RN";"Ceará-Mirim";1;2012
+"2403103";"Nordeste";"RN";"Currais Novos";27;2012
+"2403202";"Nordeste";"RN";"Doutor Severiano";1;2012
+"2403251";"Nordeste";"RN";"Parnamirim";55;2012
+"2404200";"Nordeste";"RN";"Goianinha";2;2012
+"2404853";"Nordeste";"RN";"Itajá";1;2012
+"2404903";"Nordeste";"RN";"Itaú";1;2012
+"2405009";"Nordeste";"RN";"Jaçanã";2;2012
+"2405306";"Nordeste";"RN";"Januário Cicco";1;2012
+"2406106";"Nordeste";"RN";"Jucurutu";1;2012
+"2406700";"Nordeste";"RN";"Lajes";1;2012
+"2407104";"Nordeste";"RN";"Macaíba";2;2012
+"2407203";"Nordeste";"RN";"Macau";1;2012
+"2407401";"Nordeste";"RN";"Martins";1;2012
+"2407708";"Nordeste";"RN";"Montanhas";1;2012
+"2407807";"Nordeste";"RN";"Monte Alegre";1;2012
+"2408003";"Nordeste";"RN";"Mossoró";107;2012
+"2408102";"Nordeste";"RN";"Natal";395;2012
+"2408300";"Nordeste";"RN";"Nova Cruz";1;2012
+"2408904";"Nordeste";"RN";"Parelhas";4;2012
+"2409308";"Nordeste";"RN";"Patu";1;2012
+"2409407";"Nordeste";"RN";"Pau dos Ferros";11;2012
+"2409803";"Nordeste";"RN";"Pedro Velho";1;2012
+"2410306";"Nordeste";"RN";"Serra Caiada";1;2012
+"2411205";"Nordeste";"RN";"Santa Cruz";6;2012
+"2411403";"Nordeste";"RN";"Santana do Matos";1;2012
+"2411502";"Nordeste";"RN";"Santo Antônio";1;2012
+"2412005";"Nordeste";"RN";"São Gonçalo do Amarante";1;2012
+"2412203";"Nordeste";"RN";"São José de Mipibu";4;2012
+"2412609";"Nordeste";"RN";"São Paulo do Potengi";1;2012
+"2413409";"Nordeste";"RN";"Serra Negra do Norte";1;2012
+"2413904";"Nordeste";"RN";"Taipu";1;2012
+"2414001";"Nordeste";"RN";"Tangará";1;2012
+"2414407";"Nordeste";"RN";"Touros";1;2012
+"2414605";"Nordeste";"RN";"Upanema";1;2012
+"2500304";"Nordeste";"PB";"Alagoa Grande";4;2012
+"2501005";"Nordeste";"PB";"Araruna";1;2012
+"2501807";"Nordeste";"PB";"Bayeux";1;2012
+"2502201";"Nordeste";"PB";"Bom Jesus";1;2012
+"2502409";"Nordeste";"PB";"Bonito de Santa Fé";1;2012
+"2502508";"Nordeste";"PB";"Boqueirão";1;2012
+"2503209";"Nordeste";"PB";"Cabedelo";1;2012
+"2503506";"Nordeste";"PB";"Cacimba de Dentro";2;2012
+"2503704";"Nordeste";"PB";"Cajazeiras";12;2012
+"2504009";"Nordeste";"PB";"Campina Grande";269;2012
+"2504306";"Nordeste";"PB";"Catolé do Rocha";4;2012
+"2504405";"Nordeste";"PB";"Conceição";1;2012
+"2504603";"Nordeste";"PB";"Conde";1;2012
+"2504801";"Nordeste";"PB";"Coremas";1;2012
+"2504900";"Nordeste";"PB";"Cruz do Espírito Santo";2;2012
+"2505105";"Nordeste";"PB";"Cuité";2;2012
+"2506103";"Nordeste";"PB";"Fagundes";2;2012
+"2506301";"Nordeste";"PB";"Guarabira";8;2012
+"2506707";"Nordeste";"PB";"Imaculada";1;2012
+"2506806";"Nordeste";"PB";"Ingá";1;2012
+"2506905";"Nordeste";"PB";"Itabaiana";1;2012
+"2507101";"Nordeste";"PB";"Itapororoca";1;2012
+"2507200";"Nordeste";"PB";"Itatuba";1;2012
+"2507507";"Nordeste";"PB";"João Pessoa";362;2012
+"2507606";"Nordeste";"PB";"Juarez Távora";1;2012
+"2507705";"Nordeste";"PB";"Juazeirinho";3;2012
+"2507903";"Nordeste";"PB";"Juripiranga";2;2012
+"2508901";"Nordeste";"PB";"Mamanguape";3;2012
+"2509206";"Nordeste";"PB";"Massaranduba";1;2012
+"2509701";"Nordeste";"PB";"Monteiro";2;2012
+"2509909";"Nordeste";"PB";"Natuba";1;2012
+"2510808";"Nordeste";"PB";"Patos";68;2012
+"2511301";"Nordeste";"PB";"Piancó";1;2012
+"2511400";"Nordeste";"PB";"Picuí";2;2012
+"2512002";"Nordeste";"PB";"Pocinhos";1;2012
+"2512101";"Nordeste";"PB";"Pombal";1;2012
+"2512309";"Nordeste";"PB";"Princesa Isabel";2;2012
+"2512804";"Nordeste";"PB";"Riacho dos Cavalos";1;2012
+"2512903";"Nordeste";"PB";"Rio Tinto";1;2012
+"2513703";"Nordeste";"PB";"Santa Rita";8;2012
+"2513901";"Nordeste";"PB";"São Bento";1;2012
+"2514008";"Nordeste";"PB";"São João do Cariri";1;2012
+"2514107";"Nordeste";"PB";"São João do Tigre";1;2012
+"2514305";"Nordeste";"PB";"São José de Caiana";2;2012
+"2514503";"Nordeste";"PB";"São José de Piranhas";1;2012
+"2515005";"Nordeste";"PB";"São Miguel de Taipu";1;2012
+"2515401";"Nordeste";"PB";"São Vicente do Seridó";1;2012
+"2515500";"Nordeste";"PB";"Serra Branca";1;2012
+"2515708";"Nordeste";"PB";"Serra Grande";2;2012
+"2516003";"Nordeste";"PB";"Solânea";1;2012
+"2516201";"Nordeste";"PB";"Sousa";6;2012
+"2516300";"Nordeste";"PB";"Sumé";2;2012
+"2516508";"Nordeste";"PB";"Taperoá";2;2012
+"2516607";"Nordeste";"PB";"Tavares";1;2012
+"2516706";"Nordeste";"PB";"Teixeira";2;2012
+"2516904";"Nordeste";"PB";"Uiraúna";1;2012
+"2600104";"Nordeste";"PE";"Afogados da Ingazeira";10;2012
+"2600203";"Nordeste";"PE";"Afrânio";1;2012
+"2600500";"Nordeste";"PE";"Águas Belas";6;2012
+"2601003";"Nordeste";"PE";"Angelim";1;2012
+"2601052";"Nordeste";"PE";"Araçoiaba";1;2012
+"2601102";"Nordeste";"PE";"Araripina";17;2012
+"2601201";"Nordeste";"PE";"Arcoverde";31;2012
+"2601409";"Nordeste";"PE";"Barreiros";2;2012
+"2601706";"Nordeste";"PE";"Belo Jardim";5;2012
+"2601805";"Nordeste";"PE";"Betânia";1;2012
+"2602001";"Nordeste";"PE";"Bodocó";1;2012
+"2602100";"Nordeste";"PE";"Bom Conselho";1;2012
+"2602308";"Nordeste";"PE";"Bonito";3;2012
+"2602407";"Nordeste";"PE";"Brejão";1;2012
+"2602605";"Nordeste";"PE";"Brejo da Madre de Deus";1;2012
+"2602704";"Nordeste";"PE";"Buenos Aires";1;2012
+"2602803";"Nordeste";"PE";"Buíque";4;2012
+"2602902";"Nordeste";"PE";"Cabo de Santo Agostinho";10;2012
+"2603108";"Nordeste";"PE";"Cachoeirinha";1;2012
+"2603454";"Nordeste";"PE";"Camaragibe";2;2012
+"2603702";"Nordeste";"PE";"Canhotinho";1;2012
+"2603900";"Nordeste";"PE";"Carnaíba";1;2012
+"2603926";"Nordeste";"PE";"Carnaubeira da Penha";1;2012
+"2604007";"Nordeste";"PE";"Carpina";1;2012
+"2604106";"Nordeste";"PE";"Caruaru";139;2012
+"2604304";"Nordeste";"PE";"Cedro";2;2012
+"2604502";"Nordeste";"PE";"Chã Grande";3;2012
+"2604601";"Nordeste";"PE";"Condado";1;2012
+"2604700";"Nordeste";"PE";"Correntes";1;2012
+"2605004";"Nordeste";"PE";"Cupira";1;2012
+"2605103";"Nordeste";"PE";"Custódia";1;2012
+"2605152";"Nordeste";"PE";"Dormentes";1;2012
+"2605202";"Nordeste";"PE";"Escada";2;2012
+"2605301";"Nordeste";"PE";"Exu";3;2012
+"2605707";"Nordeste";"PE";"Floresta";7;2012
+"2605905";"Nordeste";"PE";"Gameleira";1;2012
+"2606002";"Nordeste";"PE";"Garanhuns";50;2012
+"2606200";"Nordeste";"PE";"Goiana";2;2012
+"2606408";"Nordeste";"PE";"Gravatá";2;2012
+"2606507";"Nordeste";"PE";"Iati";1;2012
+"2606606";"Nordeste";"PE";"Ibimirim";9;2012
+"2606804";"Nordeste";"PE";"Igarassu";1;2012
+"2607000";"Nordeste";"PE";"Inajá";3;2012
+"2607208";"Nordeste";"PE";"Ipojuca";5;2012
+"2607307";"Nordeste";"PE";"Ipubi";2;2012
+"2607505";"Nordeste";"PE";"Itaíba";5;2012
+"2607604";"Nordeste";"PE";"Ilha de Itamaracá";1;2012
+"2607703";"Nordeste";"PE";"Itapetim";1;2012
+"2607901";"Nordeste";"PE";"Jaboatão dos Guararapes";87;2012
+"2608057";"Nordeste";"PE";"Jatobá";1;2012
+"2608107";"Nordeste";"PE";"João Alfredo";1;2012
+"2608255";"Nordeste";"PE";"Jucati";1;2012
+"2608305";"Nordeste";"PE";"Jupi";1;2012
+"2608503";"Nordeste";"PE";"Lagoa de Itaenga";2;2012
+"2608602";"Nordeste";"PE";"Lagoa do Ouro";1;2012
+"2608750";"Nordeste";"PE";"Lagoa Grande";3;2012
+"2608800";"Nordeste";"PE";"Lajedo";1;2012
+"2608909";"Nordeste";"PE";"Limoeiro";7;2012
+"2609006";"Nordeste";"PE";"Macaparana";2;2012
+"2609105";"Nordeste";"PE";"Machados";1;2012
+"2609154";"Nordeste";"PE";"Manari";2;2012
+"2609204";"Nordeste";"PE";"Maraial";1;2012
+"2609303";"Nordeste";"PE";"Mirandiba";2;2012
+"2609402";"Nordeste";"PE";"Moreno";4;2012
+"2609501";"Nordeste";"PE";"Nazaré da Mata";6;2012
+"2609600";"Nordeste";"PE";"Olinda";18;2012
+"2609808";"Nordeste";"PE";"Orocó";1;2012
+"2609907";"Nordeste";"PE";"Ouricuri";31;2012
+"2610004";"Nordeste";"PE";"Palmares";36;2012
+"2610103";"Nordeste";"PE";"Palmeirina";1;2012
+"2610202";"Nordeste";"PE";"Panelas";3;2012
+"2610400";"Nordeste";"PE";"Parnamirim";1;2012
+"2610509";"Nordeste";"PE";"Passira";1;2012
+"2610608";"Nordeste";"PE";"Paudalho";4;2012
+"2610707";"Nordeste";"PE";"Paulista";5;2012
+"2610806";"Nordeste";"PE";"Pedra";1;2012
+"2610905";"Nordeste";"PE";"Pesqueira";5;2012
+"2611002";"Nordeste";"PE";"Petrolândia";8;2012
+"2611101";"Nordeste";"PE";"Petrolina";318;2012
+"2611200";"Nordeste";"PE";"Poção";1;2012
+"2611606";"Nordeste";"PE";"Recife";1143;2012
+"2611804";"Nordeste";"PE";"Ribeirão";1;2012
+"2611903";"Nordeste";"PE";"Rio Formoso";1;2012
+"2612109";"Nordeste";"PE";"Salgadinho";1;2012
+"2612208";"Nordeste";"PE";"Salgueiro";37;2012
+"2612406";"Nordeste";"PE";"Sanharó";1;2012
+"2612455";"Nordeste";"PE";"Santa Cruz";1;2012
+"2612471";"Nordeste";"PE";"Santa Cruz da Baixa Verde";1;2012
+"2612505";"Nordeste";"PE";"Santa Cruz do Capibaribe";4;2012
+"2612604";"Nordeste";"PE";"Santa Maria da Boa Vista";5;2012
+"2613107";"Nordeste";"PE";"São Caitano";2;2012
+"2613404";"Nordeste";"PE";"São José da Coroa Grande";1;2012
+"2613503";"Nordeste";"PE";"São José do Belmonte";3;2012
+"2613602";"Nordeste";"PE";"São José do Egito";1;2012
+"2613701";"Nordeste";"PE";"São Lourenço da Mata";5;2012
+"2613909";"Nordeste";"PE";"Serra Talhada";36;2012
+"2614105";"Nordeste";"PE";"Sertânia";2;2012
+"2614501";"Nordeste";"PE";"Surubim";1;2012
+"2614600";"Nordeste";"PE";"Tabira";1;2012
+"2614808";"Nordeste";"PE";"Tacaratu";1;2012
+"2614857";"Nordeste";"PE";"Tamandaré";3;2012
+"2615300";"Nordeste";"PE";"Timbaúba";3;2012
+"2615409";"Nordeste";"PE";"Toritama";1;2012
+"2615607";"Nordeste";"PE";"Trindade";1;2012
+"2615805";"Nordeste";"PE";"Tupanatinga";2;2012
+"2615904";"Nordeste";"PE";"Tuparetama";2;2012
+"2616001";"Nordeste";"PE";"Venturosa";1;2012
+"2616183";"Nordeste";"PE";"Vertente do Lério";1;2012
+"2616209";"Nordeste";"PE";"Vertentes";1;2012
+"2616308";"Nordeste";"PE";"Vicência";1;2012
+"2616407";"Nordeste";"PE";"Vitória de Santo Antão";16;2012
+"2616506";"Nordeste";"PE";"Xexéu";1;2012
+"2700300";"Nordeste";"AL";"Arapiraca";110;2012
+"2700409";"Nordeste";"AL";"Atalaia";1;2012
+"2700508";"Nordeste";"AL";"Barra de Santo Antônio";1;2012
+"2700706";"Nordeste";"AL";"Batalha";2;2012
+"2701001";"Nordeste";"AL";"Boca da Mata";2;2012
+"2701407";"Nordeste";"AL";"Campo Alegre";1;2012
+"2701605";"Nordeste";"AL";"Canapi";2;2012
+"2701704";"Nordeste";"AL";"Capela";1;2012
+"2701803";"Nordeste";"AL";"Carneiros";2;2012
+"2701902";"Nordeste";"AL";"Chã Preta";1;2012
+"2702108";"Nordeste";"AL";"Colônia Leopoldina";3;2012
+"2702306";"Nordeste";"AL";"Coruripe";4;2012
+"2702355";"Nordeste";"AL";"Craíbas";1;2012
+"2702405";"Nordeste";"AL";"Delmiro Gouveia";9;2012
+"2703007";"Nordeste";"AL";"Ibateguara";2;2012
+"2703106";"Nordeste";"AL";"Igaci";1;2012
+"2703205";"Nordeste";"AL";"Igreja Nova";2;2012
+"2703304";"Nordeste";"AL";"Inhapi";1;2012
+"2703809";"Nordeste";"AL";"Joaquim Gomes";3;2012
+"2704302";"Nordeste";"AL";"Maceió";495;2012
+"2704500";"Nordeste";"AL";"Maragogi";3;2012
+"2704708";"Nordeste";"AL";"Marechal Deodoro";1;2012
+"2704807";"Nordeste";"AL";"Maribondo";1;2012
+"2705200";"Nordeste";"AL";"Messias";1;2012
+"2705507";"Nordeste";"AL";"Murici";2;2012
+"2705606";"Nordeste";"AL";"Novo Lino";1;2012
+"2705705";"Nordeste";"AL";"Olho d'Água das Flores";1;2012
+"2706208";"Nordeste";"AL";"Palestina";1;2012
+"2706307";"Nordeste";"AL";"Palmeira dos Índios";32;2012
+"2706422";"Nordeste";"AL";"Pariconha";2;2012
+"2706448";"Nordeste";"AL";"Paripueira";1;2012
+"2706505";"Nordeste";"AL";"Passo de Camaragibe";2;2012
+"2706604";"Nordeste";"AL";"Paulo Jacinto";1;2012
+"2706703";"Nordeste";"AL";"Penedo";13;2012
+"2706901";"Nordeste";"AL";"Pilar";1;2012
+"2707107";"Nordeste";"AL";"Piranhas";2;2012
+"2707305";"Nordeste";"AL";"Porto Calvo";1;2012
+"2707404";"Nordeste";"AL";"Porto de Pedras";1;2012
+"2707701";"Nordeste";"AL";"Rio Largo";2;2012
+"2708006";"Nordeste";"AL";"Santana do Ipanema";39;2012
+"2708105";"Nordeste";"AL";"Santana do Mundaú";1;2012
+"2708402";"Nordeste";"AL";"São José da Tapera";4;2012
+"2708600";"Nordeste";"AL";"São Miguel dos Campos";17;2012
+"2708956";"Nordeste";"AL";"Senador Rui Palmeira";2;2012
+"2709103";"Nordeste";"AL";"Taquarana";1;2012
+"2709202";"Nordeste";"AL";"Traipu";1;2012
+"2709301";"Nordeste";"AL";"União dos Palmares";6;2012
+"2800308";"Nordeste";"SE";"Aracaju";484;2012
+"2800605";"Nordeste";"SE";"Barra dos Coqueiros";1;2012
+"2800670";"Nordeste";"SE";"Boquim";1;2012
+"2800704";"Nordeste";"SE";"Brejo Grande";1;2012
+"2801207";"Nordeste";"SE";"Canindé de São Francisco";3;2012
+"2801306";"Nordeste";"SE";"Capela";6;2012
+"2801504";"Nordeste";"SE";"Carmópolis";1;2012
+"2802106";"Nordeste";"SE";"Estância";19;2012
+"2802908";"Nordeste";"SE";"Itabaiana";26;2012
+"2803005";"Nordeste";"SE";"Itabaianinha";4;2012
+"2803401";"Nordeste";"SE";"Japoatã";1;2012
+"2803500";"Nordeste";"SE";"Lagarto";11;2012
+"2803609";"Nordeste";"SE";"Laranjeiras";1;2012
+"2804003";"Nordeste";"SE";"Maruim";1;2012
+"2804409";"Nordeste";"SE";"Neópolis";4;2012
+"2804508";"Nordeste";"SE";"Nossa Senhora da Glória";6;2012
+"2804805";"Nordeste";"SE";"Nossa Senhora do Socorro";4;2012
+"2804904";"Nordeste";"SE";"Pacatuba";2;2012
+"2805307";"Nordeste";"SE";"Pirambu";1;2012
+"2805406";"Nordeste";"SE";"Poço Redondo";2;2012
+"2805505";"Nordeste";"SE";"Poço Verde";2;2012
+"2805604";"Nordeste";"SE";"Porto da Folha";1;2012
+"2805703";"Nordeste";"SE";"Propriá";10;2012
+"2806701";"Nordeste";"SE";"São Cristóvão";1;2012
+"2807105";"Nordeste";"SE";"Simão Dias";3;2012
+"2807402";"Nordeste";"SE";"Tobias Barreto";3;2012
+"2807501";"Nordeste";"SE";"Tomar do Geru";1;2012
+"2807600";"Nordeste";"SE";"Umbaúba";1;2012
+NA;NA;NA;"Município ignorado - BA";2;2012
+"2900207";"Nordeste";"BA";"Abaré";2;2012
+"2900405";"Nordeste";"BA";"Água Fria";1;2012
+"2900702";"Nordeste";"BA";"Alagoinhas";50;2012
+"2900801";"Nordeste";"BA";"Alcobaça";1;2012
+"2901007";"Nordeste";"BA";"Amargosa";4;2012
+"2901106";"Nordeste";"BA";"Amélia Rodrigues";1;2012
+"2901304";"Nordeste";"BA";"Andaraí";2;2012
+"2901601";"Nordeste";"BA";"Antas";8;2012
+"2901908";"Nordeste";"BA";"Aporá";1;2012
+"2902104";"Nordeste";"BA";"Araci";8;2012
+"2902401";"Nordeste";"BA";"Aurelino Leal";1;2012
+"2902500";"Nordeste";"BA";"Baianópolis";1;2012
+"2902609";"Nordeste";"BA";"Baixa Grande";6;2012
+"2902658";"Nordeste";"BA";"Banzaê";1;2012
+"2902708";"Nordeste";"BA";"Barra";28;2012
+"2902807";"Nordeste";"BA";"Barra da Estiva";17;2012
+"2902906";"Nordeste";"BA";"Barra do Choça";9;2012
+"2903201";"Nordeste";"BA";"Barreiras";103;2012
+"2903409";"Nordeste";"BA";"Belmonte";5;2012
+"2903508";"Nordeste";"BA";"Belo Campo";2;2012
+"2903607";"Nordeste";"BA";"Biritinga";1;2012
+"2903706";"Nordeste";"BA";"Boa Nova";1;2012
+"2903904";"Nordeste";"BA";"Bom Jesus da Lapa";16;2012
+"2903953";"Nordeste";"BA";"Bom Jesus da Serra";2;2012
+"2904001";"Nordeste";"BA";"Boninal";1;2012
+"2904100";"Nordeste";"BA";"Boquira";5;2012
+"2904308";"Nordeste";"BA";"Brejões";2;2012
+"2904407";"Nordeste";"BA";"Brejolândia";1;2012
+"2904506";"Nordeste";"BA";"Brotas de Macaúbas";1;2012
+"2904605";"Nordeste";"BA";"Brumado";21;2012
+"2904902";"Nordeste";"BA";"Cachoeira";3;2012
+"2905008";"Nordeste";"BA";"Caculé";2;2012
+"2905107";"Nordeste";"BA";"Caém";1;2012
+"2905206";"Nordeste";"BA";"Caetité";10;2012
+"2905404";"Nordeste";"BA";"Cairu";1;2012
+"2905602";"Nordeste";"BA";"Camacan";1;2012
+"2905701";"Nordeste";"BA";"Camaçari";48;2012
+"2905800";"Nordeste";"BA";"Camamu";1;2012
+"2905909";"Nordeste";"BA";"Campo Alegre de Lourdes";1;2012
+"2906006";"Nordeste";"BA";"Campo Formoso";6;2012
+"2906105";"Nordeste";"BA";"Canápolis";1;2012
+"2906204";"Nordeste";"BA";"Canarana";1;2012
+"2906303";"Nordeste";"BA";"Canavieiras";2;2012
+"2906501";"Nordeste";"BA";"Candeias";8;2012
+"2906600";"Nordeste";"BA";"Candiba";1;2012
+"2906709";"Nordeste";"BA";"Cândido Sales";2;2012
+"2906808";"Nordeste";"BA";"Cansanção";6;2012
+"2906899";"Nordeste";"BA";"Caraíbas";1;2012
+"2906907";"Nordeste";"BA";"Caravelas";2;2012
+"2907103";"Nordeste";"BA";"Carinhanha";1;2012
+"2907202";"Nordeste";"BA";"Casa Nova";6;2012
+"2907509";"Nordeste";"BA";"Catu";4;2012
+"2907608";"Nordeste";"BA";"Central";1;2012
+"2907806";"Nordeste";"BA";"Cícero Dantas";2;2012
+"2907905";"Nordeste";"BA";"Cipó";1;2012
+"2908002";"Nordeste";"BA";"Coaraci";1;2012
+"2908101";"Nordeste";"BA";"Cocos";3;2012
+"2908309";"Nordeste";"BA";"Conceição do Almeida";1;2012
+"2908408";"Nordeste";"BA";"Conceição do Coité";11;2012
+"2908705";"Nordeste";"BA";"Condeúba";1;2012
+"2909307";"Nordeste";"BA";"Correntina";8;2012
+"2909604";"Nordeste";"BA";"Crisópolis";2;2012
+"2909802";"Nordeste";"BA";"Cruz das Almas";13;2012
+"2910057";"Nordeste";"BA";"Dias d'Ávila";7;2012
+"2910206";"Nordeste";"BA";"Dom Macedo Costa";1;2012
+"2910404";"Nordeste";"BA";"Encruzilhada";3;2012
+"2910503";"Nordeste";"BA";"Entre Rios";1;2012
+"2910602";"Nordeste";"BA";"Esplanada";9;2012
+"2910701";"Nordeste";"BA";"Euclides da Cunha";9;2012
+"2910727";"Nordeste";"BA";"Eunápolis";41;2012
+"2910800";"Nordeste";"BA";"Feira de Santana";279;2012
+"2911105";"Nordeste";"BA";"Formosa do Rio Preto";1;2012
+"2911204";"Nordeste";"BA";"Gandu";3;2012
+"2911709";"Nordeste";"BA";"Guanambi";48;2012
+"2911808";"Nordeste";"BA";"Guaratinga";2;2012
+"2911907";"Nordeste";"BA";"Iaçu";5;2012
+"2912004";"Nordeste";"BA";"Ibiassucê";6;2012
+"2912103";"Nordeste";"BA";"Ibicaraí";2;2012
+"2912202";"Nordeste";"BA";"Ibicoara";4;2012
+"2912301";"Nordeste";"BA";"Ibicuí";1;2012
+"2912400";"Nordeste";"BA";"Ibipeba";1;2012
+"2912707";"Nordeste";"BA";"Ibirapitanga";2;2012
+"2912905";"Nordeste";"BA";"Ibirataia";1;2012
+"2913002";"Nordeste";"BA";"Ibitiara";2;2012
+"2913200";"Nordeste";"BA";"Ibotirama";13;2012
+"2913408";"Nordeste";"BA";"Igaporã";2;2012
+"2913507";"Nordeste";"BA";"Iguaí";7;2012
+"2913606";"Nordeste";"BA";"Ilhéus";42;2012
+"2913705";"Nordeste";"BA";"Inhambupe";2;2012
+"2913903";"Nordeste";"BA";"Ipiaú";10;2012
+"2914000";"Nordeste";"BA";"Ipirá";14;2012
+"2914109";"Nordeste";"BA";"Ipupiara";2;2012
+"2914307";"Nordeste";"BA";"Iramaia";1;2012
+"2914406";"Nordeste";"BA";"Iraquara";11;2012
+"2914604";"Nordeste";"BA";"Irecê";85;2012
+"2914653";"Nordeste";"BA";"Itabela";5;2012
+"2914703";"Nordeste";"BA";"Itaberaba";11;2012
+"2914802";"Nordeste";"BA";"Itabuna";247;2012
+"2914901";"Nordeste";"BA";"Itacaré";1;2012
+"2915403";"Nordeste";"BA";"Itaju do Colônia";2;2012
+"2915502";"Nordeste";"BA";"Itajuípe";3;2012
+"2915601";"Nordeste";"BA";"Itamaraju";20;2012
+"2915700";"Nordeste";"BA";"Itamari";2;2012
+"2915809";"Nordeste";"BA";"Itambé";4;2012
+"2916005";"Nordeste";"BA";"Itanhém";1;2012
+"2916104";"Nordeste";"BA";"Itaparica";17;2012
+"2916401";"Nordeste";"BA";"Itapetinga";21;2012
+"2916500";"Nordeste";"BA";"Itapicuru";1;2012
+"2916609";"Nordeste";"BA";"Itapitanga";2;2012
+"2916807";"Nordeste";"BA";"Itarantim";2;2012
+"2916856";"Nordeste";"BA";"Itatim";1;2012
+"2916906";"Nordeste";"BA";"Itiruçu";1;2012
+"2917003";"Nordeste";"BA";"Itiúba";1;2012
+"2917102";"Nordeste";"BA";"Itororó";2;2012
+"2917201";"Nordeste";"BA";"Ituaçu";1;2012
+"2917300";"Nordeste";"BA";"Ituberá";3;2012
+"2917359";"Nordeste";"BA";"Jaborandi";1;2012
+"2917508";"Nordeste";"BA";"Jacobina";27;2012
+"2917607";"Nordeste";"BA";"Jaguaquara";8;2012
+"2917706";"Nordeste";"BA";"Jaguarari";1;2012
+"2918001";"Nordeste";"BA";"Jequié";60;2012
+"2918100";"Nordeste";"BA";"Jeremoabo";1;2012
+"2918209";"Nordeste";"BA";"Jiquiriçá";1;2012
+"2918407";"Nordeste";"BA";"Juazeiro";22;2012
+"2918605";"Nordeste";"BA";"Jussiape";1;2012
+"2918803";"Nordeste";"BA";"Laje";1;2012
+"2919058";"Nordeste";"BA";"Lajedo do Tabocal";1;2012
+"2919207";"Nordeste";"BA";"Lauro de Freitas";22;2012
+"2919504";"Nordeste";"BA";"Livramento de Nossa Senhora";12;2012
+"2919553";"Nordeste";"BA";"Luís Eduardo Magalhães";20;2012
+"2919702";"Nordeste";"BA";"Macarani";4;2012
+"2919801";"Nordeste";"BA";"Macaúbas";7;2012
+"2919926";"Nordeste";"BA";"Madre de Deus";7;2012
+"2920106";"Nordeste";"BA";"Mairi";4;2012
+"2920205";"Nordeste";"BA";"Malhada";2;2012
+"2920502";"Nordeste";"BA";"Maracás";4;2012
+"2920601";"Nordeste";"BA";"Maragogipe";1;2012
+"2920700";"Nordeste";"BA";"Maraú";1;2012
+"2920809";"Nordeste";"BA";"Marcionílio Souza";1;2012
+"2921005";"Nordeste";"BA";"Mata de São João";8;2012
+"2921104";"Nordeste";"BA";"Medeiros Neto";3;2012
+"2921203";"Nordeste";"BA";"Miguel Calmon";6;2012
+"2921302";"Nordeste";"BA";"Milagres";3;2012
+"2921500";"Nordeste";"BA";"Monte Santo";9;2012
+"2921609";"Nordeste";"BA";"Morpará";1;2012
+"2921708";"Nordeste";"BA";"Morro do Chapéu";5;2012
+"2921906";"Nordeste";"BA";"Mucugê";3;2012
+"2922003";"Nordeste";"BA";"Mucuri";8;2012
+"2922102";"Nordeste";"BA";"Mundo Novo";1;2012
+"2922300";"Nordeste";"BA";"Muritiba";1;2012
+"2922409";"Nordeste";"BA";"Mutuípe";3;2012
+"2922508";"Nordeste";"BA";"Nazaré";2;2012
+"2922656";"Nordeste";"BA";"Nordestina";2;2012
+"2922706";"Nordeste";"BA";"Nova Canaã";2;2012
+"2922854";"Nordeste";"BA";"Nova Redenção";1;2012
+"2922904";"Nordeste";"BA";"Nova Soure";3;2012
+"2923001";"Nordeste";"BA";"Nova Viçosa";8;2012
+"2923100";"Nordeste";"BA";"Olindina";1;2012
+"2923209";"Nordeste";"BA";"Oliveira dos Brejinhos";2;2012
+"2923407";"Nordeste";"BA";"Palmas de Monte Alto";2;2012
+"2923605";"Nordeste";"BA";"Paramirim";10;2012
+"2923704";"Nordeste";"BA";"Paratinga";2;2012
+"2923803";"Nordeste";"BA";"Paripiranga";1;2012
+"2924009";"Nordeste";"BA";"Paulo Afonso";48;2012
+"2924207";"Nordeste";"BA";"Pedro Alexandre";1;2012
+"2924306";"Nordeste";"BA";"Piatã";1;2012
+"2924405";"Nordeste";"BA";"Pilão Arcado";2;2012
+"2924504";"Nordeste";"BA";"Pindaí";1;2012
+"2924801";"Nordeste";"BA";"Piritiba";2;2012
+"2925006";"Nordeste";"BA";"Planalto";7;2012
+"2925105";"Nordeste";"BA";"Poções";5;2012
+"2925204";"Nordeste";"BA";"Pojuca";7;2012
+"2925253";"Nordeste";"BA";"Ponto Novo";1;2012
+"2925303";"Nordeste";"BA";"Porto Seguro";49;2012
+"2925501";"Nordeste";"BA";"Prado";1;2012
+"2925758";"Nordeste";"BA";"Presidente Tancredo Neves";2;2012
+"2925808";"Nordeste";"BA";"Queimadas";1;2012
+"2925907";"Nordeste";"BA";"Quijingue";3;2012
+"2925931";"Nordeste";"BA";"Quixabeira";1;2012
+"2925956";"Nordeste";"BA";"Rafael Jambeiro";1;2012
+"2926004";"Nordeste";"BA";"Remanso";16;2012
+"2926202";"Nordeste";"BA";"Riachão das Neves";1;2012
+"2926301";"Nordeste";"BA";"Riachão do Jacuípe";6;2012
+"2926400";"Nordeste";"BA";"Riacho de Santana";4;2012
+"2926608";"Nordeste";"BA";"Ribeira do Pombal";29;2012
+"2926657";"Nordeste";"BA";"Ribeirão do Largo";1;2012
+"2926905";"Nordeste";"BA";"Rio do Pires";3;2012
+"2927002";"Nordeste";"BA";"Rio Real";2;2012
+"2927200";"Nordeste";"BA";"Ruy Barbosa";6;2012
+"2927309";"Nordeste";"BA";"Salinas da Margarida";1;2012
+"2927408";"Nordeste";"BA";"Salvador";967;2012
+"2927507";"Nordeste";"BA";"Santa Bárbara";1;2012
+"2927705";"Nordeste";"BA";"Santa Cruz Cabrália";1;2012
+"2928000";"Nordeste";"BA";"Santaluz";2;2012
+"2928059";"Nordeste";"BA";"Santa Luzia";1;2012
+"2928109";"Nordeste";"BA";"Santa Maria da Vitória";9;2012
+"2928208";"Nordeste";"BA";"Santana";3;2012
+"2928406";"Nordeste";"BA";"Santa Rita de Cássia";4;2012
+"2928505";"Nordeste";"BA";"Santa Teresinha";2;2012
+"2928604";"Nordeste";"BA";"Santo Amaro";4;2012
+"2928703";"Nordeste";"BA";"Santo Antônio de Jesus";27;2012
+"2928802";"Nordeste";"BA";"Santo Estêvão";3;2012
+"2928901";"Nordeste";"BA";"São Desidério";1;2012
+"2929008";"Nordeste";"BA";"São Félix";5;2012
+"2929057";"Nordeste";"BA";"São Félix do Coribe";5;2012
+"2929107";"Nordeste";"BA";"São Felipe";1;2012
+"2929206";"Nordeste";"BA";"São Francisco do Conde";1;2012
+"2929305";"Nordeste";"BA";"São Gonçalo dos Campos";1;2012
+"2929404";"Nordeste";"BA";"São Miguel das Matas";2;2012
+"2929503";"Nordeste";"BA";"São Sebastião do Passé";3;2012
+"2929602";"Nordeste";"BA";"Sapeaçu";2;2012
+"2929701";"Nordeste";"BA";"Sátiro Dias";1;2012
+"2929800";"Nordeste";"BA";"Saúde";2;2012
+"2929909";"Nordeste";"BA";"Seabra";14;2012
+"2930105";"Nordeste";"BA";"Senhor do Bonfim";12;2012
+"2930154";"Nordeste";"BA";"Serra do Ramalho";5;2012
+"2930204";"Nordeste";"BA";"Sento Sé";3;2012
+"2930402";"Nordeste";"BA";"Serra Preta";4;2012
+"2930501";"Nordeste";"BA";"Serrinha";8;2012
+"2930600";"Nordeste";"BA";"Serrolândia";1;2012
+"2930709";"Nordeste";"BA";"Simões Filho";14;2012
+"2930766";"Nordeste";"BA";"Sítio do Quinto";1;2012
+"2930808";"Nordeste";"BA";"Souto Soares";1;2012
+"2930907";"Nordeste";"BA";"Tabocas do Brejo Velho";2;2012
+"2931053";"Nordeste";"BA";"Tanque Novo";1;2012
+"2931301";"Nordeste";"BA";"Tapiramutá";1;2012
+"2931350";"Nordeste";"BA";"Teixeira de Freitas";58;2012
+"2931509";"Nordeste";"BA";"Teofilândia";2;2012
+"2931608";"Nordeste";"BA";"Teolândia";1;2012
+"2931806";"Nordeste";"BA";"Tremedal";2;2012
+"2931905";"Nordeste";"BA";"Tucano";11;2012
+"2932002";"Nordeste";"BA";"Uauá";1;2012
+"2932101";"Nordeste";"BA";"Ubaíra";2;2012
+"2932200";"Nordeste";"BA";"Ubaitaba";1;2012
+"2932309";"Nordeste";"BA";"Ubatã";1;2012
+"2932408";"Nordeste";"BA";"Uibaí";1;2012
+"2932507";"Nordeste";"BA";"Una";3;2012
+"2932606";"Nordeste";"BA";"Urandi";1;2012
+"2932804";"Nordeste";"BA";"Utinga";2;2012
+"2932903";"Nordeste";"BA";"Valença";50;2012
+"2933000";"Nordeste";"BA";"Valente";2;2012
+"2933208";"Nordeste";"BA";"Vera Cruz";1;2012
+"2933307";"Nordeste";"BA";"Vitória da Conquista";166;2012
+"2933505";"Nordeste";"BA";"Wenceslau Guimarães";2;2012
+"2933604";"Nordeste";"BA";"Xique-Xique";1;2012
+"3100203";"Sudeste";"MG";"Abaeté";3;2012
+"3100609";"Sudeste";"MG";"Água Boa";4;2012
+"3100807";"Sudeste";"MG";"Aguanil";1;2012
+"3100906";"Sudeste";"MG";"Águas Formosas";9;2012
+"3101003";"Sudeste";"MG";"Águas Vermelhas";2;2012
+"3101102";"Sudeste";"MG";"Aimorés";1;2012
+"3101201";"Sudeste";"MG";"Aiuruoca";1;2012
+"3101508";"Sudeste";"MG";"Além Paraíba";15;2012
+"3101607";"Sudeste";"MG";"Alfenas";40;2012
+"3101706";"Sudeste";"MG";"Almenara";9;2012
+"3102308";"Sudeste";"MG";"Alvinópolis";1;2012
+"3102605";"Sudeste";"MG";"Andradas";2;2012
+"3102803";"Sudeste";"MG";"Andrelândia";2;2012
+"3103405";"Sudeste";"MG";"Araçuaí";11;2012
+"3103504";"Sudeste";"MG";"Araguari";20;2012
+"3104007";"Sudeste";"MG";"Araxá";7;2012
+"3104205";"Sudeste";"MG";"Arcos";3;2012
+"3104700";"Sudeste";"MG";"Ataléia";2;2012
+"3105004";"Sudeste";"MG";"Baldim";1;2012
+"3105103";"Sudeste";"MG";"Bambuí";3;2012
+"3105608";"Sudeste";"MG";"Barbacena";53;2012
+"3105905";"Sudeste";"MG";"Barroso";1;2012
+"3106200";"Sudeste";"MG";"Belo Horizonte";744;2012
+"3106408";"Sudeste";"MG";"Belo Vale";1;2012
+"3106507";"Sudeste";"MG";"Berilo";1;2012
+"3106705";"Sudeste";"MG";"Betim";71;2012
+"3106903";"Sudeste";"MG";"Bicas";1;2012
+"3107109";"Sudeste";"MG";"Boa Esperança";3;2012
+"3107307";"Sudeste";"MG";"Bocaiúva";10;2012
+"3107406";"Sudeste";"MG";"Bom Despacho";5;2012
+"3107802";"Sudeste";"MG";"Bom Jesus do Galho";1;2012
+"3108008";"Sudeste";"MG";"Bom Sucesso";1;2012
+"3108305";"Sudeste";"MG";"Borda da Mata";1;2012
+"3108404";"Sudeste";"MG";"Botelhos";1;2012
+"3108552";"Sudeste";"MG";"Brasilândia de Minas";1;2012
+"3108602";"Sudeste";"MG";"Brasília de Minas";13;2012
+"3109204";"Sudeste";"MG";"Buenópolis";2;2012
+"3109303";"Sudeste";"MG";"Buritis";3;2012
+"3109402";"Sudeste";"MG";"Buritizeiro";4;2012
+"3109501";"Sudeste";"MG";"Cabo Verde";1;2012
+"3110004";"Sudeste";"MG";"Caeté";2;2012
+"3110103";"Sudeste";"MG";"Caiana";1;2012
+"3110301";"Sudeste";"MG";"Caldas";1;2012
+"3110509";"Sudeste";"MG";"Camanducaia";2;2012
+"3110608";"Sudeste";"MG";"Cambuí";1;2012
+"3110905";"Sudeste";"MG";"Campanha";1;2012
+"3111002";"Sudeste";"MG";"Campestre";3;2012
+"3111101";"Sudeste";"MG";"Campina Verde";1;2012
+"3111200";"Sudeste";"MG";"Campo Belo";2;2012
+"3111507";"Sudeste";"MG";"Campos Altos";1;2012
+"3111606";"Sudeste";"MG";"Campos Gerais";3;2012
+"3112307";"Sudeste";"MG";"Capelinha";4;2012
+"3112406";"Sudeste";"MG";"Capetinga";1;2012
+"3112703";"Sudeste";"MG";"Capitão Enéas";2;2012
+"3112802";"Sudeste";"MG";"Capitólio";1;2012
+"3113008";"Sudeste";"MG";"Caraí";2;2012
+"3113206";"Sudeste";"MG";"Carandaí";2;2012
+"3113305";"Sudeste";"MG";"Carangola";25;2012
+"3113404";"Sudeste";"MG";"Caratinga";35;2012
+"3113503";"Sudeste";"MG";"Carbonita";1;2012
+"3113701";"Sudeste";"MG";"Carlos Chagas";2;2012
+"3114303";"Sudeste";"MG";"Carmo do Paranaíba";1;2012
+"3114402";"Sudeste";"MG";"Carmo do Rio Claro";1;2012
+"3114501";"Sudeste";"MG";"Carmópolis de Minas";1;2012
+"3115300";"Sudeste";"MG";"Cataguases";13;2012
+"3115706";"Sudeste";"MG";"Central de Minas";2;2012
+"3116159";"Sudeste";"MG";"Chapada Gaúcha";1;2012
+"3116605";"Sudeste";"MG";"Cláudio";3;2012
+"3116803";"Sudeste";"MG";"Coluna";3;2012
+"3117306";"Sudeste";"MG";"Conceição das Alagoas";1;2012
+"3117504";"Sudeste";"MG";"Conceição do Mato Dentro";1;2012
+"3118007";"Sudeste";"MG";"Congonhas";3;2012
+"3118304";"Sudeste";"MG";"Conselheiro Lafaiete";17;2012
+"3118403";"Sudeste";"MG";"Conselheiro Pena";1;2012
+"3118601";"Sudeste";"MG";"Contagem";42;2012
+"3118809";"Sudeste";"MG";"Coração de Jesus";1;2012
+"3119302";"Sudeste";"MG";"Coromandel";2;2012
+"3119401";"Sudeste";"MG";"Coronel Fabriciano";5;2012
+"3120508";"Sudeste";"MG";"Cristina";1;2012
+"3120904";"Sudeste";"MG";"Curvelo";17;2012
+"3121605";"Sudeste";"MG";"Diamantina";35;2012
+"3122009";"Sudeste";"MG";"Divino";4;2012
+"3122306";"Sudeste";"MG";"Divinópolis";51;2012
+"3123205";"Sudeste";"MG";"Dores do Indaiá";2;2012
+"3123601";"Sudeste";"MG";"Elói Mendes";5;2012
+"3124203";"Sudeste";"MG";"Espera Feliz";4;2012
+"3124302";"Sudeste";"MG";"Espinosa";1;2012
+"3124500";"Sudeste";"MG";"Estiva";1;2012
+"3125101";"Sudeste";"MG";"Extrema";3;2012
+"3125606";"Sudeste";"MG";"Felisburgo";5;2012
+"3125903";"Sudeste";"MG";"Ferros";1;2012
+"3126109";"Sudeste";"MG";"Formiga";5;2012
+"3126703";"Sudeste";"MG";"Francisco Sá";3;2012
+"3126752";"Sudeste";"MG";"Franciscópolis";1;2012
+"3127107";"Sudeste";"MG";"Frutal";3;2012
+"3127602";"Sudeste";"MG";"Gouveia";1;2012
+"3127701";"Sudeste";"MG";"Governador Valadares";79;2012
+"3127800";"Sudeste";"MG";"Grão Mogol";5;2012
+"3128006";"Sudeste";"MG";"Guanhães";16;2012
+"3128303";"Sudeste";"MG";"Guaranésia";1;2012
+"3128402";"Sudeste";"MG";"Guarani";1;2012
+"3128709";"Sudeste";"MG";"Guaxupé";5;2012
+"3129509";"Sudeste";"MG";"Ibiá";3;2012
+"3129806";"Sudeste";"MG";"Ibirité";5;2012
+"3130705";"Sudeste";"MG";"Indianópolis";1;2012
+"3130903";"Sudeste";"MG";"Inhapim";1;2012
+"3131208";"Sudeste";"MG";"Ipanema";4;2012
+"3131307";"Sudeste";"MG";"Ipatinga";70;2012
+"3131703";"Sudeste";"MG";"Itabira";14;2012
+"3131901";"Sudeste";"MG";"Itabirito";7;2012
+"3132107";"Sudeste";"MG";"Itacarambi";2;2012
+"3132206";"Sudeste";"MG";"Itaguara";1;2012
+"3132305";"Sudeste";"MG";"Itaipé";1;2012
+"3132404";"Sudeste";"MG";"Itajubá";23;2012
+"3132503";"Sudeste";"MG";"Itamarandiba";5;2012
+"3132701";"Sudeste";"MG";"Itambacuri";3;2012
+"3133006";"Sudeste";"MG";"Itamonte";1;2012
+"3133105";"Sudeste";"MG";"Itanhandu";1;2012
+"3133204";"Sudeste";"MG";"Itanhomi";2;2012
+"3133303";"Sudeste";"MG";"Itaobim";3;2012
+"3133808";"Sudeste";"MG";"Itaúna";4;2012
+"3134004";"Sudeste";"MG";"Itinga";1;2012
+"3134202";"Sudeste";"MG";"Ituiutaba";10;2012
+"3134608";"Sudeste";"MG";"Jaboticatubas";1;2012
+"3134707";"Sudeste";"MG";"Jacinto";1;2012
+"3135100";"Sudeste";"MG";"Janaúba";34;2012
+"3135209";"Sudeste";"MG";"Januária";11;2012
+"3135803";"Sudeste";"MG";"Jequitinhonha";4;2012
+"3136207";"Sudeste";"MG";"João Monlevade";15;2012
+"3136306";"Sudeste";"MG";"João Pinheiro";1;2012
+"3136652";"Sudeste";"MG";"Juatuba";1;2012
+"3136702";"Sudeste";"MG";"Juiz de Fora";151;2012
+"3136900";"Sudeste";"MG";"Juruaia";1;2012
+"3137205";"Sudeste";"MG";"Lagoa da Prata";6;2012
+"3137601";"Sudeste";"MG";"Lagoa Santa";2;2012
+"3137700";"Sudeste";"MG";"Lajinha";2;2012
+"3137809";"Sudeste";"MG";"Lambari";1;2012
+"3138203";"Sudeste";"MG";"Lavras";44;2012
+"3138401";"Sudeste";"MG";"Leopoldina";9;2012
+"3138609";"Sudeste";"MG";"Lima Duarte";1;2012
+"3138807";"Sudeste";"MG";"Luz";3;2012
+"3138906";"Sudeste";"MG";"Machacalis";1;2012
+"3139003";"Sudeste";"MG";"Machado";4;2012
+"3139201";"Sudeste";"MG";"Malacacheta";6;2012
+"3139300";"Sudeste";"MG";"Manga";8;2012
+"3139409";"Sudeste";"MG";"Manhuaçu";29;2012
+"3139508";"Sudeste";"MG";"Manhumirim";1;2012
+"3139607";"Sudeste";"MG";"Mantena";7;2012
+"3139805";"Sudeste";"MG";"Mar de Espanha";3;2012
+"3139904";"Sudeste";"MG";"Maria da Fé";1;2012
+"3140001";"Sudeste";"MG";"Mariana";3;2012
+"3141009";"Sudeste";"MG";"Mato Verde";1;2012
+"3141108";"Sudeste";"MG";"Matozinhos";1;2012
+"3141207";"Sudeste";"MG";"Matutina";1;2012
+"3141405";"Sudeste";"MG";"Medina";2;2012
+"3141801";"Sudeste";"MG";"Minas Novas";7;2012
+"3142007";"Sudeste";"MG";"Mirabela";3;2012
+"3142106";"Sudeste";"MG";"Miradouro";1;2012
+"3142403";"Sudeste";"MG";"Moema";1;2012
+"3142601";"Sudeste";"MG";"Monsenhor Paulo";1;2012
+"3142700";"Sudeste";"MG";"Montalvânia";2;2012
+"3142809";"Sudeste";"MG";"Monte Alegre de Minas";1;2012
+"3142908";"Sudeste";"MG";"Monte Azul";1;2012
+"3143104";"Sudeste";"MG";"Monte Carmelo";4;2012
+"3143302";"Sudeste";"MG";"Montes Claros";124;2012
+"3143500";"Sudeste";"MG";"Morada Nova de Minas";2;2012
+"3143906";"Sudeste";"MG";"Muriaé";22;2012
+"3144003";"Sudeste";"MG";"Mutum";3;2012
+"3144300";"Sudeste";"MG";"Nanuque";2;2012
+"3144805";"Sudeste";"MG";"Nova Lima";87;2012
+"3145000";"Sudeste";"MG";"Nova Ponte";1;2012
+"3145208";"Sudeste";"MG";"Nova Serrana";8;2012
+"3145307";"Sudeste";"MG";"Novo Cruzeiro";7;2012
+"3145356";"Sudeste";"MG";"Novo Oriente de Minas";1;2012
+"3145604";"Sudeste";"MG";"Oliveira";1;2012
+"3145901";"Sudeste";"MG";"Ouro Branco";3;2012
+"3146008";"Sudeste";"MG";"Ouro Fino";3;2012
+"3146107";"Sudeste";"MG";"Ouro Preto";2;2012
+"3146305";"Sudeste";"MG";"Padre Paraíso";4;2012
+"3147006";"Sudeste";"MG";"Paracatu";2;2012
+"3147105";"Sudeste";"MG";"Pará de Minas";10;2012
+"3147204";"Sudeste";"MG";"Paraguaçu";1;2012
+"3147907";"Sudeste";"MG";"Passos";36;2012
+"3148004";"Sudeste";"MG";"Patos de Minas";66;2012
+"3148103";"Sudeste";"MG";"Patrocínio";5;2012
+"3148608";"Sudeste";"MG";"Peçanha";1;2012
+"3148707";"Sudeste";"MG";"Pedra Azul";16;2012
+"3149309";"Sudeste";"MG";"Pedro Leopoldo";8;2012
+"3149804";"Sudeste";"MG";"Perdizes";1;2012
+"3149903";"Sudeste";"MG";"Perdões";1;2012
+"3150208";"Sudeste";"MG";"Piedade de Ponte Nova";1;2012
+"3150505";"Sudeste";"MG";"Pimenta";1;2012
+"3150703";"Sudeste";"MG";"Pirajuba";1;2012
+"3151107";"Sudeste";"MG";"Pirapetinga";1;2012
+"3151206";"Sudeste";"MG";"Pirapora";18;2012
+"3151404";"Sudeste";"MG";"Pitangui";3;2012
+"3151503";"Sudeste";"MG";"Piumhi";2;2012
+"3151602";"Sudeste";"MG";"Planura";1;2012
+"3151800";"Sudeste";"MG";"Poços de Caldas";16;2012
+"3151909";"Sudeste";"MG";"Pocrane";1;2012
+"3152006";"Sudeste";"MG";"Pompéu";4;2012
+"3152105";"Sudeste";"MG";"Ponte Nova";19;2012
+"3152204";"Sudeste";"MG";"Porteirinha";3;2012
+"3152402";"Sudeste";"MG";"Poté";1;2012
+"3152501";"Sudeste";"MG";"Pouso Alegre";55;2012
+"3152600";"Sudeste";"MG";"Pouso Alto";1;2012
+"3152808";"Sudeste";"MG";"Prata";3;2012
+"3153202";"Sudeste";"MG";"Presidente Juscelino";1;2012
+"3153301";"Sudeste";"MG";"Presidente Kubitschek";1;2012
+"3154002";"Sudeste";"MG";"Raul Soares";3;2012
+"3154200";"Sudeste";"MG";"Resende Costa";1;2012
+"3154309";"Sudeste";"MG";"Resplendor";4;2012
+"3154457";"Sudeste";"MG";"Riachinho";1;2012
+"3154606";"Sudeste";"MG";"Ribeirão das Neves";10;2012
+"3154903";"Sudeste";"MG";"Rio Casca";1;2012
+"3155306";"Sudeste";"MG";"Rio Manso";1;2012
+"3155603";"Sudeste";"MG";"Rio Pardo de Minas";2;2012
+"3156007";"Sudeste";"MG";"Rio Vermelho";2;2012
+"3156601";"Sudeste";"MG";"Rubim";3;2012
+"3156700";"Sudeste";"MG";"Sabará";2;2012
+"3157005";"Sudeste";"MG";"Salinas";8;2012
+"3157104";"Sudeste";"MG";"Salto da Divisa";2;2012
+"3157203";"Sudeste";"MG";"Santa Bárbara";2;2012
+"3157807";"Sudeste";"MG";"Santa Luzia";5;2012
+"3157906";"Sudeste";"MG";"Santa Margarida";1;2012
+"3158201";"Sudeste";"MG";"Santa Maria do Suaçuí";4;2012
+"3158508";"Sudeste";"MG";"Santana de Pirapama";1;2012
+"3159803";"Sudeste";"MG";"Santa Vitória";1;2012
+"3160108";"Sudeste";"MG";"Santo Antônio do Grama";1;2012
+"3160702";"Sudeste";"MG";"Santos Dumont";5;2012
+"3161007";"Sudeste";"MG";"São Domingos do Prata";1;2012
+"3161106";"Sudeste";"MG";"São Francisco";13;2012
+"3161809";"Sudeste";"MG";"São Gonçalo do Pará";1;2012
+"3161908";"Sudeste";"MG";"São Gonçalo do Rio Abaixo";1;2012
+"3162005";"Sudeste";"MG";"São Gonçalo do Sapucaí";3;2012
+"3162104";"Sudeste";"MG";"São Gotardo";3;2012
+"3162401";"Sudeste";"MG";"São João da Ponte";4;2012
+"3162450";"Sudeste";"MG";"São João das Missões";1;2012
+"3162500";"Sudeste";"MG";"São João del Rei";16;2012
+"3162559";"Sudeste";"MG";"São João do Manhuaçu";2;2012
+"3162708";"Sudeste";"MG";"São João do Paraíso";4;2012
+"3162807";"Sudeste";"MG";"São João Evangelista";6;2012
+"3162906";"Sudeste";"MG";"São João Nepomuceno";4;2012
+"3162922";"Sudeste";"MG";"São Joaquim de Bicas";2;2012
+"3163409";"Sudeste";"MG";"São José do Goiabal";1;2012
+"3163706";"Sudeste";"MG";"São Lourenço";25;2012
+"3164001";"Sudeste";"MG";"São Pedro dos Ferros";1;2012
+"3164209";"Sudeste";"MG";"São Romão";1;2012
+"3164704";"Sudeste";"MG";"São Sebastião do Paraíso";28;2012
+"3165305";"Sudeste";"MG";"São Vicente de Minas";2;2012
+"3165552";"Sudeste";"MG";"Setubinha";3;2012
+"3165701";"Sudeste";"MG";"Senador Firmino";1;2012
+"3167103";"Sudeste";"MG";"Serro";4;2012
+"3167202";"Sudeste";"MG";"Sete Lagoas";72;2012
+"3167608";"Sudeste";"MG";"Simonésia";1;2012
+"3168002";"Sudeste";"MG";"Taiobeiras";6;2012
+"3168606";"Sudeste";"MG";"Teófilo Otoni";100;2012
+"3168705";"Sudeste";"MG";"Timóteo";10;2012
+"3169307";"Sudeste";"MG";"Três Corações";21;2012
+"3169356";"Sudeste";"MG";"Três Marias";1;2012
+"3169406";"Sudeste";"MG";"Três Pontas";3;2012
+"3169703";"Sudeste";"MG";"Turmalina";2;2012
+"3169901";"Sudeste";"MG";"Ubá";34;2012
+"3170107";"Sudeste";"MG";"Uberaba";71;2012
+"3170206";"Sudeste";"MG";"Uberlândia";117;2012
+"3170404";"Sudeste";"MG";"Unaí";12;2012
+"3170503";"Sudeste";"MG";"Urucânia";1;2012
+"3170578";"Sudeste";"MG";"Vargem Alegre";1;2012
+"3170701";"Sudeste";"MG";"Varginha";11;2012
+"3170750";"Sudeste";"MG";"Varjão de Minas";1;2012
+"3170800";"Sudeste";"MG";"Várzea da Palma";2;2012
+"3170909";"Sudeste";"MG";"Varzelândia";1;2012
+"3171154";"Sudeste";"MG";"Vermelho Novo";1;2012
+"3171204";"Sudeste";"MG";"Vespasiano";2;2012
+"3171303";"Sudeste";"MG";"Viçosa";15;2012
+"3171709";"Sudeste";"MG";"Virgínia";1;2012
+"3171808";"Sudeste";"MG";"Virginópolis";3;2012
+"3171907";"Sudeste";"MG";"Virgolândia";2;2012
+"3172004";"Sudeste";"MG";"Visconde do Rio Branco";4;2012
+"3200102";"Sudeste";"ES";"Afonso Cláudio";5;2012
+"3200169";"Sudeste";"ES";"Água Doce do Norte";1;2012
+"3200201";"Sudeste";"ES";"Alegre";1;2012
+"3200409";"Sudeste";"ES";"Anchieta";1;2012
+"3200607";"Sudeste";"ES";"Aracruz";3;2012
+"3200706";"Sudeste";"ES";"Atilio Vivacqua";1;2012
+"3200805";"Sudeste";"ES";"Baixo Guandu";1;2012
+"3200904";"Sudeste";"ES";"Barra de São Francisco";10;2012
+"3201159";"Sudeste";"ES";"Brejetuba";1;2012
+"3201209";"Sudeste";"ES";"Cachoeiro de Itapemirim";84;2012
+"3201308";"Sudeste";"ES";"Cariacica";22;2012
+"3201506";"Sudeste";"ES";"Colatina";49;2012
+"3202108";"Sudeste";"ES";"Ecoporanga";3;2012
+"3202306";"Sudeste";"ES";"Guaçuí";3;2012
+"3202405";"Sudeste";"ES";"Guarapari";3;2012
+"3203007";"Sudeste";"ES";"Iúna";3;2012
+"3203056";"Sudeste";"ES";"Jaguaré";3;2012
+"3203106";"Sudeste";"ES";"Jerônimo Monteiro";1;2012
+"3203205";"Sudeste";"ES";"Linhares";23;2012
+"3203403";"Sudeste";"ES";"Mimoso do Sul";1;2012
+"3203502";"Sudeste";"ES";"Montanha";2;2012
+"3203601";"Sudeste";"ES";"Mucurici";1;2012
+"3203700";"Sudeste";"ES";"Muniz Freire";1;2012
+"3204054";"Sudeste";"ES";"Pedro Canário";3;2012
+"3204104";"Sudeste";"ES";"Pinheiros";1;2012
+"3204203";"Sudeste";"ES";"Piúma";1;2012
+"3204302";"Sudeste";"ES";"Presidente Kennedy";1;2012
+"3204401";"Sudeste";"ES";"Rio Novo do Sul";1;2012
+"3204500";"Sudeste";"ES";"Santa Leopoldina";1;2012
+"3204559";"Sudeste";"ES";"Santa Maria de Jetibá";2;2012
+"3204609";"Sudeste";"ES";"Santa Teresa";1;2012
+"3204708";"Sudeste";"ES";"São Gabriel da Palha";1;2012
+"3204807";"Sudeste";"ES";"São José do Calçado";2;2012
+"3204906";"Sudeste";"ES";"São Mateus";16;2012
+"3205002";"Sudeste";"ES";"Serra";81;2012
+"3205069";"Sudeste";"ES";"Venda Nova do Imigrante";3;2012
+"3205101";"Sudeste";"ES";"Viana";1;2012
+"3205150";"Sudeste";"ES";"Vila Pavão";1;2012
+"3205200";"Sudeste";"ES";"Vila Velha";110;2012
+"3205309";"Sudeste";"ES";"Vitória";161;2012
+"3300100";"Sudeste";"RJ";"Angra dos Reis";16;2012
+"3300209";"Sudeste";"RJ";"Araruama";36;2012
+"3300258";"Sudeste";"RJ";"Arraial do Cabo";1;2012
+"3300308";"Sudeste";"RJ";"Barra do Piraí";12;2012
+"3300407";"Sudeste";"RJ";"Barra Mansa";41;2012
+"3300456";"Sudeste";"RJ";"Belford Roxo";22;2012
+"3300506";"Sudeste";"RJ";"Bom Jardim";2;2012
+"3300605";"Sudeste";"RJ";"Bom Jesus do Itabapoana";3;2012
+"3300704";"Sudeste";"RJ";"Cabo Frio";40;2012
+"3300803";"Sudeste";"RJ";"Cachoeiras de Macacu";10;2012
+"3300902";"Sudeste";"RJ";"Cambuci";1;2012
+"3301009";"Sudeste";"RJ";"Campos dos Goytacazes";125;2012
+"3301108";"Sudeste";"RJ";"Cantagalo";7;2012
+"3301207";"Sudeste";"RJ";"Carmo";3;2012
+"3301405";"Sudeste";"RJ";"Conceição de Macabu";1;2012
+"3301504";"Sudeste";"RJ";"Cordeiro";3;2012
+"3301603";"Sudeste";"RJ";"Duas Barras";1;2012
+"3301702";"Sudeste";"RJ";"Duque de Caxias";264;2012
+"3301850";"Sudeste";"RJ";"Guapimirim";1;2012
+"3301876";"Sudeste";"RJ";"Iguaba Grande";1;2012
+"3301900";"Sudeste";"RJ";"Itaboraí";20;2012
+"3302007";"Sudeste";"RJ";"Itaguaí";4;2012
+"3302205";"Sudeste";"RJ";"Itaperuna";22;2012
+"3302254";"Sudeste";"RJ";"Itatiaia";2;2012
+"3302270";"Sudeste";"RJ";"Japeri";5;2012
+"3302403";"Sudeste";"RJ";"Macaé";52;2012
+"3302502";"Sudeste";"RJ";"Magé";26;2012
+"3302601";"Sudeste";"RJ";"Mangaratiba";1;2012
+"3302700";"Sudeste";"RJ";"Maricá";9;2012
+"3302858";"Sudeste";"RJ";"Mesquita";11;2012
+"3302908";"Sudeste";"RJ";"Miguel Pereira";6;2012
+"3303005";"Sudeste";"RJ";"Miracema";2;2012
+"3303104";"Sudeste";"RJ";"Natividade";1;2012
+"3303203";"Sudeste";"RJ";"Nilópolis";47;2012
+"3303302";"Sudeste";"RJ";"Niterói";160;2012
+"3303401";"Sudeste";"RJ";"Nova Friburgo";30;2012
+"3303500";"Sudeste";"RJ";"Nova Iguaçu";169;2012
+"3303609";"Sudeste";"RJ";"Paracambi";8;2012
+"3303708";"Sudeste";"RJ";"Paraíba do Sul";5;2012
+"3303807";"Sudeste";"RJ";"Paraty";2;2012
+"3303906";"Sudeste";"RJ";"Petrópolis";54;2012
+"3304003";"Sudeste";"RJ";"Piraí";2;2012
+"3304102";"Sudeste";"RJ";"Porciúncula";3;2012
+"3304110";"Sudeste";"RJ";"Porto Real";1;2012
+"3304144";"Sudeste";"RJ";"Queimados";18;2012
+"3304151";"Sudeste";"RJ";"Quissamã";3;2012
+"3304201";"Sudeste";"RJ";"Resende";38;2012
+"3304300";"Sudeste";"RJ";"Rio Bonito";1;2012
+"3304524";"Sudeste";"RJ";"Rio das Ostras";8;2012
+"3304557";"Sudeste";"RJ";"Rio de Janeiro";1449;2012
+"3304706";"Sudeste";"RJ";"Santo Antônio de Pádua";4;2012
+"3304755";"Sudeste";"RJ";"São Francisco de Itabapoana";5;2012
+"3304805";"Sudeste";"RJ";"São Fidélis";1;2012
+"3304904";"Sudeste";"RJ";"São Gonçalo";102;2012
+"3305109";"Sudeste";"RJ";"São João de Meriti";117;2012
+"3305208";"Sudeste";"RJ";"São Pedro da Aldeia";7;2012
+"3305406";"Sudeste";"RJ";"Sapucaia";1;2012
+"3305505";"Sudeste";"RJ";"Saquarema";7;2012
+"3305604";"Sudeste";"RJ";"Silva Jardim";1;2012
+"3305703";"Sudeste";"RJ";"Sumidouro";1;2012
+"3305752";"Sudeste";"RJ";"Tanguá";1;2012
+"3305802";"Sudeste";"RJ";"Teresópolis";10;2012
+"3306008";"Sudeste";"RJ";"Três Rios";15;2012
+"3306107";"Sudeste";"RJ";"Valença";8;2012
+"3306156";"Sudeste";"RJ";"Varre-Sai";2;2012
+"3306206";"Sudeste";"RJ";"Vassouras";7;2012
+"3306305";"Sudeste";"RJ";"Volta Redonda";48;2012
+"3500105";"Sudeste";"SP";"Adamantina";3;2012
+"3500303";"Sudeste";"SP";"Aguaí";4;2012
+"3500501";"Sudeste";"SP";"Águas de Lindóia";1;2012
+"3500709";"Sudeste";"SP";"Agudos";2;2012
+"3501509";"Sudeste";"SP";"Alvinlândia";1;2012
+"3501608";"Sudeste";"SP";"Americana";42;2012
+"3501707";"Sudeste";"SP";"Américo Brasiliense";1;2012
+"3501905";"Sudeste";"SP";"Amparo";3;2012
+"3502002";"Sudeste";"SP";"Analândia";1;2012
+"3502101";"Sudeste";"SP";"Andradina";5;2012
+"3502200";"Sudeste";"SP";"Angatuba";1;2012
+"3502507";"Sudeste";"SP";"Aparecida";7;2012
+"3502705";"Sudeste";"SP";"Apiaí";2;2012
+"3502804";"Sudeste";"SP";"Araçatuba";56;2012
+"3502903";"Sudeste";"SP";"Araçoiaba da Serra";1;2012
+"3503109";"Sudeste";"SP";"Arandu";1;2012
+"3503208";"Sudeste";"SP";"Araraquara";42;2012
+"3503307";"Sudeste";"SP";"Araras";18;2012
+"3503901";"Sudeste";"SP";"Arujá";23;2012
+"3504008";"Sudeste";"SP";"Assis";43;2012
+"3504107";"Sudeste";"SP";"Atibaia";11;2012
+"3504206";"Sudeste";"SP";"Auriflama";1;2012
+"3504503";"Sudeste";"SP";"Avaré";4;2012
+"3505203";"Sudeste";"SP";"Bariri";1;2012
+"3505302";"Sudeste";"SP";"Barra Bonita";4;2012
+"3505500";"Sudeste";"SP";"Barretos";34;2012
+"3505708";"Sudeste";"SP";"Barueri";71;2012
+"3505906";"Sudeste";"SP";"Batatais";9;2012
+"3506003";"Sudeste";"SP";"Bauru";77;2012
+"3506102";"Sudeste";"SP";"Bebedouro";7;2012
+"3506359";"Sudeste";"SP";"Bertioga";4;2012
+"3506508";"Sudeste";"SP";"Birigui";1;2012
+"3506706";"Sudeste";"SP";"Boa Esperança do Sul";1;2012
+"3507001";"Sudeste";"SP";"Boituva";2;2012
+"3507407";"Sudeste";"SP";"Borborema";1;2012
+"3507506";"Sudeste";"SP";"Botucatu";74;2012
+"3507605";"Sudeste";"SP";"Bragança Paulista";50;2012
+"3507803";"Sudeste";"SP";"Brodowski";1;2012
+"3507902";"Sudeste";"SP";"Brotas";1;2012
+"3508009";"Sudeste";"SP";"Buri";2;2012
+"3508108";"Sudeste";"SP";"Buritama";2;2012
+"3508504";"Sudeste";"SP";"Caçapava";6;2012
+"3508603";"Sudeste";"SP";"Cachoeira Paulista";1;2012
+"3508702";"Sudeste";"SP";"Caconde";1;2012
+"3509007";"Sudeste";"SP";"Caieiras";18;2012
+"3509205";"Sudeste";"SP";"Cajamar";1;2012
+"3509304";"Sudeste";"SP";"Cajobi";1;2012
+"3509403";"Sudeste";"SP";"Cajuru";2;2012
+"3509502";"Sudeste";"SP";"Campinas";279;2012
+"3509601";"Sudeste";"SP";"Campo Limpo Paulista";2;2012
+"3509700";"Sudeste";"SP";"Campos do Jordão";8;2012
+"3510203";"Sudeste";"SP";"Capão Bonito";6;2012
+"3510401";"Sudeste";"SP";"Capivari";6;2012
+"3510500";"Sudeste";"SP";"Caraguatatuba";24;2012
+"3510609";"Sudeste";"SP";"Carapicuíba";30;2012
+"3510807";"Sudeste";"SP";"Casa Branca";1;2012
+"3511003";"Sudeste";"SP";"Castilho";1;2012
+"3511102";"Sudeste";"SP";"Catanduva";36;2012
+"3511508";"Sudeste";"SP";"Cerquilho";1;2012
+"3512001";"Sudeste";"SP";"Colina";2;2012
+"3512100";"Sudeste";"SP";"Colômbia";1;2012
+"3512308";"Sudeste";"SP";"Conchas";2;2012
+"3512803";"Sudeste";"SP";"Cosmópolis";5;2012
+"3513009";"Sudeste";"SP";"Cotia";41;2012
+"3513405";"Sudeste";"SP";"Cruzeiro";10;2012
+"3513504";"Sudeste";"SP";"Cubatão";30;2012
+"3513801";"Sudeste";"SP";"Diadema";87;2012
+"3513900";"Sudeste";"SP";"Divinolândia";2;2012
+"3514106";"Sudeste";"SP";"Dois Córregos";3;2012
+"3514403";"Sudeste";"SP";"Dracena";2;2012
+"3514502";"Sudeste";"SP";"Duartina";3;2012
+"3514601";"Sudeste";"SP";"Dumont";1;2012
+"3515004";"Sudeste";"SP";"Embu das Artes";9;2012
+"3515103";"Sudeste";"SP";"Embu-Guaçu";2;2012
+"3515509";"Sudeste";"SP";"Fernandópolis";4;2012
+"3515707";"Sudeste";"SP";"Ferraz de Vasconcelos";26;2012
+"3516002";"Sudeste";"SP";"Flórida Paulista";2;2012
+"3516200";"Sudeste";"SP";"Franca";52;2012
+"3516309";"Sudeste";"SP";"Francisco Morato";27;2012
+"3516408";"Sudeste";"SP";"Franco da Rocha";14;2012
+"3516705";"Sudeste";"SP";"Garça";4;2012
+"3516903";"Sudeste";"SP";"General Salgado";1;2012
+"3517307";"Sudeste";"SP";"Guaimbê";2;2012
+"3517406";"Sudeste";"SP";"Guaíra";2;2012
+"3517505";"Sudeste";"SP";"Guapiaçu";1;2012
+"3518305";"Sudeste";"SP";"Guararema";2;2012
+"3518404";"Sudeste";"SP";"Guaratinguetá";17;2012
+"3518602";"Sudeste";"SP";"Guariba";1;2012
+"3518701";"Sudeste";"SP";"Guarujá";76;2012
+"3518800";"Sudeste";"SP";"Guarulhos";238;2012
+"3518909";"Sudeste";"SP";"Guzolândia";1;2012
+"3519071";"Sudeste";"SP";"Hortolândia";8;2012
+"3519105";"Sudeste";"SP";"Iacanga";1;2012
+"3519303";"Sudeste";"SP";"Ibaté";1;2012
+"3519600";"Sudeste";"SP";"Ibitinga";3;2012
+"3519709";"Sudeste";"SP";"Ibiúna";9;2012
+"3520301";"Sudeste";"SP";"Iguape";1;2012
+"3520400";"Sudeste";"SP";"Ilhabela";1;2012
+"3520442";"Sudeste";"SP";"Ilha Solteira";3;2012
+"3520509";"Sudeste";"SP";"Indaiatuba";27;2012
+"3521002";"Sudeste";"SP";"Iperó";1;2012
+"3521804";"Sudeste";"SP";"Itaí";2;2012
+"3522109";"Sudeste";"SP";"Itanhaém";28;2012
+"3522208";"Sudeste";"SP";"Itapecerica da Serra";54;2012
+"3522307";"Sudeste";"SP";"Itapetininga";21;2012
+"3522406";"Sudeste";"SP";"Itapeva";46;2012
+"3522505";"Sudeste";"SP";"Itapevi";42;2012
+"3522604";"Sudeste";"SP";"Itapira";1;2012
+"3522703";"Sudeste";"SP";"Itápolis";6;2012
+"3522901";"Sudeste";"SP";"Itapuí";1;2012
+"3523107";"Sudeste";"SP";"Itaquaquecetuba";39;2012
+"3523206";"Sudeste";"SP";"Itararé";5;2012
+"3523305";"Sudeste";"SP";"Itariri";1;2012
+"3523404";"Sudeste";"SP";"Itatiba";18;2012
+"3523909";"Sudeste";"SP";"Itu";44;2012
+"3524105";"Sudeste";"SP";"Ituverava";2;2012
+"3524204";"Sudeste";"SP";"Jaborandi";1;2012
+"3524303";"Sudeste";"SP";"Jaboticabal";3;2012
+"3524402";"Sudeste";"SP";"Jacareí";42;2012
+"3524808";"Sudeste";"SP";"Jales";16;2012
+"3525300";"Sudeste";"SP";"Jaú";34;2012
+"3525508";"Sudeste";"SP";"Joanópolis";1;2012
+"3525706";"Sudeste";"SP";"José Bonifácio";2;2012
+"3525904";"Sudeste";"SP";"Jundiaí";131;2012
+"3526001";"Sudeste";"SP";"Junqueirópolis";4;2012
+"3526407";"Sudeste";"SP";"Laranjal Paulista";2;2012
+"3526704";"Sudeste";"SP";"Leme";8;2012
+"3526803";"Sudeste";"SP";"Lençóis Paulista";3;2012
+"3526902";"Sudeste";"SP";"Limeira";45;2012
+"3527108";"Sudeste";"SP";"Lins";12;2012
+"3527207";"Sudeste";"SP";"Lorena";22;2012
+"3527306";"Sudeste";"SP";"Louveira";1;2012
+"3527702";"Sudeste";"SP";"Luiziânia";2;2012
+"3528007";"Sudeste";"SP";"Macatuba";2;2012
+"3528403";"Sudeste";"SP";"Mairinque";2;2012
+"3528502";"Sudeste";"SP";"Mairiporã";5;2012
+"3528809";"Sudeste";"SP";"Maracaí";1;2012
+"3529005";"Sudeste";"SP";"Marília";66;2012
+"3529302";"Sudeste";"SP";"Matão";16;2012
+"3529401";"Sudeste";"SP";"Mauá";66;2012
+"3529906";"Sudeste";"SP";"Miracatu";1;2012
+"3530102";"Sudeste";"SP";"Mirandópolis";3;2012
+"3530300";"Sudeste";"SP";"Mirassol";1;2012
+"3530508";"Sudeste";"SP";"Mococa";4;2012
+"3530607";"Sudeste";"SP";"Mogi das Cruzes";104;2012
+"3530706";"Sudeste";"SP";"Mogi Guaçu";24;2012
+"3530805";"Sudeste";"SP";"Mogi Mirim";13;2012
+"3531100";"Sudeste";"SP";"Mongaguá";4;2012
+"3531308";"Sudeste";"SP";"Monte Alto";2;2012
+"3531506";"Sudeste";"SP";"Monte Azul Paulista";1;2012
+"3531803";"Sudeste";"SP";"Monte Mor";2;2012
+"3531902";"Sudeste";"SP";"Morro Agudo";2;2012
+"3532603";"Sudeste";"SP";"Nhandeara";2;2012
+"3533007";"Sudeste";"SP";"Nova Granada";1;2012
+"3533908";"Sudeste";"SP";"Olímpia";2;2012
+"3534302";"Sudeste";"SP";"Orlândia";4;2012
+"3534401";"Sudeste";"SP";"Osasco";132;2012
+"3534609";"Sudeste";"SP";"Osvaldo Cruz";1;2012
+"3534708";"Sudeste";"SP";"Ourinhos";12;2012
+"3534757";"Sudeste";"SP";"Ouroeste";1;2012
+"3535002";"Sudeste";"SP";"Palestina";2;2012
+"3535309";"Sudeste";"SP";"Palmital";2;2012
+"3535507";"Sudeste";"SP";"Paraguaçu Paulista";2;2012
+"3535804";"Sudeste";"SP";"Paranapanema";1;2012
+"3535903";"Sudeste";"SP";"Paranapuã";1;2012
+"3536208";"Sudeste";"SP";"Pariquera-Açu";30;2012
+"3536505";"Sudeste";"SP";"Paulínia";2;2012
+"3536703";"Sudeste";"SP";"Pederneiras";1;2012
+"3537008";"Sudeste";"SP";"Pedregulho";1;2012
+"3537107";"Sudeste";"SP";"Pedreira";1;2012
+"3537206";"Sudeste";"SP";"Pedro de Toledo";1;2012
+"3537305";"Sudeste";"SP";"Penápolis";5;2012
+"3537404";"Sudeste";"SP";"Pereira Barreto";3;2012
+"3537602";"Sudeste";"SP";"Peruíbe";3;2012
+"3537800";"Sudeste";"SP";"Piedade";3;2012
+"3537909";"Sudeste";"SP";"Pilar do Sul";2;2012
+"3538006";"Sudeste";"SP";"Pindamonhangaba";39;2012
+"3538600";"Sudeste";"SP";"Piracaia";1;2012
+"3538709";"Sudeste";"SP";"Piracicaba";84;2012
+"3538808";"Sudeste";"SP";"Piraju";3;2012
+"3538907";"Sudeste";"SP";"Pirajuí";3;2012
+"3539103";"Sudeste";"SP";"Pirapora do Bom Jesus";1;2012
+"3539202";"Sudeste";"SP";"Pirapozinho";1;2012
+"3539301";"Sudeste";"SP";"Pirassununga";8;2012
+"3539400";"Sudeste";"SP";"Piratininga";1;2012
+"3539509";"Sudeste";"SP";"Pitangueiras";3;2012
+"3539806";"Sudeste";"SP";"Poá";4;2012
+"3540200";"Sudeste";"SP";"Pontal";2;2012
+"3540606";"Sudeste";"SP";"Porto Feliz";2;2012
+"3540705";"Sudeste";"SP";"Porto Ferreira";2;2012
+"3540903";"Sudeste";"SP";"Pradópolis";1;2012
+"3541000";"Sudeste";"SP";"Praia Grande";49;2012
+"3541307";"Sudeste";"SP";"Presidente Epitácio";2;2012
+"3541406";"Sudeste";"SP";"Presidente Prudente";85;2012
+"3541505";"Sudeste";"SP";"Presidente Venceslau";2;2012
+"3541604";"Sudeste";"SP";"Promissão";2;2012
+"3541901";"Sudeste";"SP";"Queluz";1;2012
+"3542602";"Sudeste";"SP";"Registro";11;2012
+"3543006";"Sudeste";"SP";"Ribeirão Branco";1;2012
+"3543303";"Sudeste";"SP";"Ribeirão Pires";8;2012
+"3543402";"Sudeste";"SP";"Ribeirão Preto";195;2012
+"3543907";"Sudeste";"SP";"Rio Claro";42;2012
+"3544004";"Sudeste";"SP";"Rio das Pedras";1;2012
+"3544251";"Sudeste";"SP";"Rosana";3;2012
+"3544509";"Sudeste";"SP";"Rubinéia";1;2012
+"3545209";"Sudeste";"SP";"Salto";9;2012
+"3545308";"Sudeste";"SP";"Salto de Pirapora";2;2012
+"3545803";"Sudeste";"SP";"Santa Bárbara d'Oeste";6;2012
+"3546306";"Sudeste";"SP";"Santa Cruz das Palmeiras";2;2012
+"3546405";"Sudeste";"SP";"Santa Cruz do Rio Pardo";11;2012
+"3546801";"Sudeste";"SP";"Santa Isabel";2;2012
+"3547601";"Sudeste";"SP";"Santa Rosa de Viterbo";2;2012
+"3547809";"Sudeste";"SP";"Santo André";94;2012
+"3548005";"Sudeste";"SP";"Santo Antônio de Posse";1;2012
+"3548500";"Sudeste";"SP";"Santos";157;2012
+"3548708";"Sudeste";"SP";"São Bernardo do Campo";105;2012
+"3548807";"Sudeste";"SP";"São Caetano do Sul";18;2012
+"3548906";"Sudeste";"SP";"São Carlos";36;2012
+"3549102";"Sudeste";"SP";"São João da Boa Vista";5;2012
+"3549409";"Sudeste";"SP";"São Joaquim da Barra";2;2012
+"3549706";"Sudeste";"SP";"São José do Rio Pardo";3;2012
+"3549805";"Sudeste";"SP";"São José do Rio Preto";120;2012
+"3549904";"Sudeste";"SP";"São José dos Campos";116;2012
+"3550100";"Sudeste";"SP";"São Manuel";3;2012
+"3550308";"Sudeste";"SP";"São Paulo";2474;2012
+"3550605";"Sudeste";"SP";"São Roque";9;2012
+"3550704";"Sudeste";"SP";"São Sebastião";11;2012
+"3550803";"Sudeste";"SP";"São Sebastião da Grama";1;2012
+"3551009";"Sudeste";"SP";"São Vicente";46;2012
+"3551504";"Sudeste";"SP";"Serrana";1;2012
+"3551603";"Sudeste";"SP";"Serra Negra";3;2012
+"3551702";"Sudeste";"SP";"Sertãozinho";36;2012
+"3552106";"Sudeste";"SP";"Socorro";3;2012
+"3552205";"Sudeste";"SP";"Sorocaba";199;2012
+"3552403";"Sudeste";"SP";"Sumaré";32;2012
+"3552502";"Sudeste";"SP";"Suzano";27;2012
+"3552700";"Sudeste";"SP";"Tabatinga";1;2012
+"3552809";"Sudeste";"SP";"Taboão da Serra";67;2012
+"3553302";"Sudeste";"SP";"Tambaú";2;2012
+"3553401";"Sudeste";"SP";"Tanabi";1;2012
+"3553708";"Sudeste";"SP";"Taquaritinga";1;2012
+"3553807";"Sudeste";"SP";"Taquarituba";2;2012
+"3554003";"Sudeste";"SP";"Tatuí";13;2012
+"3554102";"Sudeste";"SP";"Taubaté";75;2012
+"3554300";"Sudeste";"SP";"Teodoro Sampaio";6;2012
+"3554508";"Sudeste";"SP";"Tietê";2;2012
+"3554805";"Sudeste";"SP";"Tremembé";2;2012
+"3555000";"Sudeste";"SP";"Tupã";6;2012
+"3555109";"Sudeste";"SP";"Tupi Paulista";1;2012
+"3555406";"Sudeste";"SP";"Ubatuba";6;2012
+"3556206";"Sudeste";"SP";"Valinhos";5;2012
+"3556305";"Sudeste";"SP";"Valparaíso";1;2012
+"3556701";"Sudeste";"SP";"Vinhedo";1;2012
+"3557006";"Sudeste";"SP";"Votorantim";2;2012
+"3557105";"Sudeste";"SP";"Votuporanga";12;2012
+"3557204";"Sudeste";"SP";"Chavantes";2;2012
+"4100400";"Sul";"PR";"Almirante Tamandaré";5;2012
+"4100509";"Sul";"PR";"Altônia";1;2012
+"4100905";"Sul";"PR";"Amaporã";1;2012
+"4101002";"Sul";"PR";"Ampére";1;2012
+"4101101";"Sul";"PR";"Andirá";1;2012
+"4101408";"Sul";"PR";"Apucarana";34;2012
+"4101507";"Sul";"PR";"Arapongas";6;2012
+"4101705";"Sul";"PR";"Araruna";1;2012
+"4101804";"Sul";"PR";"Araucária";30;2012
+"4102000";"Sul";"PR";"Assis Chateaubriand";2;2012
+"4102307";"Sul";"PR";"Balsa Nova";1;2012
+"4102802";"Sul";"PR";"Bela Vista do Paraíso";2;2012
+"4103107";"Sul";"PR";"Bocaiúva do Sul";1;2012
+"4103206";"Sul";"PR";"Bom Sucesso";1;2012
+"4103305";"Sul";"PR";"Borrazópolis";1;2012
+"4103354";"Sul";"PR";"Braganey";1;2012
+"4103453";"Sul";"PR";"Cafelândia";2;2012
+"4103701";"Sul";"PR";"Cambé";2;2012
+"4103909";"Sul";"PR";"Campina da Lagoa";1;2012
+"4104006";"Sul";"PR";"Campina Grande do Sul";46;2012
+"4104204";"Sul";"PR";"Campo Largo";114;2012
+"4104253";"Sul";"PR";"Campo Magro";1;2012
+"4104303";"Sul";"PR";"Campo Mourão";42;2012
+"4104402";"Sul";"PR";"Cândido de Abreu";1;2012
+"4104428";"Sul";"PR";"Candói";2;2012
+"4104451";"Sul";"PR";"Cantagalo";2;2012
+"4104709";"Sul";"PR";"Carlópolis";2;2012
+"4104808";"Sul";"PR";"Cascavel";66;2012
+"4104907";"Sul";"PR";"Castro";11;2012
+"4105003";"Sul";"PR";"Catanduvas";1;2012
+"4105409";"Sul";"PR";"Chopinzinho";1;2012
+"4105508";"Sul";"PR";"Cianorte";11;2012
+"4105706";"Sul";"PR";"Clevelândia";1;2012
+"4105805";"Sul";"PR";"Colombo";12;2012
+"4106001";"Sul";"PR";"Congonhinhas";2;2012
+"4106308";"Sul";"PR";"Corbélia";1;2012
+"4106407";"Sul";"PR";"Cornélio Procópio";18;2012
+"4106506";"Sul";"PR";"Coronel Vivida";1;2012
+"4106555";"Sul";"PR";"Corumbataí do Sul";1;2012
+"4106803";"Sul";"PR";"Cruz Machado";1;2012
+"4106902";"Sul";"PR";"Curitiba";451;2012
+"4107009";"Sul";"PR";"Curiúva";2;2012
+"4107108";"Sul";"PR";"Diamante do Norte";1;2012
+"4107207";"Sul";"PR";"Dois Vizinhos";1;2012
+"4107256";"Sul";"PR";"Douradina";1;2012
+"4107405";"Sul";"PR";"Enéas Marques";1;2012
+"4107504";"Sul";"PR";"Engenheiro Beltrão";2;2012
+"4107546";"Sul";"PR";"Espigão Alto do Iguaçu";1;2012
+"4107652";"Sul";"PR";"Fazenda Rio Grande";5;2012
+"4107702";"Sul";"PR";"Fênix";1;2012
+"4107751";"Sul";"PR";"Figueira";1;2012
+"4108304";"Sul";"PR";"Foz do Iguaçu";55;2012
+"4108403";"Sul";"PR";"Francisco Beltrão";43;2012
+"4108452";"Sul";"PR";"Foz do Jordão";1;2012
+"4108502";"Sul";"PR";"General Carneiro";1;2012
+"4108601";"Sul";"PR";"Goioerê";3;2012
+"4108809";"Sul";"PR";"Guaíra";4;2012
+"4108908";"Sul";"PR";"Guairaçá";1;2012
+"4109302";"Sul";"PR";"Guaraniaçu";1;2012
+"4109401";"Sul";"PR";"Guarapuava";74;2012
+"4109500";"Sul";"PR";"Guaraqueçaba";1;2012
+"4109609";"Sul";"PR";"Guaratuba";1;2012
+"4109658";"Sul";"PR";"Honório Serpa";1;2012
+"4109708";"Sul";"PR";"Ibaiti";1;2012
+"4110003";"Sul";"PR";"Iguaraçu";1;2012
+"4110102";"Sul";"PR";"Imbituva";3;2012
+"4110201";"Sul";"PR";"Inácio Martins";1;2012
+"4110706";"Sul";"PR";"Irati";20;2012
+"4110805";"Sul";"PR";"Iretama";2;2012
+"4111001";"Sul";"PR";"Itambaracá";1;2012
+"4111258";"Sul";"PR";"Itaperuçu";3;2012
+"4111308";"Sul";"PR";"Itaúna do Sul";1;2012
+"4111407";"Sul";"PR";"Ivaí";3;2012
+"4111506";"Sul";"PR";"Ivaiporã";21;2012
+"4111803";"Sul";"PR";"Jacarezinho";4;2012
+"4111902";"Sul";"PR";"Jaguapitã";1;2012
+"4112009";"Sul";"PR";"Jaguariaíva";6;2012
+"4112108";"Sul";"PR";"Jandaia do Sul";2;2012
+"4112504";"Sul";"PR";"Jardim Alegre";1;2012
+"4112702";"Sul";"PR";"Jataizinho";1;2012
+"4113205";"Sul";"PR";"Lapa";6;2012
+"4113304";"Sul";"PR";"Laranjeiras do Sul";8;2012
+"4113502";"Sul";"PR";"Loanda";1;2012
+"4113700";"Sul";"PR";"Londrina";174;2012
+"4113908";"Sul";"PR";"Mallet";2;2012
+"4114104";"Sul";"PR";"Mandaguaçu";1;2012
+"4114203";"Sul";"PR";"Mandaguari";1;2012
+"4114302";"Sul";"PR";"Mandirituba";1;2012
+"4114500";"Sul";"PR";"Manoel Ribas";1;2012
+"4114609";"Sul";"PR";"Marechal Cândido Rondon";2;2012
+"4115200";"Sul";"PR";"Maringá";110;2012
+"4115705";"Sul";"PR";"Matinhos";2;2012
+"4115754";"Sul";"PR";"Mauá da Serra";2;2012
+"4115804";"Sul";"PR";"Medianeira";3;2012
+"4117008";"Sul";"PR";"Nova Fátima";1;2012
+"4117057";"Sul";"PR";"Nova Laranjeiras";1;2012
+"4117222";"Sul";"PR";"Nova Santa Rosa";1;2012
+"4117255";"Sul";"PR";"Nova Prata do Iguaçu";1;2012
+"4117305";"Sul";"PR";"Ortigueira";6;2012
+"4117404";"Sul";"PR";"Ourizona";1;2012
+"4117602";"Sul";"PR";"Palmas";9;2012
+"4117701";"Sul";"PR";"Palmeira";1;2012
+"4117800";"Sul";"PR";"Palmital";2;2012
+"4117909";"Sul";"PR";"Palotina";1;2012
+"4118006";"Sul";"PR";"Paraíso do Norte";1;2012
+"4118204";"Sul";"PR";"Paranaguá";15;2012
+"4118402";"Sul";"PR";"Paranavaí";26;2012
+"4118451";"Sul";"PR";"Pato Bragado";1;2012
+"4118501";"Sul";"PR";"Pato Branco";56;2012
+"4119152";"Sul";"PR";"Pinhais";4;2012
+"4119301";"Sul";"PR";"Pinhão";5;2012
+"4119400";"Sul";"PR";"Piraí do Sul";3;2012
+"4119509";"Sul";"PR";"Piraquara";1;2012
+"4119608";"Sul";"PR";"Pitanga";1;2012
+"4119806";"Sul";"PR";"Planalto";1;2012
+"4119905";"Sul";"PR";"Ponta Grossa";50;2012
+"4120358";"Sul";"PR";"Pranchita";1;2012
+"4120606";"Sul";"PR";"Prudentópolis";3;2012
+"4120903";"Sul";"PR";"Quedas do Iguaçu";2;2012
+"4121000";"Sul";"PR";"Querência do Norte";1;2012
+"4121406";"Sul";"PR";"Realeza";3;2012
+"4121703";"Sul";"PR";"Reserva";3;2012
+"4121802";"Sul";"PR";"Ribeirão Claro";1;2012
+"4122008";"Sul";"PR";"Rio Azul";1;2012
+"4122156";"Sul";"PR";"Rio Bonito do Iguaçu";1;2012
+"4122206";"Sul";"PR";"Rio Branco do Sul";1;2012
+"4122305";"Sul";"PR";"Rio Negro";2;2012
+"4122404";"Sul";"PR";"Rolândia";5;2012
+"4123006";"Sul";"PR";"Salto do Lontra";2;2012
+"4123402";"Sul";"PR";"Santa Fé";2;2012
+"4123501";"Sul";"PR";"Santa Helena";1;2012
+"4124103";"Sul";"PR";"Santo Antônio da Platina";13;2012
+"4124707";"Sul";"PR";"São Jerônimo da Serra";1;2012
+"4125100";"Sul";"PR";"São João do Triunfo";1;2012
+"4125506";"Sul";"PR";"São José dos Pinhais";25;2012
+"4126256";"Sul";"PR";"Sarandi";3;2012
+"4126504";"Sul";"PR";"Sertanópolis";1;2012
+"4126678";"Sul";"PR";"Tamarana";3;2012
+"4127007";"Sul";"PR";"Teixeira Soares";1;2012
+"4127106";"Sul";"PR";"Telêmaco Borba";9;2012
+"4127700";"Sul";"PR";"Toledo";23;2012
+"4127882";"Sul";"PR";"Tunas do Paraná";2;2012
+"4127965";"Sul";"PR";"Turvo";2;2012
+"4128005";"Sul";"PR";"Ubiratã";1;2012
+"4128104";"Sul";"PR";"Umuarama";42;2012
+"4128203";"Sul";"PR";"União da Vitória";19;2012
+"4128302";"Sul";"PR";"Uniflor";2;2012
+"4128500";"Sul";"PR";"Wenceslau Braz";3;2012
+"4128559";"Sul";"PR";"Vera Cruz do Oeste";1;2012
+"4128609";"Sul";"PR";"Verê";1;2012
+"4128633";"Sul";"PR";"Doutor Ulysses";1;2012
+"4200200";"Sul";"SC";"Agrolândia";1;2012
+"4200408";"Sul";"SC";"Água Doce";1;2012
+"4200804";"Sul";"SC";"Anchieta";1;2012
+"4201307";"Sul";"SC";"Araquari";1;2012
+"4201406";"Sul";"SC";"Araranguá";9;2012
+"4201505";"Sul";"SC";"Armazém";1;2012
+"4202008";"Sul";"SC";"Balneário Camboriú";28;2012
+"4202107";"Sul";"SC";"Barra Velha";1;2012
+"4202305";"Sul";"SC";"Biguaçu";4;2012
+"4202404";"Sul";"SC";"Blumenau";94;2012
+"4202453";"Sul";"SC";"Bombinhas";1;2012
+"4202602";"Sul";"SC";"Bom Retiro";1;2012
+"4202800";"Sul";"SC";"Braço do Norte";1;2012
+"4202909";"Sul";"SC";"Brusque";6;2012
+"4203006";"Sul";"SC";"Caçador";6;2012
+"4203204";"Sul";"SC";"Camboriú";2;2012
+"4203600";"Sul";"SC";"Campos Novos";1;2012
+"4203808";"Sul";"SC";"Canoinhas";1;2012
+"4203907";"Sul";"SC";"Capinzal";2;2012
+"4204178";"Sul";"SC";"Cerro Negro";1;2012
+"4204194";"Sul";"SC";"Chapadão do Lageado";1;2012
+"4204202";"Sul";"SC";"Chapecó";61;2012
+"4204301";"Sul";"SC";"Concórdia";13;2012
+"4204558";"Sul";"SC";"Correia Pinto";1;2012
+"4204608";"Sul";"SC";"Criciúma";52;2012
+"4204806";"Sul";"SC";"Curitibanos";33;2012
+"4205001";"Sul";"SC";"Dionísio Cerqueira";1;2012
+"4205407";"Sul";"SC";"Florianópolis";114;2012
+"4205506";"Sul";"SC";"Fraiburgo";4;2012
+"4205902";"Sul";"SC";"Gaspar";1;2012
+"4206900";"Sul";"SC";"Ibirama";2;2012
+"4207007";"Sul";"SC";"Içara";4;2012
+"4207304";"Sul";"SC";"Imbituba";1;2012
+"4207502";"Sul";"SC";"Indaial";4;2012
+"4207601";"Sul";"SC";"Ipira";1;2012
+"4208104";"Sul";"SC";"Itaiópolis";1;2012
+"4208203";"Sul";"SC";"Itajaí";50;2012
+"4208401";"Sul";"SC";"Itapiranga";2;2012
+"4208500";"Sul";"SC";"Ituporanga";2;2012
+"4208906";"Sul";"SC";"Jaraguá do Sul";19;2012
+"4208955";"Sul";"SC";"Jardinópolis";1;2012
+"4209003";"Sul";"SC";"Joaçaba";7;2012
+"4209102";"Sul";"SC";"Joinville";104;2012
+"4209300";"Sul";"SC";"Lages";80;2012
+"4209706";"Sul";"SC";"Lebon Régis";1;2012
+"4210100";"Sul";"SC";"Mafra";9;2012
+"4210506";"Sul";"SC";"Maravilha";3;2012
+"4210704";"Sul";"SC";"Matos Costa";1;2012
+"4211108";"Sul";"SC";"Monte Castelo";1;2012
+"4211306";"Sul";"SC";"Navegantes";3;2012
+"4211504";"Sul";"SC";"Nova Trento";1;2012
+"4211603";"Sul";"SC";"Nova Veneza";1;2012
+"4211702";"Sul";"SC";"Orleans";2;2012
+"4211892";"Sul";"SC";"Painel";1;2012
+"4211900";"Sul";"SC";"Palhoça";1;2012
+"4212007";"Sul";"SC";"Palma Sola";1;2012
+"4212205";"Sul";"SC";"Papanduva";1;2012
+"4212502";"Sul";"SC";"Penha";1;2012
+"4212601";"Sul";"SC";"Peritiba";1;2012
+"4213203";"Sul";"SC";"Pomerode";2;2012
+"4213609";"Sul";"SC";"Porto União";3;2012
+"4214003";"Sul";"SC";"Presidente Getúlio";1;2012
+"4214508";"Sul";"SC";"Rio do Campo";2;2012
+"4214805";"Sul";"SC";"Rio do Sul";24;2012
+"4214904";"Sul";"SC";"Rio Fortuna";2;2012
+"4215000";"Sul";"SC";"Rio Negrinho";1;2012
+"4215307";"Sul";"SC";"Salete";1;2012
+"4215406";"Sul";"SC";"Salto Veloso";1;2012
+"4215505";"Sul";"SC";"Santa Cecília";4;2012
+"4215802";"Sul";"SC";"São Bento do Sul";4;2012
+"4216206";"Sul";"SC";"São Francisco do Sul";2;2012
+"4216503";"Sul";"SC";"São Joaquim";3;2012
+"4216602";"Sul";"SC";"São José";25;2012
+"4216909";"Sul";"SC";"São Lourenço do Oeste";2;2012
+"4217204";"Sul";"SC";"São Miguel do Oeste";1;2012
+"4217303";"Sul";"SC";"Saudades";1;2012
+"4217501";"Sul";"SC";"Seara";1;2012
+"4217808";"Sul";"SC";"Taió";4;2012
+"4218004";"Sul";"SC";"Tijucas";1;2012
+"4218202";"Sul";"SC";"Timbó";2;2012
+"4218301";"Sul";"SC";"Três Barras";1;2012
+"4218707";"Sul";"SC";"Tubarão";41;2012
+"4218905";"Sul";"SC";"Urubici";2;2012
+"4219309";"Sul";"SC";"Videira";3;2012
+"4219507";"Sul";"SC";"Xanxerê";23;2012
+"4219705";"Sul";"SC";"Xaxim";2;2012
+"4300406";"Sul";"RS";"Alegrete";16;2012
+"4300604";"Sul";"RS";"Alvorada";32;2012
+"4300877";"Sul";"RS";"Araricá";1;2012
+"4301008";"Sul";"RS";"Arroio do Meio";1;2012
+"4301057";"Sul";"RS";"Arroio do Sal";1;2012
+"4301206";"Sul";"RS";"Arroio do Tigre";1;2012
+"4301305";"Sul";"RS";"Arroio Grande";1;2012
+"4301404";"Sul";"RS";"Arvorezinha";1;2012
+"4301602";"Sul";"RS";"Bagé";45;2012
+"4301636";"Sul";"RS";"Balneário Pinhal";1;2012
+"4302105";"Sul";"RS";"Bento Gonçalves";14;2012
+"4302352";"Sul";"RS";"Bom Princípio";1;2012
+"4302451";"Sul";"RS";"Boqueirão do Leão";2;2012
+"4302808";"Sul";"RS";"Caçapava do Sul";1;2012
+"4303004";"Sul";"RS";"Cachoeira do Sul";11;2012
+"4303103";"Sul";"RS";"Cachoeirinha";12;2012
+"4303509";"Sul";"RS";"Camaquã";4;2012
+"4303905";"Sul";"RS";"Campo Bom";3;2012
+"4304408";"Sul";"RS";"Canela";1;2012
+"4304507";"Sul";"RS";"Canguçu";13;2012
+"4304606";"Sul";"RS";"Canoas";34;2012
+"4304630";"Sul";"RS";"Capão da Canoa";5;2012
+"4304705";"Sul";"RS";"Carazinho";6;2012
+"4304804";"Sul";"RS";"Carlos Barbosa";2;2012
+"4305108";"Sul";"RS";"Caxias do Sul";101;2012
+"4305207";"Sul";"RS";"Cerro Largo";2;2012
+"4305355";"Sul";"RS";"Charqueadas";2;2012
+"4305454";"Sul";"RS";"Cidreira";1;2012
+"4305801";"Sul";"RS";"Constantina";1;2012
+"4306007";"Sul";"RS";"Crissiumal";2;2012
+"4306056";"Sul";"RS";"Cristal";1;2012
+"4306072";"Sul";"RS";"Cristal do Sul";1;2012
+"4306106";"Sul";"RS";"Cruz Alta";6;2012
+"4306601";"Sul";"RS";"Dom Pedrito";1;2012
+"4306767";"Sul";"RS";"Eldorado do Sul";1;2012
+"4307005";"Sul";"RS";"Erechim";29;2012
+"4307203";"Sul";"RS";"Erval Grande";1;2012
+"4307500";"Sul";"RS";"Espumoso";2;2012
+"4307609";"Sul";"RS";"Estância Velha";2;2012
+"4307708";"Sul";"RS";"Esteio";11;2012
+"4307807";"Sul";"RS";"Estrela";9;2012
+"4307906";"Sul";"RS";"Farroupilha";3;2012
+"4308300";"Sul";"RS";"Fontoura Xavier";1;2012
+"4308508";"Sul";"RS";"Frederico Westphalen";4;2012
+"4308607";"Sul";"RS";"Garibaldi";1;2012
+"4308904";"Sul";"RS";"Getúlio Vargas";1;2012
+"4309001";"Sul";"RS";"Giruá";1;2012
+"4309100";"Sul";"RS";"Gramado";3;2012
+"4309209";"Sul";"RS";"Gravataí";5;2012
+"4309308";"Sul";"RS";"Guaíba";4;2012
+"4309605";"Sul";"RS";"Horizontina";1;2012
+"4310108";"Sul";"RS";"Igrejinha";1;2012
+"4310207";"Sul";"RS";"Ijuí";22;2012
+"4310504";"Sul";"RS";"Iraí";1;2012
+"4310603";"Sul";"RS";"Itaqui";3;2012
+"4311304";"Sul";"RS";"Lagoa Vermelha";1;2012
+"4311403";"Sul";"RS";"Lajeado";15;2012
+"4311429";"Sul";"RS";"Lajeado do Bugre";1;2012
+"4312377";"Sul";"RS";"Monte Alegre dos Campos";1;2012
+"4312401";"Sul";"RS";"Montenegro";4;2012
+"4312427";"Sul";"RS";"Mormaço";1;2012
+"4312708";"Sul";"RS";"Nonoai";1;2012
+"4313003";"Sul";"RS";"Nova Bréscia";1;2012
+"4313391";"Sul";"RS";"Novo Cabrais";1;2012
+"4313409";"Sul";"RS";"Novo Hamburgo";53;2012
+"4313508";"Sul";"RS";"Osório";2;2012
+"4313706";"Sul";"RS";"Palmeira das Missões";2;2012
+"4313904";"Sul";"RS";"Panambi";3;2012
+"4314001";"Sul";"RS";"Paraí";1;2012
+"4314050";"Sul";"RS";"Parobé";3;2012
+"4314100";"Sul";"RS";"Passo Fundo";79;2012
+"4314209";"Sul";"RS";"Pedro Osório";1;2012
+"4314407";"Sul";"RS";"Pelotas";92;2012
+"4314506";"Sul";"RS";"Pinheiro Machado";1;2012
+"4314605";"Sul";"RS";"Piratini";1;2012
+"4314803";"Sul";"RS";"Portão";3;2012
+"4314902";"Sul";"RS";"Porto Alegre";455;2012
+"4315107";"Sul";"RS";"Porto Xavier";1;2012
+"4315305";"Sul";"RS";"Quaraí";2;2012
+"4315354";"Sul";"RS";"Quinze de Novembro";1;2012
+"4315404";"Sul";"RS";"Redentora";1;2012
+"4315602";"Sul";"RS";"Rio Grande";34;2012
+"4315701";"Sul";"RS";"Rio Pardo";3;2012
+"4315909";"Sul";"RS";"Rodeio Bonito";1;2012
+"4316006";"Sul";"RS";"Rolante";1;2012
+"4316105";"Sul";"RS";"Ronda Alta";1;2012
+"4316402";"Sul";"RS";"Rosário do Sul";3;2012
+"4316451";"Sul";"RS";"Salto do Jacuí";2;2012
+"4316600";"Sul";"RS";"Sananduva";1;2012
+"4316808";"Sul";"RS";"Santa Cruz do Sul";17;2012
+"4316907";"Sul";"RS";"Santa Maria";68;2012
+"4317103";"Sul";"RS";"Sant'Ana do Livramento";6;2012
+"4317202";"Sul";"RS";"Santa Rosa";20;2012
+"4317301";"Sul";"RS";"Santa Vitória do Palmar";3;2012
+"4317400";"Sul";"RS";"Santiago";2;2012
+"4317509";"Sul";"RS";"Santo Ângelo";13;2012
+"4317608";"Sul";"RS";"Santo Antônio da Patrulha";2;2012
+"4318002";"Sul";"RS";"São Borja";6;2012
+"4318200";"Sul";"RS";"São Francisco de Paula";3;2012
+"4318309";"Sul";"RS";"São Gabriel";7;2012
+"4318408";"Sul";"RS";"São Jerônimo";3;2012
+"4318606";"Sul";"RS";"São José do Ouro";1;2012
+"4318705";"Sul";"RS";"São Leopoldo";36;2012
+"4318804";"Sul";"RS";"São Lourenço do Sul";2;2012
+"4318903";"Sul";"RS";"São Luiz Gonzaga";5;2012
+"4319505";"Sul";"RS";"São Sebastião do Caí";2;2012
+"4319901";"Sul";"RS";"Sapiranga";6;2012
+"4320008";"Sul";"RS";"Sapucaia do Sul";2;2012
+"4320206";"Sul";"RS";"Seberi";1;2012
+"4320503";"Sul";"RS";"Sertão";1;2012
+"4320701";"Sul";"RS";"Sobradinho";2;2012
+"4320800";"Sul";"RS";"Soledade";4;2012
+"4321006";"Sul";"RS";"Tapera";1;2012
+"4321204";"Sul";"RS";"Taquara";5;2012
+"4321477";"Sul";"RS";"Tiradentes do Sul";1;2012
+"4321501";"Sul";"RS";"Torres";6;2012
+"4321600";"Sul";"RS";"Tramandaí";15;2012
+"4321808";"Sul";"RS";"Três de Maio";1;2012
+"4321956";"Sul";"RS";"Trindade do Sul";1;2012
+"4322004";"Sul";"RS";"Triunfo";2;2012
+"4322202";"Sul";"RS";"Tupanciretã";1;2012
+"4322400";"Sul";"RS";"Uruguaiana";37;2012
+"4322509";"Sul";"RS";"Vacaria";7;2012
+"4322608";"Sul";"RS";"Venâncio Aires";1;2012
+"4322806";"Sul";"RS";"Veranópolis";1;2012
+"4323002";"Sul";"RS";"Viamão";9;2012
+"4323358";"Sul";"RS";"Vila Lângaro";1;2012
+"5000609";"Centro Oeste";"MS";"Amambai";15;2012
+"5000856";"Centro Oeste";"MS";"Angélica";1;2012
+"5000906";"Centro Oeste";"MS";"Antônio João";3;2012
+"5001003";"Centro Oeste";"MS";"Aparecida do Taboado";2;2012
+"5001102";"Centro Oeste";"MS";"Aquidauana";9;2012
+"5001243";"Centro Oeste";"MS";"Aral Moreira";1;2012
+"5001508";"Centro Oeste";"MS";"Bandeirantes";1;2012
+"5001904";"Centro Oeste";"MS";"Bataguassu";2;2012
+"5002001";"Centro Oeste";"MS";"Batayporã";2;2012
+"5002100";"Centro Oeste";"MS";"Bela Vista";4;2012
+"5002159";"Centro Oeste";"MS";"Bodoquena";1;2012
+"5002209";"Centro Oeste";"MS";"Bonito";3;2012
+"5002308";"Centro Oeste";"MS";"Brasilândia";2;2012
+"5002407";"Centro Oeste";"MS";"Caarapó";1;2012
+"5002605";"Centro Oeste";"MS";"Camapuã";2;2012
+"5002704";"Centro Oeste";"MS";"Campo Grande";219;2012
+"5002803";"Centro Oeste";"MS";"Caracol";2;2012
+"5002902";"Centro Oeste";"MS";"Cassilândia";3;2012
+"5002951";"Centro Oeste";"MS";"Chapadão do Sul";4;2012
+"5003157";"Centro Oeste";"MS";"Coronel Sapucaia";4;2012
+"5003207";"Centro Oeste";"MS";"Corumbá";36;2012
+"5003256";"Centro Oeste";"MS";"Costa Rica";4;2012
+"5003306";"Centro Oeste";"MS";"Coxim";4;2012
+"5003702";"Centro Oeste";"MS";"Dourados";133;2012
+"5003801";"Centro Oeste";"MS";"Fátima do Sul";1;2012
+"5004106";"Centro Oeste";"MS";"Guia Lopes da Laguna";1;2012
+"5004304";"Centro Oeste";"MS";"Iguatemi";6;2012
+"5004502";"Centro Oeste";"MS";"Itaporã";1;2012
+"5004601";"Centro Oeste";"MS";"Itaquiraí";1;2012
+"5004809";"Centro Oeste";"MS";"Japorã";1;2012
+"5005004";"Centro Oeste";"MS";"Jardim";3;2012
+"5005152";"Centro Oeste";"MS";"Juti";3;2012
+"5005251";"Centro Oeste";"MS";"Laguna Carapã";3;2012
+"5005400";"Centro Oeste";"MS";"Maracaju";4;2012
+"5005608";"Centro Oeste";"MS";"Miranda";4;2012
+"5005681";"Centro Oeste";"MS";"Mundo Novo";4;2012
+"5005707";"Centro Oeste";"MS";"Naviraí";4;2012
+"5005806";"Centro Oeste";"MS";"Nioaque";1;2012
+"5006002";"Centro Oeste";"MS";"Nova Alvorada do Sul";2;2012
+"5006200";"Centro Oeste";"MS";"Nova Andradina";3;2012
+"5006259";"Centro Oeste";"MS";"Novo Horizonte do Sul";1;2012
+"5006309";"Centro Oeste";"MS";"Paranaíba";6;2012
+"5006358";"Centro Oeste";"MS";"Paranhos";5;2012
+"5006408";"Centro Oeste";"MS";"Pedro Gomes";1;2012
+"5006606";"Centro Oeste";"MS";"Ponta Porã";10;2012
+"5006903";"Centro Oeste";"MS";"Porto Murtinho";4;2012
+"5007208";"Centro Oeste";"MS";"Rio Brilhante";1;2012
+"5007695";"Centro Oeste";"MS";"São Gabriel do Oeste";1;2012
+"5007703";"Centro Oeste";"MS";"Sete Quedas";1;2012
+"5007901";"Centro Oeste";"MS";"Sidrolândia";2;2012
+"5007950";"Centro Oeste";"MS";"Tacuru";2;2012
+"5007976";"Centro Oeste";"MS";"Taquarussu";1;2012
+"5008008";"Centro Oeste";"MS";"Terenos";1;2012
+"5008305";"Centro Oeste";"MS";"Três Lagoas";8;2012
+"5100201";"Centro Oeste";"MT";"Água Boa";23;2012
+"5100250";"Centro Oeste";"MT";"Alta Floresta";13;2012
+"5100300";"Centro Oeste";"MT";"Alto Araguaia";1;2012
+"5100409";"Centro Oeste";"MT";"Alto Garças";1;2012
+"5100508";"Centro Oeste";"MT";"Alto Paraguai";1;2012
+"5101308";"Centro Oeste";"MT";"Arenápolis";2;2012
+"5101407";"Centro Oeste";"MT";"Aripuanã";2;2012
+"5101704";"Centro Oeste";"MT";"Barra do Bugres";2;2012
+"5101803";"Centro Oeste";"MT";"Barra do Garças";17;2012
+"5101852";"Centro Oeste";"MT";"Bom Jesus do Araguaia";1;2012
+"5101902";"Centro Oeste";"MT";"Brasnorte";3;2012
+"5102504";"Centro Oeste";"MT";"Cáceres";52;2012
+"5102603";"Centro Oeste";"MT";"Campinápolis";2;2012
+"5102637";"Centro Oeste";"MT";"Campo Novo do Parecis";5;2012
+"5102678";"Centro Oeste";"MT";"Campo Verde";2;2012
+"5102686";"Centro Oeste";"MT";"Campos de Júlio";2;2012
+"5102702";"Centro Oeste";"MT";"Canarana";5;2012
+"5103205";"Centro Oeste";"MT";"Colíder";22;2012
+"5103254";"Centro Oeste";"MT";"Colniza";3;2012
+"5103304";"Centro Oeste";"MT";"Comodoro";1;2012
+"5103353";"Centro Oeste";"MT";"Confresa";5;2012
+"5103403";"Centro Oeste";"MT";"Cuiabá";306;2012
+"5103437";"Centro Oeste";"MT";"Curvelândia";1;2012
+"5103502";"Centro Oeste";"MT";"Diamantino";2;2012
+"5103601";"Centro Oeste";"MT";"Dom Aquino";2;2012
+"5103858";"Centro Oeste";"MT";"Gaúcha do Norte";1;2012
+"5103908";"Centro Oeste";"MT";"General Carneiro";1;2012
+"5104104";"Centro Oeste";"MT";"Guarantã do Norte";2;2012
+"5104203";"Centro Oeste";"MT";"Guiratinga";1;2012
+"5104559";"Centro Oeste";"MT";"Itaúba";1;2012
+"5104609";"Centro Oeste";"MT";"Itiquira";2;2012
+"5104807";"Centro Oeste";"MT";"Jaciara";1;2012
+"5104906";"Centro Oeste";"MT";"Jangada";1;2012
+"5105101";"Centro Oeste";"MT";"Juara";5;2012
+"5105150";"Centro Oeste";"MT";"Juína";7;2012
+"5105259";"Centro Oeste";"MT";"Lucas do Rio Verde";9;2012
+"5105580";"Centro Oeste";"MT";"Marcelândia";2;2012
+"5105606";"Centro Oeste";"MT";"Matupá";1;2012
+"5105622";"Centro Oeste";"MT";"Mirassol d'Oeste";2;2012
+"5105903";"Centro Oeste";"MT";"Nobres";1;2012
+"5106000";"Centro Oeste";"MT";"Nortelândia";1;2012
+"5106109";"Centro Oeste";"MT";"Nossa Senhora do Livramento";1;2012
+"5106208";"Centro Oeste";"MT";"Nova Brasilândia";1;2012
+"5106224";"Centro Oeste";"MT";"Nova Mutum";9;2012
+"5106232";"Centro Oeste";"MT";"Nova Olímpia";2;2012
+"5106257";"Centro Oeste";"MT";"Nova Xavantina";3;2012
+"5106307";"Centro Oeste";"MT";"Paranatinga";2;2012
+"5106422";"Centro Oeste";"MT";"Peixoto de Azevedo";4;2012
+"5106505";"Centro Oeste";"MT";"Poconé";1;2012
+"5106752";"Centro Oeste";"MT";"Pontes e Lacerda";3;2012
+"5106778";"Centro Oeste";"MT";"Porto Alegre do Norte";2;2012
+"5107008";"Centro Oeste";"MT";"Poxoréo";2;2012
+"5107040";"Centro Oeste";"MT";"Primavera do Leste";9;2012
+"5107065";"Centro Oeste";"MT";"Querência";1;2012
+"5107107";"Centro Oeste";"MT";"São José dos Quatro Marcos";3;2012
+"5107156";"Centro Oeste";"MT";"Reserva do Cabaçal";1;2012
+"5107180";"Centro Oeste";"MT";"Ribeirão Cascalheira";2;2012
+"5107206";"Centro Oeste";"MT";"Rio Branco";1;2012
+"5107305";"Centro Oeste";"MT";"São José do Rio Claro";2;2012
+"5107602";"Centro Oeste";"MT";"Rondonópolis";42;2012
+"5107701";"Centro Oeste";"MT";"Rosário Oeste";1;2012
+"5107776";"Centro Oeste";"MT";"Santa Terezinha";1;2012
+"5107800";"Centro Oeste";"MT";"Santo Antônio do Leverger";1;2012
+"5107859";"Centro Oeste";"MT";"São Félix do Araguaia";1;2012
+"5107875";"Centro Oeste";"MT";"Sapezal";1;2012
+"5107909";"Centro Oeste";"MT";"Sinop";17;2012
+"5107925";"Centro Oeste";"MT";"Sorriso";16;2012
+"5107958";"Centro Oeste";"MT";"Tangará da Serra";26;2012
+"5108055";"Centro Oeste";"MT";"Terra Nova do Norte";1;2012
+"5108402";"Centro Oeste";"MT";"Várzea Grande";21;2012
+"5108600";"Centro Oeste";"MT";"Vila Rica";3;2012
+"5200050";"Centro Oeste";"GO";"Abadia de Goiás";1;2012
+"5200100";"Centro Oeste";"GO";"Abadiânia";1;2012
+"5200258";"Centro Oeste";"GO";"Águas Lindas de Goiás";2;2012
+"5200308";"Centro Oeste";"GO";"Alexânia";1;2012
+"5200605";"Centro Oeste";"GO";"Alto Paraíso de Goiás";1;2012
+"5200803";"Centro Oeste";"GO";"Alvorada do Norte";3;2012
+"5201108";"Centro Oeste";"GO";"Anápolis";110;2012
+"5201405";"Centro Oeste";"GO";"Aparecida de Goiânia";36;2012
+"5201801";"Centro Oeste";"GO";"Aragoiânia";1;2012
+"5202502";"Centro Oeste";"GO";"Aruanã";1;2012
+"5204003";"Centro Oeste";"GO";"Cabeceiras";1;2012
+"5204409";"Centro Oeste";"GO";"Caiapônia";2;2012
+"5204508";"Centro Oeste";"GO";"Caldas Novas";6;2012
+"5205109";"Centro Oeste";"GO";"Catalão";4;2012
+"5205307";"Centro Oeste";"GO";"Cavalcante";1;2012
+"5205406";"Centro Oeste";"GO";"Ceres";8;2012
+"5206206";"Centro Oeste";"GO";"Cristalina";3;2012
+"5206404";"Centro Oeste";"GO";"Crixás";1;2012
+"5206701";"Centro Oeste";"GO";"Damianópolis";1;2012
+"5207808";"Centro Oeste";"GO";"Firminópolis";1;2012
+"5208004";"Centro Oeste";"GO";"Formosa";11;2012
+"5208301";"Centro Oeste";"GO";"Divinópolis de Goiás";1;2012
+"5208608";"Centro Oeste";"GO";"Goianésia";5;2012
+"5208707";"Centro Oeste";"GO";"Goiânia";795;2012
+"5208806";"Centro Oeste";"GO";"Goianira";1;2012
+"5208905";"Centro Oeste";"GO";"Goiás";2;2012
+"5209150";"Centro Oeste";"GO";"Gouvelândia";1;2012
+"5209705";"Centro Oeste";"GO";"Hidrolândia";1;2012
+"5209903";"Centro Oeste";"GO";"Iaciara";2;2012
+"5210000";"Centro Oeste";"GO";"Inhumas";1;2012
+"5210109";"Centro Oeste";"GO";"Ipameri";1;2012
+"5210208";"Centro Oeste";"GO";"Iporá";3;2012
+"5210307";"Centro Oeste";"GO";"Israelândia";1;2012
+"5210406";"Centro Oeste";"GO";"Itaberaí";1;2012
+"5210802";"Centro Oeste";"GO";"Itajá";1;2012
+"5211008";"Centro Oeste";"GO";"Itapirapuã";1;2012
+"5211206";"Centro Oeste";"GO";"Itapuranga";1;2012
+"5211404";"Centro Oeste";"GO";"Itauçu";1;2012
+"5211503";"Centro Oeste";"GO";"Itumbiara";8;2012
+"5211800";"Centro Oeste";"GO";"Jaraguá";4;2012
+"5211909";"Centro Oeste";"GO";"Jataí";5;2012
+"5212204";"Centro Oeste";"GO";"Jussara";4;2012
+"5212501";"Centro Oeste";"GO";"Luziânia";4;2012
+"5212956";"Centro Oeste";"GO";"Matrinchã";1;2012
+"5213087";"Centro Oeste";"GO";"Minaçu";3;2012
+"5213103";"Centro Oeste";"GO";"Mineiros";13;2012
+"5213509";"Centro Oeste";"GO";"Monte Alegre de Goiás";2;2012
+"5213806";"Centro Oeste";"GO";"Morrinhos";2;2012
+"5214002";"Centro Oeste";"GO";"Mozarlândia";1;2012
+"5214051";"Centro Oeste";"GO";"Mundo Novo";2;2012
+"5214507";"Centro Oeste";"GO";"Nerópolis";2;2012
+"5214606";"Centro Oeste";"GO";"Niquelândia";2;2012
+"5214838";"Centro Oeste";"GO";"Nova Crixás";1;2012
+"5215231";"Centro Oeste";"GO";"Novo Gama";1;2012
+"5215306";"Centro Oeste";"GO";"Orizona";1;2012
+"5216304";"Centro Oeste";"GO";"Paranaiguara";1;2012
+"5216403";"Centro Oeste";"GO";"Paraúna";2;2012
+"5217104";"Centro Oeste";"GO";"Piracanjuba";1;2012
+"5217302";"Centro Oeste";"GO";"Pirenópolis";1;2012
+"5217401";"Centro Oeste";"GO";"Pires do Rio";1;2012
+"5217609";"Centro Oeste";"GO";"Planaltina";2;2012
+"5218003";"Centro Oeste";"GO";"Porangatu";4;2012
+"5218300";"Centro Oeste";"GO";"Posse";3;2012
+"5218508";"Centro Oeste";"GO";"Quirinópolis";2;2012
+"5218805";"Centro Oeste";"GO";"Rio Verde";20;2012
+"5219308";"Centro Oeste";"GO";"Santa Helena de Goiás";24;2012
+"5219704";"Centro Oeste";"GO";"Santa Terezinha de Goiás";2;2012
+"5219753";"Centro Oeste";"GO";"Santo Antônio do Descoberto";2;2012
+"5220009";"Centro Oeste";"GO";"São João d'Aliança";1;2012
+"5220108";"Centro Oeste";"GO";"São Luís de Montes Belos";1;2012
+"5220207";"Centro Oeste";"GO";"São Miguel do Araguaia";2;2012
+"5220405";"Centro Oeste";"GO";"São Simão";2;2012
+"5220454";"Centro Oeste";"GO";"Senador Canedo";5;2012
+"5220603";"Centro Oeste";"GO";"Silvânia";1;2012
+"5220686";"Centro Oeste";"GO";"Simolândia";1;2012
+"5221403";"Centro Oeste";"GO";"Trindade";1;2012
+"5221601";"Centro Oeste";"GO";"Uruaçu";5;2012
+"5221858";"Centro Oeste";"GO";"Valparaíso de Goiás";2;2012
+"5222005";"Centro Oeste";"GO";"Vianópolis";1;2012
+"5300108";"Centro Oeste";"DF";"Brasília";755;2012

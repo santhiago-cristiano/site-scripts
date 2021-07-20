@@ -1,0 +1,1448 @@
+"cod_ibge";"regiao";"uf";"municipio";"total_2010";"total_2011";"total_2012"
+"1100015";"Norte";"RO";"Alta Floresta D'Oeste";5;3;1
+"1100023";"Norte";"RO";"Ariquemes";29;15;14
+"1100049";"Norte";"RO";"Cacoal";14;14;12
+"1100080";"Norte";"RO";"Costa Marques";1;1;2
+"1100098";"Norte";"RO";"Espigão D'Oeste";3;6;1
+"1100106";"Norte";"RO";"Guajará-Mirim";13;5;3
+"1100114";"Norte";"RO";"Jaru";8;2;6
+"1100122";"Norte";"RO";"Ji-Paraná";31;10;10
+"1100155";"Norte";"RO";"Ouro Preto do Oeste";3;6;3
+"1100189";"Norte";"RO";"Pimenta Bueno";7;6;3
+"1100205";"Norte";"RO";"Porto Velho";307;254;270
+"1100254";"Norte";"RO";"Presidente Médici";2;1;1
+"1100288";"Norte";"RO";"Rolim de Moura";2;4;3
+"1100304";"Norte";"RO";"Vilhena";25;21;26
+"1100452";"Norte";"RO";"Buritis";2;3;2
+"1200013";"Norte";"AC";"Acrelândia";1;1;2
+"1200104";"Norte";"AC";"Brasiléia";5;7;7
+"1200203";"Norte";"AC";"Cruzeiro do Sul";41;39;37
+"1200302";"Norte";"AC";"Feijó";10;12;11
+"1200328";"Norte";"AC";"Jordão";7;16;9
+"1200336";"Norte";"AC";"Mâncio Lima";2;1;1
+"1200344";"Norte";"AC";"Manoel Urbano";2;1;4
+"1200401";"Norte";"AC";"Rio Branco";193;155;169
+"1200435";"Norte";"AC";"Santa Rosa do Purus";3;4;5
+"1200500";"Norte";"AC";"Sena Madureira";8;12;9
+"1200609";"Norte";"AC";"Tarauacá";18;21;23
+"1200708";"Norte";"AC";"Xapuri";2;2;1
+"1300029";"Norte";"AM";"Alvarães";8;3;4
+"1300060";"Norte";"AM";"Amaturá";3;10;5
+"1300086";"Norte";"AM";"Anamã";1;1;1
+"1300102";"Norte";"AM";"Anori";3;3;3
+"1300144";"Norte";"AM";"Apuí";2;2;5
+"1300201";"Norte";"AM";"Atalaia do Norte";5;3;6
+"1300300";"Norte";"AM";"Autazes";8;3;5
+"1300409";"Norte";"AM";"Barcelos";3;2;16
+"1300508";"Norte";"AM";"Barreirinha";5;5;4
+"1300607";"Norte";"AM";"Benjamin Constant";23;7;22
+"1300631";"Norte";"AM";"Beruri";3;4;3
+"1300706";"Norte";"AM";"Boca do Acre";4;1;6
+"1300805";"Norte";"AM";"Borba";4;5;5
+"1300904";"Norte";"AM";"Canutama";3;3;1
+"1301001";"Norte";"AM";"Carauari";17;12;22
+"1301100";"Norte";"AM";"Careiro";2;1;4
+"1301159";"Norte";"AM";"Careiro da Várzea";2;2;1
+"1301209";"Norte";"AM";"Coari";21;29;16
+"1301308";"Norte";"AM";"Codajás";10;6;6
+"1301407";"Norte";"AM";"Eirunepé";37;28;32
+"1301506";"Norte";"AM";"Envira";8;13;6
+"1301605";"Norte";"AM";"Fonte Boa";4;11;8
+"1301654";"Norte";"AM";"Guajará";3;2;3
+"1301704";"Norte";"AM";"Humaitá";4;6;4
+"1301803";"Norte";"AM";"Ipixuna";2;5;1
+"1301852";"Norte";"AM";"Iranduba";8;4;2
+"1301902";"Norte";"AM";"Itacoatiara";18;27;17
+"1301951";"Norte";"AM";"Itamarati";2;3;3
+"1302009";"Norte";"AM";"Itapiranga";2;2;4
+"1302207";"Norte";"AM";"Juruá";1;2;3
+"1302306";"Norte";"AM";"Jutaí";1;1;7
+"1302405";"Norte";"AM";"Lábrea";10;16;18
+"1302504";"Norte";"AM";"Manacapuru";20;19;14
+"1302603";"Norte";"AM";"Manaus";653;667;689
+"1302702";"Norte";"AM";"Manicoré";14;8;10
+"1302801";"Norte";"AM";"Maraã";8;3;3
+"1302900";"Norte";"AM";"Maués";14;11;21
+"1303007";"Norte";"AM";"Nhamundá";2;4;1
+"1303106";"Norte";"AM";"Nova Olinda do Norte";13;9;7
+"1303205";"Norte";"AM";"Novo Airão";1;4;1
+"1303304";"Norte";"AM";"Novo Aripuanã";4;1;4
+"1303403";"Norte";"AM";"Parintins";37;43;33
+"1303502";"Norte";"AM";"Pauini";2;3;5
+"1303569";"Norte";"AM";"Rio Preto da Eva";5;1;4
+"1303601";"Norte";"AM";"Santa Isabel do Rio Negro";5;7;9
+"1303700";"Norte";"AM";"Santo Antônio do Içá";11;4;22
+"1303809";"Norte";"AM";"São Gabriel da Cachoeira";27;33;30
+"1303908";"Norte";"AM";"São Paulo de Olivença";15;22;33
+"1303957";"Norte";"AM";"São Sebastião do Uatumã";1;4;2
+"1304005";"Norte";"AM";"Silves";1;1;2
+"1304062";"Norte";"AM";"Tabatinga";45;36;38
+"1304104";"Norte";"AM";"Tapauá";4;4;7
+"1304203";"Norte";"AM";"Tefé";29;32;38
+"1304260";"Norte";"AM";"Uarini";13;5;6
+"1304302";"Norte";"AM";"Urucará";1;1;3
+"1400100";"Norte";"RR";"Boa Vista";116;106;126
+"1400472";"Norte";"RR";"Rorainópolis";2;7;2
+"1400704";"Norte";"RR";"Uiramutã";1;1;2
+"1500107";"Norte";"PA";"Abaetetuba";27;11;23
+"1500206";"Norte";"PA";"Acará";3;3;1
+"1500305";"Norte";"PA";"Afuá";1;2;6
+"1500404";"Norte";"PA";"Alenquer";20;31;26
+"1500503";"Norte";"PA";"Almeirim";9;9;10
+"1500602";"Norte";"PA";"Altamira";80;80;70
+"1500701";"Norte";"PA";"Anajás";7;5;6
+"1500800";"Norte";"PA";"Ananindeua";84;85;65
+"1500859";"Norte";"PA";"Anapu";8;6;5
+"1500909";"Norte";"PA";"Augusto Corrêa";4;2;2
+"1500958";"Norte";"PA";"Aurora do Pará";2;4;1
+"1501204";"Norte";"PA";"Baião";3;6;5
+"1501303";"Norte";"PA";"Barcarena";14;8;5
+"1501402";"Norte";"PA";"Belém";866;882;822
+"1501501";"Norte";"PA";"Benevides";1;2;3
+"1501709";"Norte";"PA";"Bragança";67;71;70
+"1501725";"Norte";"PA";"Brasil Novo";1;1;2
+"1501782";"Norte";"PA";"Breu Branco";2;1;2
+"1501808";"Norte";"PA";"Breves";48;67;73
+"1501907";"Norte";"PA";"Bujaru";1;2;1
+"1502004";"Norte";"PA";"Cachoeira do Arari";2;3;3
+"1502103";"Norte";"PA";"Cametá";59;56;46
+"1502152";"Norte";"PA";"Canaã dos Carajás";4;7;7
+"1502202";"Norte";"PA";"Capanema";25;28;28
+"1502301";"Norte";"PA";"Capitão Poço";8;7;4
+"1502400";"Norte";"PA";"Castanhal";49;47;38
+"1502707";"Norte";"PA";"Conceição do Araguaia";3;7;8
+"1502756";"Norte";"PA";"Concórdia do Pará";5;3;7
+"1502764";"Norte";"PA";"Cumaru do Norte";1;1;3
+"1502806";"Norte";"PA";"Curralinho";5;6;6
+"1502905";"Norte";"PA";"Curuçá";1;2;1
+"1502939";"Norte";"PA";"Dom Eliseu";10;4;2
+"1502954";"Norte";"PA";"Eldorado do Carajás";5;2;6
+"1503044";"Norte";"PA";"Floresta do Araguaia";2;3;2
+"1503093";"Norte";"PA";"Goianésia do Pará";4;5;2
+"1503101";"Norte";"PA";"Gurupá";5;5;4
+"1503309";"Norte";"PA";"Igarapé-Miri";12;8;7
+"1503457";"Norte";"PA";"Ipixuna do Pará";6;3;4
+"1503606";"Norte";"PA";"Itaituba";45;35;38
+"1503705";"Norte";"PA";"Itupiranga";4;5;5
+"1503754";"Norte";"PA";"Jacareacanga";14;4;9
+"1503804";"Norte";"PA";"Jacundá";11;7;8
+"1503903";"Norte";"PA";"Juruti";23;16;15
+"1504000";"Norte";"PA";"Limoeiro do Ajuru";2;4;8
+"1504059";"Norte";"PA";"Mãe do Rio";7;6;5
+"1504208";"Norte";"PA";"Marabá";132;106;96
+"1504422";"Norte";"PA";"Marituba";16;17;16
+"1504455";"Norte";"PA";"Medicilândia";3;2;3
+"1504505";"Norte";"PA";"Melgaço";2;6;3
+"1504604";"Norte";"PA";"Mocajuba";6;10;4
+"1504703";"Norte";"PA";"Moju";13;7;6
+"1504802";"Norte";"PA";"Monte Alegre";24;13;19
+"1504901";"Norte";"PA";"Muaná";8;8;10
+"1504950";"Norte";"PA";"Nova Esperança do Piriá";7;1;4
+"1505031";"Norte";"PA";"Novo Progresso";16;9;8
+"1505064";"Norte";"PA";"Novo Repartimento";6;4;5
+"1505106";"Norte";"PA";"Óbidos";18;15;13
+"1505205";"Norte";"PA";"Oeiras do Pará";9;16;10
+"1505304";"Norte";"PA";"Oriximiná";15;22;28
+"1505437";"Norte";"PA";"Ourilândia do Norte";10;9;9
+"1505486";"Norte";"PA";"Pacajá";8;8;6
+"1505502";"Norte";"PA";"Paragominas";30;24;21
+"1505536";"Norte";"PA";"Parauapebas";49;42;45
+"1505551";"Norte";"PA";"Pau D'Arco";2;1;1
+"1505650";"Norte";"PA";"Placas";3;1;2
+"1505700";"Norte";"PA";"Ponta de Pedras";2;2;5
+"1505809";"Norte";"PA";"Portel";8;15;5
+"1505908";"Norte";"PA";"Porto de Moz";5;6;6
+"1506005";"Norte";"PA";"Prainha";6;10;11
+"1506138";"Norte";"PA";"Redenção";52;58;58
+"1506161";"Norte";"PA";"Rio Maria";1;2;2
+"1506187";"Norte";"PA";"Rondon do Pará";15;11;6
+"1506195";"Norte";"PA";"Rurópolis";3;7;7
+"1506203";"Norte";"PA";"Salinópolis";7;2;4
+"1506302";"Norte";"PA";"Salvaterra";7;7;6
+"1506500";"Norte";"PA";"Santa Izabel do Pará";8;3;3
+"1506559";"Norte";"PA";"Santa Luzia do Pará";1;1;1
+"1506708";"Norte";"PA";"Santana do Araguaia";4;6;2
+"1506807";"Norte";"PA";"Santarém";152;147;148
+"1507003";"Norte";"PA";"Santo Antônio do Tauá";1;2;1
+"1507102";"Norte";"PA";"São Caetano de Odivelas";2;1;1
+"1507201";"Norte";"PA";"São Domingos do Capim";1;2;2
+"1507300";"Norte";"PA";"São Félix do Xingu";11;11;16
+"1507458";"Norte";"PA";"São Geraldo do Araguaia";4;2;3
+"1507607";"Norte";"PA";"São Miguel do Guamá";6;7;4
+"1507706";"Norte";"PA";"São Sebastião da Boa Vista";10;7;5
+"1507805";"Norte";"PA";"Senador José Porfírio";2;1;4
+"1507904";"Norte";"PA";"Soure";6;6;9
+"1507953";"Norte";"PA";"Tailândia";19;24;13
+"1507979";"Norte";"PA";"Terra Santa";2;3;2
+"1508001";"Norte";"PA";"Tomé-Açu";17;15;20
+"1508050";"Norte";"PA";"Trairão";2;5;4
+"1508084";"Norte";"PA";"Tucumã";10;15;12
+"1508100";"Norte";"PA";"Tucuruí";104;92;80
+"1508126";"Norte";"PA";"Ulianópolis";7;1;5
+"1508159";"Norte";"PA";"Uruará";8;7;8
+"1508209";"Norte";"PA";"Vigia";4;4;4
+"1508308";"Norte";"PA";"Viseu";11;6;5
+"1508407";"Norte";"PA";"Xinguara";6;9;8
+"1600154";"Norte";"AP";"Pedra Branca do Amapari";1;2;3
+"1600279";"Norte";"AP";"Laranjal do Jari";21;17;24
+"1600303";"Norte";"AP";"Macapá";239;260;259
+"1600501";"Norte";"AP";"Oiapoque";6;5;6
+"1600535";"Norte";"AP";"Porto Grande";3;2;2
+"1600600";"Norte";"AP";"Santana";32;27;31
+"1701903";"Norte";"TO";"Araguacema";1;1;3
+"1702109";"Norte";"TO";"Araguaína";98;108;89
+"1702554";"Norte";"TO";"Augustinópolis";27;19;11
+"1705508";"Norte";"TO";"Colinas do Tocantins";7;3;5
+"1707009";"Norte";"TO";"Dianópolis";8;6;2
+"1709005";"Norte";"TO";"Goiatins";1;3;3
+"1709302";"Norte";"TO";"Guaraí";6;6;7
+"1709500";"Norte";"TO";"Gurupi";30;25;30
+"1710508";"Norte";"TO";"Itacajá";2;5;2
+"1713205";"Norte";"TO";"Miracema do Tocantins";7;8;2
+"1713601";"Norte";"TO";"Monte do Carmo";1;2;1
+"1716109";"Norte";"TO";"Paraíso do Tocantins";4;12;7
+"1716505";"Norte";"TO";"Pedro Afonso";6;4;3
+"1718204";"Norte";"TO";"Porto Nacional";18;13;10
+"1718501";"Norte";"TO";"Recursolândia";2;1;1
+"1720903";"Norte";"TO";"Taguatinga";7;1;1
+"1721000";"Norte";"TO";"Palmas";122;127;113
+"2100055";"Nordeste";"MA";"Açailândia";10;19;2
+"2100204";"Nordeste";"MA";"Alcântara";1;1;3
+"2100402";"Nordeste";"MA";"Altamira do Maranhão";3;1;1
+"2100477";"Nordeste";"MA";"Alto Alegre do Pindaré";1;5;5
+"2100600";"Nordeste";"MA";"Amarante do Maranhão";6;7;4
+"2100832";"Nordeste";"MA";"Apicum-Açu";2;2;2
+"2101004";"Nordeste";"MA";"Arari";3;1;2
+"2101202";"Nordeste";"MA";"Bacabal";27;35;21
+"2101400";"Nordeste";"MA";"Balsas";25;10;13
+"2101608";"Nordeste";"MA";"Barra do Corda";35;32;26
+"2101707";"Nordeste";"MA";"Barreirinhas";7;8;13
+"2102002";"Nordeste";"MA";"Bom Jardim";2;6;3
+"2102101";"Nordeste";"MA";"Brejo";2;4;1
+"2102200";"Nordeste";"MA";"Buriti";9;4;5
+"2102309";"Nordeste";"MA";"Buriti Bravo";2;1;2
+"2102325";"Nordeste";"MA";"Buriticupu";2;3;4
+"2102408";"Nordeste";"MA";"Cajapió";4;1;1
+"2102705";"Nordeste";"MA";"Cantanhede";1;4;4
+"2102903";"Nordeste";"MA";"Carutapera";5;10;5
+"2103000";"Nordeste";"MA";"Caxias";170;207;153
+"2103208";"Nordeste";"MA";"Chapadinha";48;53;37
+"2103307";"Nordeste";"MA";"Codó";22;16;13
+"2103406";"Nordeste";"MA";"Coelho Neto";4;8;10
+"2103505";"Nordeste";"MA";"Colinas";9;5;4
+"2103604";"Nordeste";"MA";"Coroatá";10;12;25
+"2103703";"Nordeste";"MA";"Cururupu";29;25;22
+"2104008";"Nordeste";"MA";"Esperantinópolis";6;4;4
+"2104677";"Nordeste";"MA";"Governador Nunes Freire";23;33;38
+"2104800";"Nordeste";"MA";"Grajaú";9;17;10
+"2105005";"Nordeste";"MA";"Humberto de Campos";6;4;1
+"2105203";"Nordeste";"MA";"Igarapé Grande";1;2;1
+"2105302";"Nordeste";"MA";"Imperatriz";268;247;272
+"2105351";"Nordeste";"MA";"Itaipava do Grajaú";4;1;1
+"2105401";"Nordeste";"MA";"Itapecuru Mirim";8;15;3
+"2105609";"Nordeste";"MA";"Joselândia";2;2;1
+"2105708";"Nordeste";"MA";"Lago da Pedra";13;12;12
+"2106300";"Nordeste";"MA";"Magalhães de Almeida";2;1;1
+"2106375";"Nordeste";"MA";"Maranhãozinho";1;4;2
+"2106706";"Nordeste";"MA";"Mirador";4;2;1
+"2106755";"Nordeste";"MA";"Miranda do Norte";3;2;2
+"2106805";"Nordeste";"MA";"Mirinzal";3;2;1
+"2106904";"Nordeste";"MA";"Monção";2;3;7
+"2107100";"Nordeste";"MA";"Morros";2;4;2
+"2107209";"Nordeste";"MA";"Nina Rodrigues";3;2;4
+"2107357";"Nordeste";"MA";"Nova Olinda do Maranhão";1;1;1
+"2107506";"Nordeste";"MA";"Paço do Lumiar";2;3;2
+"2108108";"Nordeste";"MA";"Paulo Ramos";6;7;3
+"2108207";"Nordeste";"MA";"Pedreiras";10;11;5
+"2108306";"Nordeste";"MA";"Penalva";5;8;9
+"2108603";"Nordeste";"MA";"Pinheiro";50;46;54
+"2108801";"Nordeste";"MA";"Pirapemas";5;4;4
+"2109007";"Nordeste";"MA";"Porto Franco";2;2;4
+"2109106";"Nordeste";"MA";"Presidente Dutra";12;16;18
+"2109700";"Nordeste";"MA";"Sambaíba";1;2;1
+"2109809";"Nordeste";"MA";"Santa Helena";1;4;2
+"2109908";"Nordeste";"MA";"Santa Inês";23;26;38
+"2110005";"Nordeste";"MA";"Santa Luzia";5;18;13
+"2110104";"Nordeste";"MA";"Santa Quitéria do Maranhão";8;1;2
+"2110500";"Nordeste";"MA";"São Bento";3;2;4
+"2110609";"Nordeste";"MA";"São Bernardo";3;4;6
+"2111029";"Nordeste";"MA";"São João do Carú";2;4;3
+"2111102";"Nordeste";"MA";"São João dos Patos";4;2;3
+"2111201";"Nordeste";"MA";"São José de Ribamar";2;2;11
+"2111300";"Nordeste";"MA";"São Luís";649;672;564
+"2111706";"Nordeste";"MA";"São Vicente Ferrer";3;5;1
+"2111805";"Nordeste";"MA";"Sítio Novo";3;1;1
+"2112209";"Nordeste";"MA";"Timon";17;11;11
+"2112308";"Nordeste";"MA";"Tuntum";3;10;2
+"2112407";"Nordeste";"MA";"Turiaçu";3;4;5
+"2112506";"Nordeste";"MA";"Tutóia";5;3;1
+"2112605";"Nordeste";"MA";"Urbano Santos";1;4;4
+"2112704";"Nordeste";"MA";"Vargem Grande";13;12;14
+"2112803";"Nordeste";"MA";"Viana";15;25;4
+"2112902";"Nordeste";"MA";"Vitória do Mearim";11;3;7
+"2113009";"Nordeste";"MA";"Vitorino Freire";5;2;2
+"2114007";"Nordeste";"MA";"Zé Doca";8;9;9
+"2201101";"Nordeste";"PI";"Avelino Lopes";3;3;1
+"2201200";"Nordeste";"PI";"Barras";4;6;3
+"2201408";"Nordeste";"PI";"Barro Duro";1;1;1
+"2201606";"Nordeste";"PI";"Beneditinos";2;1;2
+"2201739";"Nordeste";"PI";"Betânia do Piauí";1;1;1
+"2201903";"Nordeste";"PI";"Bom Jesus";14;19;11
+"2202208";"Nordeste";"PI";"Campo Maior";4;2;2
+"2202307";"Nordeste";"PI";"Canto do Buriti";3;3;3
+"2202703";"Nordeste";"PI";"Cocal";5;1;1
+"2202901";"Nordeste";"PI";"Corrente";9;5;5
+"2203701";"Nordeste";"PI";"Esperantina";3;8;6
+"2203909";"Nordeste";"PI";"Floriano";16;9;8
+"2204303";"Nordeste";"PI";"Fronteiras";1;2;2
+"2205805";"Nordeste";"PI";"Luzilândia";6;2;3
+"2207009";"Nordeste";"PI";"Oeiras";5;9;5
+"2207702";"Nordeste";"PI";"Parnaíba";99;98;68
+"2207801";"Nordeste";"PI";"Paulistana";10;10;8
+"2207900";"Nordeste";"PI";"Pedro II";7;4;5
+"2208007";"Nordeste";"PI";"Picos";66;66;71
+"2208304";"Nordeste";"PI";"Piracuruca";2;2;5
+"2208403";"Nordeste";"PI";"Piripiri";9;6;6
+"2208502";"Nordeste";"PI";"Porto";1;2;2
+"2208650";"Nordeste";"PI";"Queimada Nova";1;1;1
+"2208858";"Nordeste";"PI";"Riacho Frio";2;1;1
+"2210003";"Nordeste";"PI";"São João do Piauí";6;5;6
+"2210409";"Nordeste";"PI";"São Miguel do Tapuio";1;4;2
+"2210607";"Nordeste";"PI";"São Raimundo Nonato";12;16;13
+"2210706";"Nordeste";"PI";"Simões";2;2;4
+"2210805";"Nordeste";"PI";"Simplício Mendes";1;2;1
+"2211001";"Nordeste";"PI";"Teresina";550;582;568
+"2211209";"Nordeste";"PI";"Uruçuí";1;3;4
+"2211308";"Nordeste";"PI";"Valença do Piauí";5;4;3
+"2300200";"Nordeste";"CE";"Acaraú";4;9;3
+"2300309";"Nordeste";"CE";"Acopiara";8;1;3
+"2300408";"Nordeste";"CE";"Aiuaba";1;3;1
+"2301000";"Nordeste";"CE";"Aquiraz";4;1;1
+"2301109";"Nordeste";"CE";"Aracati";12;8;8
+"2301307";"Nordeste";"CE";"Araripe";1;1;3
+"2301703";"Nordeste";"CE";"Aurora";1;3;1
+"2301901";"Nordeste";"CE";"Barbalha";80;89;83
+"2302107";"Nordeste";"CE";"Baturité";5;10;7
+"2302404";"Nordeste";"CE";"Boa Viagem";5;5;5
+"2302503";"Nordeste";"CE";"Brejo Santo";20;17;8
+"2302602";"Nordeste";"CE";"Camocim";6;5;4
+"2302701";"Nordeste";"CE";"Campos Sales";3;1;1
+"2302800";"Nordeste";"CE";"Canindé";18;11;12
+"2303402";"Nordeste";"CE";"Carnaubal";2;1;1
+"2303600";"Nordeste";"CE";"Catarina";1;2;1
+"2303709";"Nordeste";"CE";"Caucaia";20;12;8
+"2304103";"Nordeste";"CE";"Crateús";29;32;38
+"2304202";"Nordeste";"CE";"Crato";35;31;29
+"2304400";"Nordeste";"CE";"Fortaleza";897;950;870
+"2305001";"Nordeste";"CE";"Guaraciaba do Norte";4;1;3
+"2305233";"Nordeste";"CE";"Horizonte";1;1;1
+"2305407";"Nordeste";"CE";"Icó";9;11;6
+"2305506";"Nordeste";"CE";"Iguatu";13;17;21
+"2305654";"Nordeste";"CE";"Ipaporanga";1;1;1
+"2305803";"Nordeste";"CE";"Ipu";2;6;4
+"2305902";"Nordeste";"CE";"Ipueiras";2;2;2
+"2306306";"Nordeste";"CE";"Itapagé";7;3;1
+"2306405";"Nordeste";"CE";"Itapipoca";29;26;37
+"2306900";"Nordeste";"CE";"Jaguaribe";4;1;4
+"2307304";"Nordeste";"CE";"Juazeiro do Norte";100;106;88
+"2307403";"Nordeste";"CE";"Jucás";1;1;1
+"2307502";"Nordeste";"CE";"Lavras da Mangabeira";1;1;1
+"2307601";"Nordeste";"CE";"Limoeiro do Norte";8;15;4
+"2307650";"Nordeste";"CE";"Maracanaú";11;11;11
+"2307700";"Nordeste";"CE";"Maranguape";1;1;5
+"2308104";"Nordeste";"CE";"Mauriti";3;2;4
+"2308401";"Nordeste";"CE";"Missão Velha";1;3;1
+"2308500";"Nordeste";"CE";"Mombaça";3;2;2
+"2308609";"Nordeste";"CE";"Monsenhor Tabosa";1;1;1
+"2308708";"Nordeste";"CE";"Morada Nova";4;4;1
+"2309607";"Nordeste";"CE";"Pacajus";4;1;1
+"2309706";"Nordeste";"CE";"Pacatuba";1;1;2
+"2310308";"Nordeste";"CE";"Parambu";1;1;1
+"2310506";"Nordeste";"CE";"Pedra Branca";1;5;3
+"2310704";"Nordeste";"CE";"Pentecoste";1;1;1
+"2310803";"Nordeste";"CE";"Pereiro";1;1;1
+"2311306";"Nordeste";"CE";"Quixadá";24;39;20
+"2311405";"Nordeste";"CE";"Quixeramobim";2;10;3
+"2311603";"Nordeste";"CE";"Redenção";1;4;1
+"2311801";"Nordeste";"CE";"Russas";8;4;4
+"2311959";"Nordeste";"CE";"Salitre";1;2;1
+"2312908";"Nordeste";"CE";"Sobral";190;185;204
+"2313302";"Nordeste";"CE";"Tauá";5;7;6
+"2313351";"Nordeste";"CE";"Tejuçuoca";1;3;2
+"2313401";"Nordeste";"CE";"Tianguá";12;17;14
+"2313500";"Nordeste";"CE";"Trairi";3;2;2
+"2314003";"Nordeste";"CE";"Várzea Alegre";4;1;1
+"2314102";"Nordeste";"CE";"Viçosa do Ceará";4;4;6
+"2400208";"Nordeste";"RN";"Açu";2;4;3
+"2400604";"Nordeste";"RN";"Almino Afonso";2;1;1
+"2401453";"Nordeste";"RN";"Baraúna";1;1;1
+"2402006";"Nordeste";"RN";"Caicó";4;10;4
+"2402204";"Nordeste";"RN";"Canguaretama";1;4;2
+"2402303";"Nordeste";"RN";"Caraúbas";3;1;1
+"2402600";"Nordeste";"RN";"Ceará-Mirim";3;1;1
+"2403103";"Nordeste";"RN";"Currais Novos";49;35;27
+"2403251";"Nordeste";"RN";"Parnamirim";43;51;55
+"2406106";"Nordeste";"RN";"Jucurutu";2;2;1
+"2407104";"Nordeste";"RN";"Macaíba";2;1;2
+"2408003";"Nordeste";"RN";"Mossoró";104;101;107
+"2408102";"Nordeste";"RN";"Natal";362;358;395
+"2408300";"Nordeste";"RN";"Nova Cruz";2;1;1
+"2408904";"Nordeste";"RN";"Parelhas";3;1;4
+"2409407";"Nordeste";"RN";"Pau dos Ferros";9;16;11
+"2411205";"Nordeste";"RN";"Santa Cruz";1;3;6
+"2411403";"Nordeste";"RN";"Santana do Matos";1;3;1
+"2411502";"Nordeste";"RN";"Santo Antônio";4;5;1
+"2412005";"Nordeste";"RN";"São Gonçalo do Amarante";1;4;1
+"2412203";"Nordeste";"RN";"São José de Mipibu";3;1;4
+"2412609";"Nordeste";"RN";"São Paulo do Potengi";1;1;1
+"2413904";"Nordeste";"RN";"Taipu";1;1;1
+"2500304";"Nordeste";"PB";"Alagoa Grande";2;1;4
+"2501807";"Nordeste";"PB";"Bayeux";2;1;1
+"2503704";"Nordeste";"PB";"Cajazeiras";15;22;12
+"2504009";"Nordeste";"PB";"Campina Grande";290;320;269
+"2504306";"Nordeste";"PB";"Catolé do Rocha";3;4;4
+"2504405";"Nordeste";"PB";"Conceição";1;1;1
+"2504900";"Nordeste";"PB";"Cruz do Espírito Santo";1;1;2
+"2506301";"Nordeste";"PB";"Guarabira";9;5;8
+"2507507";"Nordeste";"PB";"João Pessoa";369;337;362
+"2507705";"Nordeste";"PB";"Juazeirinho";1;2;3
+"2508901";"Nordeste";"PB";"Mamanguape";2;2;3
+"2509701";"Nordeste";"PB";"Monteiro";2;4;2
+"2510808";"Nordeste";"PB";"Patos";62;46;68
+"2512101";"Nordeste";"PB";"Pombal";2;2;1
+"2512309";"Nordeste";"PB";"Princesa Isabel";3;6;2
+"2513703";"Nordeste";"PB";"Santa Rita";6;4;8
+"2513901";"Nordeste";"PB";"São Bento";2;1;1
+"2514503";"Nordeste";"PB";"São José de Piranhas";1;1;1
+"2516003";"Nordeste";"PB";"Solânea";2;1;1
+"2516201";"Nordeste";"PB";"Sousa";15;8;6
+"2516706";"Nordeste";"PB";"Teixeira";1;1;2
+"2600104";"Nordeste";"PE";"Afogados da Ingazeira";18;11;10
+"2600203";"Nordeste";"PE";"Afrânio";1;1;1
+"2600500";"Nordeste";"PE";"Águas Belas";10;7;6
+"2601102";"Nordeste";"PE";"Araripina";33;12;17
+"2601201";"Nordeste";"PE";"Arcoverde";41;29;31
+"2601409";"Nordeste";"PE";"Barreiros";2;7;2
+"2601706";"Nordeste";"PE";"Belo Jardim";8;8;5
+"2601805";"Nordeste";"PE";"Betânia";1;1;1
+"2602001";"Nordeste";"PE";"Bodocó";4;2;1
+"2602605";"Nordeste";"PE";"Brejo da Madre de Deus";2;1;1
+"2602803";"Nordeste";"PE";"Buíque";5;3;4
+"2602902";"Nordeste";"PE";"Cabo de Santo Agostinho";15;5;10
+"2603108";"Nordeste";"PE";"Cachoeirinha";3;1;1
+"2603454";"Nordeste";"PE";"Camaragibe";4;6;2
+"2603702";"Nordeste";"PE";"Canhotinho";1;2;1
+"2603926";"Nordeste";"PE";"Carnaubeira da Penha";3;1;1
+"2604007";"Nordeste";"PE";"Carpina";2;1;1
+"2604106";"Nordeste";"PE";"Caruaru";147;126;139
+"2604304";"Nordeste";"PE";"Cedro";1;1;2
+"2604700";"Nordeste";"PE";"Correntes";1;1;1
+"2605103";"Nordeste";"PE";"Custódia";5;4;1
+"2605202";"Nordeste";"PE";"Escada";4;4;2
+"2605301";"Nordeste";"PE";"Exu";3;5;3
+"2605707";"Nordeste";"PE";"Floresta";13;7;7
+"2606002";"Nordeste";"PE";"Garanhuns";53;30;50
+"2606200";"Nordeste";"PE";"Goiana";8;7;2
+"2606408";"Nordeste";"PE";"Gravatá";2;3;2
+"2606606";"Nordeste";"PE";"Ibimirim";7;1;9
+"2606804";"Nordeste";"PE";"Igarassu";1;3;1
+"2607208";"Nordeste";"PE";"Ipojuca";2;7;5
+"2607307";"Nordeste";"PE";"Ipubi";3;2;2
+"2607901";"Nordeste";"PE";"Jaboatão dos Guararapes";112;118;87
+"2608057";"Nordeste";"PE";"Jatobá";1;2;1
+"2608255";"Nordeste";"PE";"Jucati";1;1;1
+"2608750";"Nordeste";"PE";"Lagoa Grande";3;3;3
+"2608800";"Nordeste";"PE";"Lajedo";1;2;1
+"2608909";"Nordeste";"PE";"Limoeiro";9;3;7
+"2609006";"Nordeste";"PE";"Macaparana";3;4;2
+"2609154";"Nordeste";"PE";"Manari";4;5;2
+"2609303";"Nordeste";"PE";"Mirandiba";2;2;2
+"2609402";"Nordeste";"PE";"Moreno";3;1;4
+"2609501";"Nordeste";"PE";"Nazaré da Mata";1;4;6
+"2609600";"Nordeste";"PE";"Olinda";15;5;18
+"2609907";"Nordeste";"PE";"Ouricuri";45;28;31
+"2610004";"Nordeste";"PE";"Palmares";23;27;36
+"2610400";"Nordeste";"PE";"Parnamirim";1;1;1
+"2610509";"Nordeste";"PE";"Passira";1;1;1
+"2610608";"Nordeste";"PE";"Paudalho";4;2;4
+"2610707";"Nordeste";"PE";"Paulista";4;3;5
+"2610905";"Nordeste";"PE";"Pesqueira";6;5;5
+"2611002";"Nordeste";"PE";"Petrolândia";8;8;8
+"2611101";"Nordeste";"PE";"Petrolina";230;316;318
+"2611606";"Nordeste";"PE";"Recife";1111;1099;1143
+"2611804";"Nordeste";"PE";"Ribeirão";1;1;1
+"2611903";"Nordeste";"PE";"Rio Formoso";1;1;1
+"2612208";"Nordeste";"PE";"Salgueiro";41;50;37
+"2612505";"Nordeste";"PE";"Santa Cruz do Capibaribe";7;7;4
+"2612604";"Nordeste";"PE";"Santa Maria da Boa Vista";1;3;5
+"2613107";"Nordeste";"PE";"São Caitano";2;2;2
+"2613503";"Nordeste";"PE";"São José do Belmonte";2;4;3
+"2613602";"Nordeste";"PE";"São José do Egito";6;4;1
+"2613701";"Nordeste";"PE";"São Lourenço da Mata";3;3;5
+"2613909";"Nordeste";"PE";"Serra Talhada";35;34;36
+"2614501";"Nordeste";"PE";"Surubim";4;8;1
+"2615300";"Nordeste";"PE";"Timbaúba";3;4;3
+"2615607";"Nordeste";"PE";"Trindade";4;5;1
+"2616001";"Nordeste";"PE";"Venturosa";1;4;1
+"2616209";"Nordeste";"PE";"Vertentes";5;1;1
+"2616407";"Nordeste";"PE";"Vitória de Santo Antão";22;6;16
+"2616506";"Nordeste";"PE";"Xexéu";1;1;1
+"2700300";"Nordeste";"AL";"Arapiraca";141;119;110
+"2700409";"Nordeste";"AL";"Atalaia";1;2;1
+"2700706";"Nordeste";"AL";"Batalha";4;5;2
+"2701605";"Nordeste";"AL";"Canapi";2;1;2
+"2701704";"Nordeste";"AL";"Capela";1;1;1
+"2702108";"Nordeste";"AL";"Colônia Leopoldina";2;3;3
+"2702306";"Nordeste";"AL";"Coruripe";12;11;4
+"2702405";"Nordeste";"AL";"Delmiro Gouveia";5;6;9
+"2703304";"Nordeste";"AL";"Inhapi";2;1;1
+"2703809";"Nordeste";"AL";"Joaquim Gomes";1;1;3
+"2704302";"Nordeste";"AL";"Maceió";563;522;495
+"2704500";"Nordeste";"AL";"Maragogi";3;3;3
+"2705200";"Nordeste";"AL";"Messias";1;1;1
+"2705507";"Nordeste";"AL";"Murici";3;1;2
+"2705705";"Nordeste";"AL";"Olho d'Água das Flores";1;1;1
+"2706307";"Nordeste";"AL";"Palmeira dos Índios";41;37;32
+"2706448";"Nordeste";"AL";"Paripueira";1;1;1
+"2706703";"Nordeste";"AL";"Penedo";11;10;13
+"2706901";"Nordeste";"AL";"Pilar";2;2;1
+"2708006";"Nordeste";"AL";"Santana do Ipanema";8;35;39
+"2708600";"Nordeste";"AL";"São Miguel dos Campos";14;12;17
+"2708956";"Nordeste";"AL";"Senador Rui Palmeira";2;1;2
+"2709301";"Nordeste";"AL";"União dos Palmares";10;9;6
+"2800308";"Nordeste";"SE";"Aracaju";471;480;484
+"2801306";"Nordeste";"SE";"Capela";6;12;6
+"2802106";"Nordeste";"SE";"Estância";11;16;19
+"2802908";"Nordeste";"SE";"Itabaiana";26;30;26
+"2803005";"Nordeste";"SE";"Itabaianinha";1;2;4
+"2803401";"Nordeste";"SE";"Japoatã";1;1;1
+"2803500";"Nordeste";"SE";"Lagarto";6;9;11
+"2803609";"Nordeste";"SE";"Laranjeiras";3;1;1
+"2804508";"Nordeste";"SE";"Nossa Senhora da Glória";12;15;6
+"2804805";"Nordeste";"SE";"Nossa Senhora do Socorro";3;2;4
+"2805406";"Nordeste";"SE";"Poço Redondo";1;6;2
+"2805604";"Nordeste";"SE";"Porto da Folha";1;2;1
+"2805703";"Nordeste";"SE";"Propriá";1;2;10
+"2806701";"Nordeste";"SE";"São Cristóvão";5;1;1
+"2807105";"Nordeste";"SE";"Simão Dias";1;6;3
+"2900207";"Nordeste";"BA";"Abaré";1;1;2
+"2900702";"Nordeste";"BA";"Alagoinhas";44;50;50
+"2900801";"Nordeste";"BA";"Alcobaça";1;1;1
+"2901007";"Nordeste";"BA";"Amargosa";9;4;4
+"2901601";"Nordeste";"BA";"Antas";12;5;8
+"2902104";"Nordeste";"BA";"Araci";5;7;8
+"2902609";"Nordeste";"BA";"Baixa Grande";3;1;6
+"2902708";"Nordeste";"BA";"Barra";18;29;28
+"2902807";"Nordeste";"BA";"Barra da Estiva";14;11;17
+"2902906";"Nordeste";"BA";"Barra do Choça";9;5;9
+"2903201";"Nordeste";"BA";"Barreiras";97;105;103
+"2903508";"Nordeste";"BA";"Belo Campo";2;1;2
+"2903904";"Nordeste";"BA";"Bom Jesus da Lapa";22;14;16
+"2903953";"Nordeste";"BA";"Bom Jesus da Serra";3;4;2
+"2904100";"Nordeste";"BA";"Boquira";3;3;5
+"2904605";"Nordeste";"BA";"Brumado";21;16;21
+"2905008";"Nordeste";"BA";"Caculé";1;1;2
+"2905107";"Nordeste";"BA";"Caém";1;1;1
+"2905206";"Nordeste";"BA";"Caetité";8;11;10
+"2905602";"Nordeste";"BA";"Camacan";4;8;1
+"2905701";"Nordeste";"BA";"Camaçari";53;59;48
+"2905909";"Nordeste";"BA";"Campo Alegre de Lourdes";3;8;1
+"2906006";"Nordeste";"BA";"Campo Formoso";13;10;6
+"2906501";"Nordeste";"BA";"Candeias";7;11;8
+"2906709";"Nordeste";"BA";"Cândido Sales";5;3;2
+"2906808";"Nordeste";"BA";"Cansanção";2;5;6
+"2906907";"Nordeste";"BA";"Caravelas";1;3;2
+"2907103";"Nordeste";"BA";"Carinhanha";3;5;1
+"2907202";"Nordeste";"BA";"Casa Nova";1;2;6
+"2907509";"Nordeste";"BA";"Catu";4;5;4
+"2907608";"Nordeste";"BA";"Central";2;1;1
+"2907806";"Nordeste";"BA";"Cícero Dantas";4;2;2
+"2908408";"Nordeste";"BA";"Conceição do Coité";4;6;11
+"2908705";"Nordeste";"BA";"Condeúba";3;2;1
+"2909307";"Nordeste";"BA";"Correntina";6;10;8
+"2909604";"Nordeste";"BA";"Crisópolis";2;5;2
+"2909802";"Nordeste";"BA";"Cruz das Almas";14;12;13
+"2910057";"Nordeste";"BA";"Dias d'Ávila";10;8;7
+"2910404";"Nordeste";"BA";"Encruzilhada";4;1;3
+"2910602";"Nordeste";"BA";"Esplanada";10;5;9
+"2910701";"Nordeste";"BA";"Euclides da Cunha";3;10;9
+"2910727";"Nordeste";"BA";"Eunápolis";31;34;41
+"2910800";"Nordeste";"BA";"Feira de Santana";293;283;279
+"2911105";"Nordeste";"BA";"Formosa do Rio Preto";3;2;1
+"2911204";"Nordeste";"BA";"Gandu";4;6;3
+"2911709";"Nordeste";"BA";"Guanambi";49;61;48
+"2911808";"Nordeste";"BA";"Guaratinga";5;6;2
+"2911907";"Nordeste";"BA";"Iaçu";7;3;5
+"2912004";"Nordeste";"BA";"Ibiassucê";4;4;6
+"2912400";"Nordeste";"BA";"Ibipeba";1;1;1
+"2912707";"Nordeste";"BA";"Ibirapitanga";1;2;2
+"2912905";"Nordeste";"BA";"Ibirataia";6;1;1
+"2913002";"Nordeste";"BA";"Ibitiara";2;5;2
+"2913200";"Nordeste";"BA";"Ibotirama";17;10;13
+"2913408";"Nordeste";"BA";"Igaporã";2;1;2
+"2913507";"Nordeste";"BA";"Iguaí";6;2;7
+"2913606";"Nordeste";"BA";"Ilhéus";65;59;42
+"2913705";"Nordeste";"BA";"Inhambupe";4;4;2
+"2913903";"Nordeste";"BA";"Ipiaú";6;9;10
+"2914000";"Nordeste";"BA";"Ipirá";6;11;14
+"2914109";"Nordeste";"BA";"Ipupiara";1;1;2
+"2914406";"Nordeste";"BA";"Iraquara";12;5;11
+"2914604";"Nordeste";"BA";"Irecê";105;92;85
+"2914653";"Nordeste";"BA";"Itabela";3;2;5
+"2914703";"Nordeste";"BA";"Itaberaba";19;8;11
+"2914802";"Nordeste";"BA";"Itabuna";276;254;247
+"2915502";"Nordeste";"BA";"Itajuípe";2;3;3
+"2915601";"Nordeste";"BA";"Itamaraju";15;15;20
+"2915700";"Nordeste";"BA";"Itamari";1;1;2
+"2915809";"Nordeste";"BA";"Itambé";11;9;4
+"2916005";"Nordeste";"BA";"Itanhém";1;2;1
+"2916104";"Nordeste";"BA";"Itaparica";13;6;17
+"2916401";"Nordeste";"BA";"Itapetinga";19;25;21
+"2916500";"Nordeste";"BA";"Itapicuru";3;2;1
+"2916906";"Nordeste";"BA";"Itiruçu";1;1;1
+"2917003";"Nordeste";"BA";"Itiúba";1;5;1
+"2917102";"Nordeste";"BA";"Itororó";3;4;2
+"2917300";"Nordeste";"BA";"Ituberá";6;3;3
+"2917359";"Nordeste";"BA";"Jaborandi";2;1;1
+"2917508";"Nordeste";"BA";"Jacobina";47;17;27
+"2917607";"Nordeste";"BA";"Jaguaquara";14;9;8
+"2918001";"Nordeste";"BA";"Jequié";64;73;60
+"2918407";"Nordeste";"BA";"Juazeiro";58;17;22
+"2918803";"Nordeste";"BA";"Laje";1;1;1
+"2919207";"Nordeste";"BA";"Lauro de Freitas";29;36;22
+"2919504";"Nordeste";"BA";"Livramento de Nossa Senhora";10;8;12
+"2919553";"Nordeste";"BA";"Luís Eduardo Magalhães";7;4;20
+"2919702";"Nordeste";"BA";"Macarani";6;4;4
+"2919801";"Nordeste";"BA";"Macaúbas";11;4;7
+"2919926";"Nordeste";"BA";"Madre de Deus";5;2;7
+"2920205";"Nordeste";"BA";"Malhada";1;4;2
+"2920502";"Nordeste";"BA";"Maracás";3;3;4
+"2920809";"Nordeste";"BA";"Marcionílio Souza";2;1;1
+"2921005";"Nordeste";"BA";"Mata de São João";11;5;8
+"2921203";"Nordeste";"BA";"Miguel Calmon";4;2;6
+"2921500";"Nordeste";"BA";"Monte Santo";11;6;9
+"2921708";"Nordeste";"BA";"Morro do Chapéu";8;9;5
+"2921906";"Nordeste";"BA";"Mucugê";6;1;3
+"2922003";"Nordeste";"BA";"Mucuri";5;3;8
+"2922102";"Nordeste";"BA";"Mundo Novo";1;1;1
+"2922409";"Nordeste";"BA";"Mutuípe";1;1;3
+"2922508";"Nordeste";"BA";"Nazaré";5;2;2
+"2922904";"Nordeste";"BA";"Nova Soure";1;1;3
+"2923001";"Nordeste";"BA";"Nova Viçosa";6;5;8
+"2923100";"Nordeste";"BA";"Olindina";1;5;1
+"2923407";"Nordeste";"BA";"Palmas de Monte Alto";5;3;2
+"2923605";"Nordeste";"BA";"Paramirim";11;25;10
+"2923704";"Nordeste";"BA";"Paratinga";6;4;2
+"2924009";"Nordeste";"BA";"Paulo Afonso";74;49;48
+"2924306";"Nordeste";"BA";"Piatã";5;4;1
+"2924801";"Nordeste";"BA";"Piritiba";2;2;2
+"2925006";"Nordeste";"BA";"Planalto";1;5;7
+"2925105";"Nordeste";"BA";"Poções";2;7;5
+"2925204";"Nordeste";"BA";"Pojuca";13;6;7
+"2925303";"Nordeste";"BA";"Porto Seguro";52;48;49
+"2925758";"Nordeste";"BA";"Presidente Tancredo Neves";1;3;2
+"2925907";"Nordeste";"BA";"Quijingue";1;1;3
+"2925956";"Nordeste";"BA";"Rafael Jambeiro";2;2;1
+"2926004";"Nordeste";"BA";"Remanso";14;6;16
+"2926202";"Nordeste";"BA";"Riachão das Neves";1;3;1
+"2926301";"Nordeste";"BA";"Riachão do Jacuípe";8;4;6
+"2926400";"Nordeste";"BA";"Riacho de Santana";1;6;4
+"2926608";"Nordeste";"BA";"Ribeira do Pombal";22;13;29
+"2927002";"Nordeste";"BA";"Rio Real";5;4;2
+"2927200";"Nordeste";"BA";"Ruy Barbosa";12;6;6
+"2927309";"Nordeste";"BA";"Salinas da Margarida";2;1;1
+"2927408";"Nordeste";"BA";"Salvador";1030;961;967
+"2927507";"Nordeste";"BA";"Santa Bárbara";3;1;1
+"2928000";"Nordeste";"BA";"Santaluz";5;5;2
+"2928059";"Nordeste";"BA";"Santa Luzia";2;1;1
+"2928109";"Nordeste";"BA";"Santa Maria da Vitória";3;4;9
+"2928208";"Nordeste";"BA";"Santana";3;1;3
+"2928406";"Nordeste";"BA";"Santa Rita de Cássia";2;3;4
+"2928604";"Nordeste";"BA";"Santo Amaro";7;4;4
+"2928703";"Nordeste";"BA";"Santo Antônio de Jesus";44;29;27
+"2928802";"Nordeste";"BA";"Santo Estêvão";1;1;3
+"2928901";"Nordeste";"BA";"São Desidério";4;1;1
+"2929008";"Nordeste";"BA";"São Félix";8;7;5
+"2929057";"Nordeste";"BA";"São Félix do Coribe";1;5;5
+"2929206";"Nordeste";"BA";"São Francisco do Conde";8;9;1
+"2929305";"Nordeste";"BA";"São Gonçalo dos Campos";2;2;1
+"2929404";"Nordeste";"BA";"São Miguel das Matas";1;2;2
+"2929602";"Nordeste";"BA";"Sapeaçu";4;2;2
+"2929701";"Nordeste";"BA";"Sátiro Dias";3;3;1
+"2929909";"Nordeste";"BA";"Seabra";9;10;14
+"2930105";"Nordeste";"BA";"Senhor do Bonfim";29;22;12
+"2930154";"Nordeste";"BA";"Serra do Ramalho";1;4;5
+"2930204";"Nordeste";"BA";"Sento Sé";2;3;3
+"2930402";"Nordeste";"BA";"Serra Preta";1;1;4
+"2930501";"Nordeste";"BA";"Serrinha";12;11;8
+"2930600";"Nordeste";"BA";"Serrolândia";1;2;1
+"2930709";"Nordeste";"BA";"Simões Filho";12;7;14
+"2930808";"Nordeste";"BA";"Souto Soares";4;1;1
+"2931053";"Nordeste";"BA";"Tanque Novo";1;2;1
+"2931301";"Nordeste";"BA";"Tapiramutá";2;2;1
+"2931350";"Nordeste";"BA";"Teixeira de Freitas";63;75;58
+"2931905";"Nordeste";"BA";"Tucano";4;1;11
+"2932101";"Nordeste";"BA";"Ubaíra";4;2;2
+"2932507";"Nordeste";"BA";"Una";2;2;3
+"2932804";"Nordeste";"BA";"Utinga";1;2;2
+"2932903";"Nordeste";"BA";"Valença";46;36;50
+"2933000";"Nordeste";"BA";"Valente";1;1;2
+"2933307";"Nordeste";"BA";"Vitória da Conquista";197;198;166
+"2933604";"Nordeste";"BA";"Xique-Xique";4;3;1
+"3100203";"Sudeste";"MG";"Abaeté";3;4;3
+"3100906";"Sudeste";"MG";"Águas Formosas";4;4;9
+"3101102";"Sudeste";"MG";"Aimorés";5;5;1
+"3101201";"Sudeste";"MG";"Aiuruoca";4;3;1
+"3101508";"Sudeste";"MG";"Além Paraíba";12;5;15
+"3101607";"Sudeste";"MG";"Alfenas";31;31;40
+"3101706";"Sudeste";"MG";"Almenara";14;14;9
+"3102308";"Sudeste";"MG";"Alvinópolis";1;1;1
+"3102605";"Sudeste";"MG";"Andradas";1;1;2
+"3103405";"Sudeste";"MG";"Araçuaí";5;12;11
+"3103504";"Sudeste";"MG";"Araguari";22;21;20
+"3104007";"Sudeste";"MG";"Araxá";4;7;7
+"3104205";"Sudeste";"MG";"Arcos";2;2;3
+"3105103";"Sudeste";"MG";"Bambuí";4;3;3
+"3105608";"Sudeste";"MG";"Barbacena";66;79;53
+"3106200";"Sudeste";"MG";"Belo Horizonte";712;699;744
+"3106705";"Sudeste";"MG";"Betim";66;66;71
+"3107109";"Sudeste";"MG";"Boa Esperança";5;3;3
+"3107307";"Sudeste";"MG";"Bocaiúva";8;6;10
+"3107406";"Sudeste";"MG";"Bom Despacho";6;10;5
+"3108602";"Sudeste";"MG";"Brasília de Minas";10;16;13
+"3109303";"Sudeste";"MG";"Buritis";3;1;3
+"3109402";"Sudeste";"MG";"Buritizeiro";7;1;4
+"3110004";"Sudeste";"MG";"Caeté";3;2;2
+"3110509";"Sudeste";"MG";"Camanducaia";2;3;2
+"3110608";"Sudeste";"MG";"Cambuí";2;1;1
+"3111002";"Sudeste";"MG";"Campestre";3;3;3
+"3111200";"Sudeste";"MG";"Campo Belo";6;7;2
+"3111507";"Sudeste";"MG";"Campos Altos";3;1;1
+"3112307";"Sudeste";"MG";"Capelinha";11;10;4
+"3113008";"Sudeste";"MG";"Caraí";3;2;2
+"3113206";"Sudeste";"MG";"Carandaí";2;1;2
+"3113305";"Sudeste";"MG";"Carangola";16;32;25
+"3113404";"Sudeste";"MG";"Caratinga";36;38;35
+"3113701";"Sudeste";"MG";"Carlos Chagas";3;2;2
+"3115300";"Sudeste";"MG";"Cataguases";3;16;13
+"3116605";"Sudeste";"MG";"Cláudio";3;3;3
+"3116803";"Sudeste";"MG";"Coluna";2;3;3
+"3118007";"Sudeste";"MG";"Congonhas";1;2;3
+"3118304";"Sudeste";"MG";"Conselheiro Lafaiete";14;13;17
+"3118403";"Sudeste";"MG";"Conselheiro Pena";1;1;1
+"3118601";"Sudeste";"MG";"Contagem";45;50;42
+"3118809";"Sudeste";"MG";"Coração de Jesus";3;3;1
+"3119302";"Sudeste";"MG";"Coromandel";1;2;2
+"3119401";"Sudeste";"MG";"Coronel Fabriciano";5;3;5
+"3120904";"Sudeste";"MG";"Curvelo";20;17;17
+"3121605";"Sudeste";"MG";"Diamantina";14;15;35
+"3122009";"Sudeste";"MG";"Divino";3;3;4
+"3122306";"Sudeste";"MG";"Divinópolis";41;55;51
+"3123205";"Sudeste";"MG";"Dores do Indaiá";4;2;2
+"3124203";"Sudeste";"MG";"Espera Feliz";2;1;4
+"3124302";"Sudeste";"MG";"Espinosa";3;4;1
+"3125101";"Sudeste";"MG";"Extrema";3;3;3
+"3125606";"Sudeste";"MG";"Felisburgo";2;5;5
+"3126109";"Sudeste";"MG";"Formiga";2;3;5
+"3126703";"Sudeste";"MG";"Francisco Sá";1;4;3
+"3127107";"Sudeste";"MG";"Frutal";4;2;3
+"3127701";"Sudeste";"MG";"Governador Valadares";77;66;79
+"3127800";"Sudeste";"MG";"Grão Mogol";1;3;5
+"3128006";"Sudeste";"MG";"Guanhães";10;11;16
+"3128303";"Sudeste";"MG";"Guaranésia";3;1;1
+"3128709";"Sudeste";"MG";"Guaxupé";2;5;5
+"3129509";"Sudeste";"MG";"Ibiá";2;4;3
+"3129806";"Sudeste";"MG";"Ibirité";14;17;5
+"3131208";"Sudeste";"MG";"Ipanema";5;3;4
+"3131307";"Sudeste";"MG";"Ipatinga";88;94;70
+"3131703";"Sudeste";"MG";"Itabira";21;20;14
+"3131901";"Sudeste";"MG";"Itabirito";8;6;7
+"3132107";"Sudeste";"MG";"Itacarambi";3;2;2
+"3132206";"Sudeste";"MG";"Itaguara";2;1;1
+"3132404";"Sudeste";"MG";"Itajubá";25;24;23
+"3132503";"Sudeste";"MG";"Itamarandiba";4;11;5
+"3132701";"Sudeste";"MG";"Itambacuri";6;4;3
+"3133105";"Sudeste";"MG";"Itanhandu";1;2;1
+"3133303";"Sudeste";"MG";"Itaobim";5;5;3
+"3133808";"Sudeste";"MG";"Itaúna";13;7;4
+"3134202";"Sudeste";"MG";"Ituiutaba";6;2;10
+"3134707";"Sudeste";"MG";"Jacinto";3;2;1
+"3135100";"Sudeste";"MG";"Janaúba";28;23;34
+"3135209";"Sudeste";"MG";"Januária";15;8;11
+"3136207";"Sudeste";"MG";"João Monlevade";15;11;15
+"3136306";"Sudeste";"MG";"João Pinheiro";4;4;1
+"3136652";"Sudeste";"MG";"Juatuba";1;1;1
+"3136702";"Sudeste";"MG";"Juiz de Fora";157;137;151
+"3137205";"Sudeste";"MG";"Lagoa da Prata";5;7;6
+"3137601";"Sudeste";"MG";"Lagoa Santa";2;3;2
+"3138203";"Sudeste";"MG";"Lavras";17;34;44
+"3138401";"Sudeste";"MG";"Leopoldina";7;7;9
+"3138807";"Sudeste";"MG";"Luz";6;1;3
+"3138906";"Sudeste";"MG";"Machacalis";7;3;1
+"3139003";"Sudeste";"MG";"Machado";6;6;4
+"3139201";"Sudeste";"MG";"Malacacheta";5;3;6
+"3139300";"Sudeste";"MG";"Manga";6;6;8
+"3139409";"Sudeste";"MG";"Manhuaçu";23;28;29
+"3139508";"Sudeste";"MG";"Manhumirim";5;6;1
+"3139607";"Sudeste";"MG";"Mantena";5;4;7
+"3140001";"Sudeste";"MG";"Mariana";7;9;3
+"3141108";"Sudeste";"MG";"Matozinhos";1;2;1
+"3141801";"Sudeste";"MG";"Minas Novas";8;17;7
+"3142700";"Sudeste";"MG";"Montalvânia";5;4;2
+"3142908";"Sudeste";"MG";"Monte Azul";4;6;1
+"3143104";"Sudeste";"MG";"Monte Carmelo";5;4;4
+"3143302";"Sudeste";"MG";"Montes Claros";125;154;124
+"3143906";"Sudeste";"MG";"Muriaé";22;21;22
+"3144003";"Sudeste";"MG";"Mutum";2;2;3
+"3144300";"Sudeste";"MG";"Nanuque";4;6;2
+"3144805";"Sudeste";"MG";"Nova Lima";90;74;87
+"3145208";"Sudeste";"MG";"Nova Serrana";13;19;8
+"3145307";"Sudeste";"MG";"Novo Cruzeiro";5;8;7
+"3145604";"Sudeste";"MG";"Oliveira";4;1;1
+"3145901";"Sudeste";"MG";"Ouro Branco";2;1;3
+"3146008";"Sudeste";"MG";"Ouro Fino";1;5;3
+"3146107";"Sudeste";"MG";"Ouro Preto";5;7;2
+"3146305";"Sudeste";"MG";"Padre Paraíso";2;3;4
+"3147006";"Sudeste";"MG";"Paracatu";6;3;2
+"3147105";"Sudeste";"MG";"Pará de Minas";7;8;10
+"3147204";"Sudeste";"MG";"Paraguaçu";1;3;1
+"3147907";"Sudeste";"MG";"Passos";32;33;36
+"3148004";"Sudeste";"MG";"Patos de Minas";59;51;66
+"3148103";"Sudeste";"MG";"Patrocínio";3;2;5
+"3148608";"Sudeste";"MG";"Peçanha";5;2;1
+"3148707";"Sudeste";"MG";"Pedra Azul";10;8;16
+"3149309";"Sudeste";"MG";"Pedro Leopoldo";7;1;8
+"3151107";"Sudeste";"MG";"Pirapetinga";1;3;1
+"3151206";"Sudeste";"MG";"Pirapora";16;19;18
+"3151404";"Sudeste";"MG";"Pitangui";6;4;3
+"3151503";"Sudeste";"MG";"Piumhi";3;8;2
+"3151800";"Sudeste";"MG";"Poços de Caldas";26;17;16
+"3151909";"Sudeste";"MG";"Pocrane";1;2;1
+"3152006";"Sudeste";"MG";"Pompéu";1;1;4
+"3152105";"Sudeste";"MG";"Ponte Nova";9;11;19
+"3152204";"Sudeste";"MG";"Porteirinha";4;3;3
+"3152501";"Sudeste";"MG";"Pouso Alegre";55;54;55
+"3154309";"Sudeste";"MG";"Resplendor";2;5;4
+"3154606";"Sudeste";"MG";"Ribeirão das Neves";16;16;10
+"3154903";"Sudeste";"MG";"Rio Casca";3;5;1
+"3155603";"Sudeste";"MG";"Rio Pardo de Minas";3;6;2
+"3156601";"Sudeste";"MG";"Rubim";3;4;3
+"3156700";"Sudeste";"MG";"Sabará";4;4;2
+"3157005";"Sudeste";"MG";"Salinas";11;14;8
+"3157203";"Sudeste";"MG";"Santa Bárbara";2;4;2
+"3157807";"Sudeste";"MG";"Santa Luzia";7;1;5
+"3157906";"Sudeste";"MG";"Santa Margarida";1;2;1
+"3158201";"Sudeste";"MG";"Santa Maria do Suaçuí";1;4;4
+"3159803";"Sudeste";"MG";"Santa Vitória";1;2;1
+"3160702";"Sudeste";"MG";"Santos Dumont";8;2;5
+"3161007";"Sudeste";"MG";"São Domingos do Prata";1;2;1
+"3161106";"Sudeste";"MG";"São Francisco";12;11;13
+"3162104";"Sudeste";"MG";"São Gotardo";1;1;3
+"3162401";"Sudeste";"MG";"São João da Ponte";2;2;4
+"3162450";"Sudeste";"MG";"São João das Missões";1;1;1
+"3162500";"Sudeste";"MG";"São João del Rei";30;15;16
+"3162708";"Sudeste";"MG";"São João do Paraíso";1;2;4
+"3162807";"Sudeste";"MG";"São João Evangelista";2;6;6
+"3162906";"Sudeste";"MG";"São João Nepomuceno";8;4;4
+"3163706";"Sudeste";"MG";"São Lourenço";12;14;25
+"3164704";"Sudeste";"MG";"São Sebastião do Paraíso";27;28;28
+"3165305";"Sudeste";"MG";"São Vicente de Minas";1;1;2
+"3167103";"Sudeste";"MG";"Serro";2;3;4
+"3167202";"Sudeste";"MG";"Sete Lagoas";52;53;72
+"3168002";"Sudeste";"MG";"Taiobeiras";9;10;6
+"3168606";"Sudeste";"MG";"Teófilo Otoni";107;114;100
+"3168705";"Sudeste";"MG";"Timóteo";7;12;10
+"3169307";"Sudeste";"MG";"Três Corações";18;23;21
+"3169356";"Sudeste";"MG";"Três Marias";3;2;1
+"3169406";"Sudeste";"MG";"Três Pontas";6;6;3
+"3169703";"Sudeste";"MG";"Turmalina";10;6;2
+"3169901";"Sudeste";"MG";"Ubá";41;24;34
+"3170107";"Sudeste";"MG";"Uberaba";66;101;71
+"3170206";"Sudeste";"MG";"Uberlândia";129;126;117
+"3170404";"Sudeste";"MG";"Unaí";6;6;12
+"3170701";"Sudeste";"MG";"Varginha";11;17;11
+"3170800";"Sudeste";"MG";"Várzea da Palma";8;5;2
+"3171204";"Sudeste";"MG";"Vespasiano";3;1;2
+"3171303";"Sudeste";"MG";"Viçosa";32;35;15
+"3171808";"Sudeste";"MG";"Virginópolis";6;2;3
+"3172004";"Sudeste";"MG";"Visconde do Rio Branco";5;4;4
+"3200102";"Sudeste";"ES";"Afonso Cláudio";3;1;5
+"3200201";"Sudeste";"ES";"Alegre";2;4;1
+"3200409";"Sudeste";"ES";"Anchieta";3;2;1
+"3200805";"Sudeste";"ES";"Baixo Guandu";5;2;1
+"3200904";"Sudeste";"ES";"Barra de São Francisco";10;8;10
+"3201209";"Sudeste";"ES";"Cachoeiro de Itapemirim";90;98;84
+"3201308";"Sudeste";"ES";"Cariacica";18;19;22
+"3201506";"Sudeste";"ES";"Colatina";27;50;49
+"3202108";"Sudeste";"ES";"Ecoporanga";1;1;3
+"3202306";"Sudeste";"ES";"Guaçuí";3;3;3
+"3202405";"Sudeste";"ES";"Guarapari";3;5;3
+"3203007";"Sudeste";"ES";"Iúna";2;3;3
+"3203056";"Sudeste";"ES";"Jaguaré";1;4;3
+"3203205";"Sudeste";"ES";"Linhares";28;22;23
+"3203403";"Sudeste";"ES";"Mimoso do Sul";1;2;1
+"3203502";"Sudeste";"ES";"Montanha";1;3;2
+"3204054";"Sudeste";"ES";"Pedro Canário";1;3;3
+"3204104";"Sudeste";"ES";"Pinheiros";4;1;1
+"3204559";"Sudeste";"ES";"Santa Maria de Jetibá";3;4;2
+"3204609";"Sudeste";"ES";"Santa Teresa";1;2;1
+"3204906";"Sudeste";"ES";"São Mateus";26;20;16
+"3205002";"Sudeste";"ES";"Serra";87;83;81
+"3205069";"Sudeste";"ES";"Venda Nova do Imigrante";3;6;3
+"3205200";"Sudeste";"ES";"Vila Velha";75;94;110
+"3205309";"Sudeste";"ES";"Vitória";180;156;161
+"3300100";"Sudeste";"RJ";"Angra dos Reis";11;15;16
+"3300209";"Sudeste";"RJ";"Araruama";27;30;36
+"3300308";"Sudeste";"RJ";"Barra do Piraí";15;11;12
+"3300407";"Sudeste";"RJ";"Barra Mansa";25;54;41
+"3300456";"Sudeste";"RJ";"Belford Roxo";36;37;22
+"3300506";"Sudeste";"RJ";"Bom Jardim";3;3;2
+"3300605";"Sudeste";"RJ";"Bom Jesus do Itabapoana";4;4;3
+"3300704";"Sudeste";"RJ";"Cabo Frio";33;30;40
+"3300803";"Sudeste";"RJ";"Cachoeiras de Macacu";6;9;10
+"3300902";"Sudeste";"RJ";"Cambuci";1;2;1
+"3301009";"Sudeste";"RJ";"Campos dos Goytacazes";131;125;125
+"3301207";"Sudeste";"RJ";"Carmo";2;5;3
+"3301504";"Sudeste";"RJ";"Cordeiro";1;1;3
+"3301603";"Sudeste";"RJ";"Duas Barras";1;1;1
+"3301702";"Sudeste";"RJ";"Duque de Caxias";240;308;264
+"3301850";"Sudeste";"RJ";"Guapimirim";2;3;1
+"3301900";"Sudeste";"RJ";"Itaboraí";19;13;20
+"3302007";"Sudeste";"RJ";"Itaguaí";15;7;4
+"3302205";"Sudeste";"RJ";"Itaperuna";22;19;22
+"3302270";"Sudeste";"RJ";"Japeri";6;2;5
+"3302403";"Sudeste";"RJ";"Macaé";50;46;52
+"3302502";"Sudeste";"RJ";"Magé";12;20;26
+"3302601";"Sudeste";"RJ";"Mangaratiba";4;4;1
+"3302700";"Sudeste";"RJ";"Maricá";14;4;9
+"3302858";"Sudeste";"RJ";"Mesquita";5;5;11
+"3302908";"Sudeste";"RJ";"Miguel Pereira";9;5;6
+"3303005";"Sudeste";"RJ";"Miracema";6;6;2
+"3303104";"Sudeste";"RJ";"Natividade";2;2;1
+"3303203";"Sudeste";"RJ";"Nilópolis";51;43;47
+"3303302";"Sudeste";"RJ";"Niterói";138;131;160
+"3303401";"Sudeste";"RJ";"Nova Friburgo";33;38;30
+"3303500";"Sudeste";"RJ";"Nova Iguaçu";176;179;169
+"3303609";"Sudeste";"RJ";"Paracambi";9;6;8
+"3303708";"Sudeste";"RJ";"Paraíba do Sul";4;2;5
+"3303807";"Sudeste";"RJ";"Paraty";8;2;2
+"3303906";"Sudeste";"RJ";"Petrópolis";76;75;54
+"3304003";"Sudeste";"RJ";"Piraí";3;2;2
+"3304144";"Sudeste";"RJ";"Queimados";18;30;18
+"3304201";"Sudeste";"RJ";"Resende";25;40;38
+"3304300";"Sudeste";"RJ";"Rio Bonito";3;6;1
+"3304524";"Sudeste";"RJ";"Rio das Ostras";9;8;8
+"3304557";"Sudeste";"RJ";"Rio de Janeiro";1397;1361;1449
+"3304706";"Sudeste";"RJ";"Santo Antônio de Pádua";6;5;4
+"3304805";"Sudeste";"RJ";"São Fidélis";1;2;1
+"3304904";"Sudeste";"RJ";"São Gonçalo";105;110;102
+"3305109";"Sudeste";"RJ";"São João de Meriti";73;102;117
+"3305208";"Sudeste";"RJ";"São Pedro da Aldeia";9;6;7
+"3305505";"Sudeste";"RJ";"Saquarema";6;5;7
+"3305802";"Sudeste";"RJ";"Teresópolis";21;15;10
+"3306008";"Sudeste";"RJ";"Três Rios";14;15;15
+"3306107";"Sudeste";"RJ";"Valença";12;15;8
+"3306156";"Sudeste";"RJ";"Varre-Sai";1;2;2
+"3306206";"Sudeste";"RJ";"Vassouras";16;11;7
+"3306305";"Sudeste";"RJ";"Volta Redonda";64;45;48
+"3500105";"Sudeste";"SP";"Adamantina";2;5;3
+"3500303";"Sudeste";"SP";"Aguaí";6;4;4
+"3501608";"Sudeste";"SP";"Americana";45;50;42
+"3501905";"Sudeste";"SP";"Amparo";7;3;3
+"3502101";"Sudeste";"SP";"Andradina";4;4;5
+"3502200";"Sudeste";"SP";"Angatuba";2;2;1
+"3502507";"Sudeste";"SP";"Aparecida";3;4;7
+"3502705";"Sudeste";"SP";"Apiaí";3;2;2
+"3502804";"Sudeste";"SP";"Araçatuba";61;71;56
+"3503208";"Sudeste";"SP";"Araraquara";48;43;42
+"3503307";"Sudeste";"SP";"Araras";13;24;18
+"3503901";"Sudeste";"SP";"Arujá";14;21;23
+"3504008";"Sudeste";"SP";"Assis";37;23;43
+"3504107";"Sudeste";"SP";"Atibaia";18;13;11
+"3504503";"Sudeste";"SP";"Avaré";20;8;4
+"3505203";"Sudeste";"SP";"Bariri";1;2;1
+"3505302";"Sudeste";"SP";"Barra Bonita";3;3;4
+"3505500";"Sudeste";"SP";"Barretos";27;24;34
+"3505708";"Sudeste";"SP";"Barueri";56;54;71
+"3505906";"Sudeste";"SP";"Batatais";1;1;9
+"3506003";"Sudeste";"SP";"Bauru";65;77;77
+"3506102";"Sudeste";"SP";"Bebedouro";4;5;7
+"3506359";"Sudeste";"SP";"Bertioga";5;5;4
+"3506508";"Sudeste";"SP";"Birigui";3;8;1
+"3506706";"Sudeste";"SP";"Boa Esperança do Sul";1;3;1
+"3507001";"Sudeste";"SP";"Boituva";3;3;2
+"3507506";"Sudeste";"SP";"Botucatu";77;65;74
+"3507605";"Sudeste";"SP";"Bragança Paulista";60;42;50
+"3507902";"Sudeste";"SP";"Brotas";2;2;1
+"3508504";"Sudeste";"SP";"Caçapava";5;4;6
+"3508702";"Sudeste";"SP";"Caconde";2;1;1
+"3509007";"Sudeste";"SP";"Caieiras";27;28;18
+"3509205";"Sudeste";"SP";"Cajamar";2;1;1
+"3509403";"Sudeste";"SP";"Cajuru";2;1;2
+"3509502";"Sudeste";"SP";"Campinas";299;260;279
+"3509601";"Sudeste";"SP";"Campo Limpo Paulista";3;5;2
+"3509700";"Sudeste";"SP";"Campos do Jordão";11;5;8
+"3510203";"Sudeste";"SP";"Capão Bonito";6;7;6
+"3510401";"Sudeste";"SP";"Capivari";3;6;6
+"3510500";"Sudeste";"SP";"Caraguatatuba";28;20;24
+"3510609";"Sudeste";"SP";"Carapicuíba";39;40;30
+"3510807";"Sudeste";"SP";"Casa Branca";1;4;1
+"3511102";"Sudeste";"SP";"Catanduva";33;38;36
+"3511508";"Sudeste";"SP";"Cerquilho";1;1;1
+"3512803";"Sudeste";"SP";"Cosmópolis";6;4;5
+"3513009";"Sudeste";"SP";"Cotia";30;24;41
+"3513405";"Sudeste";"SP";"Cruzeiro";15;9;10
+"3513504";"Sudeste";"SP";"Cubatão";18;28;30
+"3513801";"Sudeste";"SP";"Diadema";81;78;87
+"3514106";"Sudeste";"SP";"Dois Córregos";2;4;3
+"3514403";"Sudeste";"SP";"Dracena";7;2;2
+"3515004";"Sudeste";"SP";"Embu das Artes";6;11;9
+"3515509";"Sudeste";"SP";"Fernandópolis";4;3;4
+"3515707";"Sudeste";"SP";"Ferraz de Vasconcelos";40;49;26
+"3516200";"Sudeste";"SP";"Franca";60;75;52
+"3516309";"Sudeste";"SP";"Francisco Morato";34;34;27
+"3516408";"Sudeste";"SP";"Franco da Rocha";2;11;14
+"3516705";"Sudeste";"SP";"Garça";2;3;4
+"3518305";"Sudeste";"SP";"Guararema";3;1;2
+"3518404";"Sudeste";"SP";"Guaratinguetá";25;24;17
+"3518701";"Sudeste";"SP";"Guarujá";67;86;76
+"3518800";"Sudeste";"SP";"Guarulhos";227;225;238
+"3519071";"Sudeste";"SP";"Hortolândia";5;6;8
+"3519600";"Sudeste";"SP";"Ibitinga";7;3;3
+"3519709";"Sudeste";"SP";"Ibiúna";6;5;9
+"3520400";"Sudeste";"SP";"Ilhabela";4;3;1
+"3520509";"Sudeste";"SP";"Indaiatuba";19;36;27
+"3521804";"Sudeste";"SP";"Itaí";3;2;2
+"3522109";"Sudeste";"SP";"Itanhaém";21;23;28
+"3522208";"Sudeste";"SP";"Itapecerica da Serra";35;49;54
+"3522307";"Sudeste";"SP";"Itapetininga";22;11;21
+"3522406";"Sudeste";"SP";"Itapeva";55;61;46
+"3522505";"Sudeste";"SP";"Itapevi";45;37;42
+"3522604";"Sudeste";"SP";"Itapira";1;3;1
+"3522703";"Sudeste";"SP";"Itápolis";3;2;6
+"3523107";"Sudeste";"SP";"Itaquaquecetuba";47;49;39
+"3523305";"Sudeste";"SP";"Itariri";2;3;1
+"3523404";"Sudeste";"SP";"Itatiba";23;15;18
+"3523909";"Sudeste";"SP";"Itu";36;44;44
+"3524303";"Sudeste";"SP";"Jaboticabal";3;2;3
+"3524402";"Sudeste";"SP";"Jacareí";38;39;42
+"3524808";"Sudeste";"SP";"Jales";13;7;16
+"3525300";"Sudeste";"SP";"Jaú";39;31;34
+"3525706";"Sudeste";"SP";"José Bonifácio";4;2;2
+"3525904";"Sudeste";"SP";"Jundiaí";148;111;131
+"3526001";"Sudeste";"SP";"Junqueirópolis";4;2;4
+"3526704";"Sudeste";"SP";"Leme";9;8;8
+"3526803";"Sudeste";"SP";"Lençóis Paulista";5;1;3
+"3526902";"Sudeste";"SP";"Limeira";47;65;45
+"3527108";"Sudeste";"SP";"Lins";18;21;12
+"3527207";"Sudeste";"SP";"Lorena";9;24;22
+"3527702";"Sudeste";"SP";"Luiziânia";1;1;2
+"3528502";"Sudeste";"SP";"Mairiporã";6;2;5
+"3529005";"Sudeste";"SP";"Marília";59;55;66
+"3529302";"Sudeste";"SP";"Matão";19;27;16
+"3529401";"Sudeste";"SP";"Mauá";81;59;66
+"3529906";"Sudeste";"SP";"Miracatu";2;3;1
+"3530102";"Sudeste";"SP";"Mirandópolis";1;3;3
+"3530508";"Sudeste";"SP";"Mococa";7;5;4
+"3530607";"Sudeste";"SP";"Mogi das Cruzes";79;84;104
+"3530706";"Sudeste";"SP";"Mogi Guaçu";24;19;24
+"3530805";"Sudeste";"SP";"Mogi Mirim";16;9;13
+"3531100";"Sudeste";"SP";"Mongaguá";4;3;4
+"3531506";"Sudeste";"SP";"Monte Azul Paulista";1;3;1
+"3531803";"Sudeste";"SP";"Monte Mor";1;1;2
+"3533908";"Sudeste";"SP";"Olímpia";4;3;2
+"3534302";"Sudeste";"SP";"Orlândia";5;8;4
+"3534401";"Sudeste";"SP";"Osasco";131;113;132
+"3534609";"Sudeste";"SP";"Osvaldo Cruz";2;4;1
+"3534708";"Sudeste";"SP";"Ourinhos";15;18;12
+"3536208";"Sudeste";"SP";"Pariquera-Açu";32;24;30
+"3536505";"Sudeste";"SP";"Paulínia";4;2;2
+"3536703";"Sudeste";"SP";"Pederneiras";3;4;1
+"3537008";"Sudeste";"SP";"Pedregulho";3;2;1
+"3537305";"Sudeste";"SP";"Penápolis";6;4;5
+"3537404";"Sudeste";"SP";"Pereira Barreto";2;4;3
+"3537602";"Sudeste";"SP";"Peruíbe";6;10;3
+"3537800";"Sudeste";"SP";"Piedade";6;6;3
+"3537909";"Sudeste";"SP";"Pilar do Sul";2;3;2
+"3538006";"Sudeste";"SP";"Pindamonhangaba";31;26;39
+"3538709";"Sudeste";"SP";"Piracicaba";69;76;84
+"3538808";"Sudeste";"SP";"Piraju";2;2;3
+"3539301";"Sudeste";"SP";"Pirassununga";6;4;8
+"3539509";"Sudeste";"SP";"Pitangueiras";1;2;3
+"3539806";"Sudeste";"SP";"Poá";2;2;4
+"3540606";"Sudeste";"SP";"Porto Feliz";3;3;2
+"3540705";"Sudeste";"SP";"Porto Ferreira";5;3;2
+"3541000";"Sudeste";"SP";"Praia Grande";36;44;49
+"3541307";"Sudeste";"SP";"Presidente Epitácio";5;1;2
+"3541406";"Sudeste";"SP";"Presidente Prudente";90;87;85
+"3542602";"Sudeste";"SP";"Registro";5;6;11
+"3543303";"Sudeste";"SP";"Ribeirão Pires";5;9;8
+"3543402";"Sudeste";"SP";"Ribeirão Preto";205;193;195
+"3543907";"Sudeste";"SP";"Rio Claro";45;45;42
+"3544004";"Sudeste";"SP";"Rio das Pedras";2;1;1
+"3544251";"Sudeste";"SP";"Rosana";5;1;3
+"3545209";"Sudeste";"SP";"Salto";5;3;9
+"3545308";"Sudeste";"SP";"Salto de Pirapora";2;1;2
+"3545803";"Sudeste";"SP";"Santa Bárbara d'Oeste";5;4;6
+"3546306";"Sudeste";"SP";"Santa Cruz das Palmeiras";2;4;2
+"3546405";"Sudeste";"SP";"Santa Cruz do Rio Pardo";12;10;11
+"3546801";"Sudeste";"SP";"Santa Isabel";8;3;2
+"3547601";"Sudeste";"SP";"Santa Rosa de Viterbo";2;1;2
+"3547809";"Sudeste";"SP";"Santo André";131;132;94
+"3548500";"Sudeste";"SP";"Santos";171;167;157
+"3548708";"Sudeste";"SP";"São Bernardo do Campo";109;94;105
+"3548807";"Sudeste";"SP";"São Caetano do Sul";17;17;18
+"3548906";"Sudeste";"SP";"São Carlos";37;39;36
+"3549102";"Sudeste";"SP";"São João da Boa Vista";10;6;5
+"3549409";"Sudeste";"SP";"São Joaquim da Barra";7;3;2
+"3549706";"Sudeste";"SP";"São José do Rio Pardo";6;8;3
+"3549805";"Sudeste";"SP";"São José do Rio Preto";106;108;120
+"3549904";"Sudeste";"SP";"São José dos Campos";95;120;116
+"3550308";"Sudeste";"SP";"São Paulo";2403;2424;2474
+"3550605";"Sudeste";"SP";"São Roque";14;18;9
+"3550704";"Sudeste";"SP";"São Sebastião";6;4;11
+"3551009";"Sudeste";"SP";"São Vicente";43;52;46
+"3551603";"Sudeste";"SP";"Serra Negra";2;1;3
+"3551702";"Sudeste";"SP";"Sertãozinho";37;31;36
+"3552106";"Sudeste";"SP";"Socorro";4;1;3
+"3552205";"Sudeste";"SP";"Sorocaba";209;216;199
+"3552403";"Sudeste";"SP";"Sumaré";34;32;32
+"3552502";"Sudeste";"SP";"Suzano";35;32;27
+"3552700";"Sudeste";"SP";"Tabatinga";3;1;1
+"3552809";"Sudeste";"SP";"Taboão da Serra";56;50;67
+"3553302";"Sudeste";"SP";"Tambaú";2;1;2
+"3553708";"Sudeste";"SP";"Taquaritinga";3;2;1
+"3554003";"Sudeste";"SP";"Tatuí";6;6;13
+"3554102";"Sudeste";"SP";"Taubaté";92;75;75
+"3555000";"Sudeste";"SP";"Tupã";9;6;6
+"3555406";"Sudeste";"SP";"Ubatuba";8;8;6
+"3556206";"Sudeste";"SP";"Valinhos";11;5;5
+"3556305";"Sudeste";"SP";"Valparaíso";2;2;1
+"3557006";"Sudeste";"SP";"Votorantim";5;7;2
+"3557105";"Sudeste";"SP";"Votuporanga";14;15;12
+"4100400";"Sul";"PR";"Almirante Tamandaré";4;5;5
+"4100509";"Sul";"PR";"Altônia";2;1;1
+"4101408";"Sul";"PR";"Apucarana";26;32;34
+"4101507";"Sul";"PR";"Arapongas";11;3;6
+"4101804";"Sul";"PR";"Araucária";21;28;30
+"4102000";"Sul";"PR";"Assis Chateaubriand";1;3;2
+"4102802";"Sul";"PR";"Bela Vista do Paraíso";1;1;2
+"4103701";"Sul";"PR";"Cambé";1;2;2
+"4103909";"Sul";"PR";"Campina da Lagoa";1;1;1
+"4104006";"Sul";"PR";"Campina Grande do Sul";60;28;46
+"4104204";"Sul";"PR";"Campo Largo";85;111;114
+"4104253";"Sul";"PR";"Campo Magro";1;3;1
+"4104303";"Sul";"PR";"Campo Mourão";48;42;42
+"4104402";"Sul";"PR";"Cândido de Abreu";1;3;1
+"4104451";"Sul";"PR";"Cantagalo";4;1;2
+"4104709";"Sul";"PR";"Carlópolis";2;1;2
+"4104808";"Sul";"PR";"Cascavel";75;88;66
+"4104907";"Sul";"PR";"Castro";10;14;11
+"4105508";"Sul";"PR";"Cianorte";9;14;11
+"4105706";"Sul";"PR";"Clevelândia";1;2;1
+"4105805";"Sul";"PR";"Colombo";10;8;12
+"4106407";"Sul";"PR";"Cornélio Procópio";14;27;18
+"4106506";"Sul";"PR";"Coronel Vivida";1;1;1
+"4106902";"Sul";"PR";"Curitiba";434;416;451
+"4107009";"Sul";"PR";"Curiúva";6;2;2
+"4107207";"Sul";"PR";"Dois Vizinhos";4;1;1
+"4107652";"Sul";"PR";"Fazenda Rio Grande";4;4;5
+"4108304";"Sul";"PR";"Foz do Iguaçu";57;59;55
+"4108403";"Sul";"PR";"Francisco Beltrão";44;54;43
+"4108601";"Sul";"PR";"Goioerê";4;1;3
+"4108809";"Sul";"PR";"Guaíra";2;7;4
+"4109401";"Sul";"PR";"Guarapuava";73;73;74
+"4109708";"Sul";"PR";"Ibaiti";2;1;1
+"4110706";"Sul";"PR";"Irati";29;16;20
+"4110805";"Sul";"PR";"Iretama";2;1;2
+"4111258";"Sul";"PR";"Itaperuçu";5;3;3
+"4111506";"Sul";"PR";"Ivaiporã";31;21;21
+"4111803";"Sul";"PR";"Jacarezinho";6;4;4
+"4112009";"Sul";"PR";"Jaguariaíva";7;6;6
+"4113205";"Sul";"PR";"Lapa";3;2;6
+"4113304";"Sul";"PR";"Laranjeiras do Sul";7;12;8
+"4113502";"Sul";"PR";"Loanda";1;2;1
+"4113700";"Sul";"PR";"Londrina";158;163;174
+"4113908";"Sul";"PR";"Mallet";1;1;2
+"4114104";"Sul";"PR";"Mandaguaçu";1;1;1
+"4114203";"Sul";"PR";"Mandaguari";2;3;1
+"4114500";"Sul";"PR";"Manoel Ribas";1;3;1
+"4114609";"Sul";"PR";"Marechal Cândido Rondon";4;4;2
+"4115200";"Sul";"PR";"Maringá";75;92;110
+"4115804";"Sul";"PR";"Medianeira";1;2;3
+"4117057";"Sul";"PR";"Nova Laranjeiras";4;4;1
+"4117255";"Sul";"PR";"Nova Prata do Iguaçu";1;1;1
+"4117305";"Sul";"PR";"Ortigueira";4;1;6
+"4117602";"Sul";"PR";"Palmas";2;6;9
+"4117701";"Sul";"PR";"Palmeira";4;1;1
+"4117800";"Sul";"PR";"Palmital";2;3;2
+"4117909";"Sul";"PR";"Palotina";1;1;1
+"4118204";"Sul";"PR";"Paranaguá";28;34;15
+"4118402";"Sul";"PR";"Paranavaí";24;26;26
+"4118501";"Sul";"PR";"Pato Branco";39;26;56
+"4119152";"Sul";"PR";"Pinhais";12;6;4
+"4119301";"Sul";"PR";"Pinhão";6;7;5
+"4119400";"Sul";"PR";"Piraí do Sul";4;2;3
+"4119509";"Sul";"PR";"Piraquara";2;3;1
+"4119608";"Sul";"PR";"Pitanga";8;8;1
+"4119905";"Sul";"PR";"Ponta Grossa";94;58;50
+"4120606";"Sul";"PR";"Prudentópolis";6;2;3
+"4120903";"Sul";"PR";"Quedas do Iguaçu";2;1;2
+"4121000";"Sul";"PR";"Querência do Norte";1;1;1
+"4121406";"Sul";"PR";"Realeza";1;1;3
+"4121703";"Sul";"PR";"Reserva";3;3;3
+"4122206";"Sul";"PR";"Rio Branco do Sul";4;3;1
+"4122404";"Sul";"PR";"Rolândia";4;3;5
+"4123501";"Sul";"PR";"Santa Helena";2;1;1
+"4124103";"Sul";"PR";"Santo Antônio da Platina";20;15;13
+"4125100";"Sul";"PR";"São João do Triunfo";1;1;1
+"4125506";"Sul";"PR";"São José dos Pinhais";37;38;25
+"4126256";"Sul";"PR";"Sarandi";3;3;3
+"4127106";"Sul";"PR";"Telêmaco Borba";22;1;9
+"4127700";"Sul";"PR";"Toledo";16;25;23
+"4127882";"Sul";"PR";"Tunas do Paraná";1;1;2
+"4127965";"Sul";"PR";"Turvo";1;3;2
+"4128005";"Sul";"PR";"Ubiratã";1;1;1
+"4128104";"Sul";"PR";"Umuarama";28;44;42
+"4128203";"Sul";"PR";"União da Vitória";20;22;19
+"4128500";"Sul";"PR";"Wenceslau Braz";1;1;3
+"4200408";"Sul";"SC";"Água Doce";1;1;1
+"4201406";"Sul";"SC";"Araranguá";5;9;9
+"4202008";"Sul";"SC";"Balneário Camboriú";20;27;28
+"4202404";"Sul";"SC";"Blumenau";91;83;94
+"4202800";"Sul";"SC";"Braço do Norte";1;3;1
+"4202909";"Sul";"SC";"Brusque";10;6;6
+"4203006";"Sul";"SC";"Caçador";11;12;6
+"4203600";"Sul";"SC";"Campos Novos";1;2;1
+"4203808";"Sul";"SC";"Canoinhas";1;2;1
+"4203907";"Sul";"SC";"Capinzal";1;1;2
+"4204202";"Sul";"SC";"Chapecó";33;55;61
+"4204301";"Sul";"SC";"Concórdia";17;24;13
+"4204608";"Sul";"SC";"Criciúma";28;38;52
+"4204806";"Sul";"SC";"Curitibanos";24;38;33
+"4205001";"Sul";"SC";"Dionísio Cerqueira";1;1;1
+"4205407";"Sul";"SC";"Florianópolis";99;134;114
+"4205506";"Sul";"SC";"Fraiburgo";3;7;4
+"4205902";"Sul";"SC";"Gaspar";4;3;1
+"4206900";"Sul";"SC";"Ibirama";3;1;2
+"4207007";"Sul";"SC";"Içara";3;3;4
+"4207304";"Sul";"SC";"Imbituba";2;3;1
+"4207502";"Sul";"SC";"Indaial";2;2;4
+"4208104";"Sul";"SC";"Itaiópolis";1;2;1
+"4208203";"Sul";"SC";"Itajaí";42;67;50
+"4208401";"Sul";"SC";"Itapiranga";3;1;2
+"4208500";"Sul";"SC";"Ituporanga";2;2;2
+"4208906";"Sul";"SC";"Jaraguá do Sul";36;50;19
+"4209003";"Sul";"SC";"Joaçaba";7;10;7
+"4209102";"Sul";"SC";"Joinville";88;116;104
+"4209300";"Sul";"SC";"Lages";77;57;80
+"4210100";"Sul";"SC";"Mafra";9;19;9
+"4211108";"Sul";"SC";"Monte Castelo";1;1;1
+"4211306";"Sul";"SC";"Navegantes";1;1;3
+"4211702";"Sul";"SC";"Orleans";1;1;2
+"4212205";"Sul";"SC";"Papanduva";2;1;1
+"4213203";"Sul";"SC";"Pomerode";1;1;2
+"4213609";"Sul";"SC";"Porto União";2;3;3
+"4214805";"Sul";"SC";"Rio do Sul";26;24;24
+"4215000";"Sul";"SC";"Rio Negrinho";3;4;1
+"4215802";"Sul";"SC";"São Bento do Sul";9;8;4
+"4216206";"Sul";"SC";"São Francisco do Sul";1;1;2
+"4216602";"Sul";"SC";"São José";46;20;25
+"4217204";"Sul";"SC";"São Miguel do Oeste";2;4;1
+"4217808";"Sul";"SC";"Taió";2;1;4
+"4218004";"Sul";"SC";"Tijucas";2;3;1
+"4218707";"Sul";"SC";"Tubarão";50;64;41
+"4218905";"Sul";"SC";"Urubici";1;1;2
+"4219309";"Sul";"SC";"Videira";5;6;3
+"4219507";"Sul";"SC";"Xanxerê";16;19;23
+"4300406";"Sul";"RS";"Alegrete";20;22;16
+"4300604";"Sul";"RS";"Alvorada";22;19;32
+"4301206";"Sul";"RS";"Arroio do Tigre";1;1;1
+"4301602";"Sul";"RS";"Bagé";23;45;45
+"4302105";"Sul";"RS";"Bento Gonçalves";18;24;14
+"4302808";"Sul";"RS";"Caçapava do Sul";1;1;1
+"4303004";"Sul";"RS";"Cachoeira do Sul";18;14;11
+"4303103";"Sul";"RS";"Cachoeirinha";14;16;12
+"4303509";"Sul";"RS";"Camaquã";4;6;4
+"4304408";"Sul";"RS";"Canela";1;4;1
+"4304507";"Sul";"RS";"Canguçu";4;12;13
+"4304606";"Sul";"RS";"Canoas";36;59;34
+"4304630";"Sul";"RS";"Capão da Canoa";2;5;5
+"4304705";"Sul";"RS";"Carazinho";3;4;6
+"4305108";"Sul";"RS";"Caxias do Sul";116;103;101
+"4306106";"Sul";"RS";"Cruz Alta";5;5;6
+"4307005";"Sul";"RS";"Erechim";30;32;29
+"4307708";"Sul";"RS";"Esteio";5;3;11
+"4307807";"Sul";"RS";"Estrela";12;13;9
+"4307906";"Sul";"RS";"Farroupilha";1;2;3
+"4308508";"Sul";"RS";"Frederico Westphalen";4;7;4
+"4309100";"Sul";"RS";"Gramado";1;2;3
+"4309209";"Sul";"RS";"Gravataí";10;6;5
+"4309308";"Sul";"RS";"Guaíba";2;1;4
+"4310108";"Sul";"RS";"Igrejinha";2;2;1
+"4310207";"Sul";"RS";"Ijuí";16;13;22
+"4310603";"Sul";"RS";"Itaqui";3;3;3
+"4311304";"Sul";"RS";"Lagoa Vermelha";1;5;1
+"4311403";"Sul";"RS";"Lajeado";13;21;15
+"4312401";"Sul";"RS";"Montenegro";5;3;4
+"4313409";"Sul";"RS";"Novo Hamburgo";60;61;53
+"4313706";"Sul";"RS";"Palmeira das Missões";6;6;2
+"4314050";"Sul";"RS";"Parobé";2;2;3
+"4314100";"Sul";"RS";"Passo Fundo";67;85;79
+"4314407";"Sul";"RS";"Pelotas";84;81;92
+"4314902";"Sul";"RS";"Porto Alegre";492;480;455
+"4315107";"Sul";"RS";"Porto Xavier";2;1;1
+"4315305";"Sul";"RS";"Quaraí";3;2;2
+"4315404";"Sul";"RS";"Redentora";1;1;1
+"4315602";"Sul";"RS";"Rio Grande";31;35;34
+"4316402";"Sul";"RS";"Rosário do Sul";2;5;3
+"4316808";"Sul";"RS";"Santa Cruz do Sul";11;24;17
+"4316907";"Sul";"RS";"Santa Maria";69;61;68
+"4317103";"Sul";"RS";"Sant'Ana do Livramento";9;8;6
+"4317202";"Sul";"RS";"Santa Rosa";9;24;20
+"4317400";"Sul";"RS";"Santiago";5;3;2
+"4317509";"Sul";"RS";"Santo Ângelo";22;13;13
+"4317608";"Sul";"RS";"Santo Antônio da Patrulha";3;1;2
+"4318002";"Sul";"RS";"São Borja";12;12;6
+"4318309";"Sul";"RS";"São Gabriel";3;8;7
+"4318408";"Sul";"RS";"São Jerônimo";3;1;3
+"4318705";"Sul";"RS";"São Leopoldo";17;26;36
+"4318804";"Sul";"RS";"São Lourenço do Sul";2;3;2
+"4318903";"Sul";"RS";"São Luiz Gonzaga";8;6;5
+"4319901";"Sul";"RS";"Sapiranga";3;9;6
+"4320008";"Sul";"RS";"Sapucaia do Sul";4;5;2
+"4320206";"Sul";"RS";"Seberi";1;1;1
+"4320701";"Sul";"RS";"Sobradinho";1;1;2
+"4320800";"Sul";"RS";"Soledade";4;5;4
+"4321006";"Sul";"RS";"Tapera";1;1;1
+"4321204";"Sul";"RS";"Taquara";3;4;5
+"4321501";"Sul";"RS";"Torres";3;2;6
+"4321600";"Sul";"RS";"Tramandaí";12;10;15
+"4321808";"Sul";"RS";"Três de Maio";3;4;1
+"4322004";"Sul";"RS";"Triunfo";3;1;2
+"4322202";"Sul";"RS";"Tupanciretã";1;2;1
+"4322400";"Sul";"RS";"Uruguaiana";45;42;37
+"4322509";"Sul";"RS";"Vacaria";6;9;7
+"4322608";"Sul";"RS";"Venâncio Aires";5;4;1
+"4322806";"Sul";"RS";"Veranópolis";4;2;1
+"4323002";"Sul";"RS";"Viamão";11;10;9
+"5000609";"Centro Oeste";"MS";"Amambai";11;15;15
+"5001003";"Centro Oeste";"MS";"Aparecida do Taboado";1;4;2
+"5001102";"Centro Oeste";"MS";"Aquidauana";9;4;9
+"5001243";"Centro Oeste";"MS";"Aral Moreira";2;3;1
+"5001904";"Centro Oeste";"MS";"Bataguassu";1;1;2
+"5002001";"Centro Oeste";"MS";"Batayporã";4;1;2
+"5002100";"Centro Oeste";"MS";"Bela Vista";3;5;4
+"5002209";"Centro Oeste";"MS";"Bonito";2;2;3
+"5002407";"Centro Oeste";"MS";"Caarapó";4;3;1
+"5002704";"Centro Oeste";"MS";"Campo Grande";285;214;219
+"5002902";"Centro Oeste";"MS";"Cassilândia";2;2;3
+"5002951";"Centro Oeste";"MS";"Chapadão do Sul";4;1;4
+"5003157";"Centro Oeste";"MS";"Coronel Sapucaia";3;2;4
+"5003207";"Centro Oeste";"MS";"Corumbá";41;46;36
+"5003256";"Centro Oeste";"MS";"Costa Rica";2;2;4
+"5003306";"Centro Oeste";"MS";"Coxim";2;1;4
+"5003702";"Centro Oeste";"MS";"Dourados";142;119;133
+"5004106";"Centro Oeste";"MS";"Guia Lopes da Laguna";2;2;1
+"5004304";"Centro Oeste";"MS";"Iguatemi";3;5;6
+"5004809";"Centro Oeste";"MS";"Japorã";3;2;1
+"5005004";"Centro Oeste";"MS";"Jardim";1;3;3
+"5005152";"Centro Oeste";"MS";"Juti";1;1;3
+"5005251";"Centro Oeste";"MS";"Laguna Carapã";1;1;3
+"5005400";"Centro Oeste";"MS";"Maracaju";2;4;4
+"5005608";"Centro Oeste";"MS";"Miranda";3;6;4
+"5005681";"Centro Oeste";"MS";"Mundo Novo";2;6;4
+"5005707";"Centro Oeste";"MS";"Naviraí";10;6;4
+"5006002";"Centro Oeste";"MS";"Nova Alvorada do Sul";1;2;2
+"5006200";"Centro Oeste";"MS";"Nova Andradina";1;8;3
+"5006309";"Centro Oeste";"MS";"Paranaíba";8;6;6
+"5006358";"Centro Oeste";"MS";"Paranhos";7;4;5
+"5006606";"Centro Oeste";"MS";"Ponta Porã";19;11;10
+"5006903";"Centro Oeste";"MS";"Porto Murtinho";3;2;4
+"5007208";"Centro Oeste";"MS";"Rio Brilhante";1;5;1
+"5007695";"Centro Oeste";"MS";"São Gabriel do Oeste";1;1;1
+"5007950";"Centro Oeste";"MS";"Tacuru";3;6;2
+"5008305";"Centro Oeste";"MS";"Três Lagoas";8;11;8
+"5100201";"Centro Oeste";"MT";"Água Boa";3;10;23
+"5100250";"Centro Oeste";"MT";"Alta Floresta";17;12;13
+"5100300";"Centro Oeste";"MT";"Alto Araguaia";2;2;1
+"5101407";"Centro Oeste";"MT";"Aripuanã";7;5;2
+"5101704";"Centro Oeste";"MT";"Barra do Bugres";7;4;2
+"5101803";"Centro Oeste";"MT";"Barra do Garças";38;29;17
+"5101902";"Centro Oeste";"MT";"Brasnorte";1;3;3
+"5102504";"Centro Oeste";"MT";"Cáceres";31;33;52
+"5102603";"Centro Oeste";"MT";"Campinápolis";6;4;2
+"5102678";"Centro Oeste";"MT";"Campo Verde";4;4;2
+"5102686";"Centro Oeste";"MT";"Campos de Júlio";3;1;2
+"5102702";"Centro Oeste";"MT";"Canarana";2;5;5
+"5103205";"Centro Oeste";"MT";"Colíder";14;13;22
+"5103254";"Centro Oeste";"MT";"Colniza";6;3;3
+"5103353";"Centro Oeste";"MT";"Confresa";7;4;5
+"5103403";"Centro Oeste";"MT";"Cuiabá";328;336;306
+"5103502";"Centro Oeste";"MT";"Diamantino";4;1;2
+"5104104";"Centro Oeste";"MT";"Guarantã do Norte";5;3;2
+"5104807";"Centro Oeste";"MT";"Jaciara";5;2;1
+"5105101";"Centro Oeste";"MT";"Juara";6;5;5
+"5105150";"Centro Oeste";"MT";"Juína";8;5;7
+"5105259";"Centro Oeste";"MT";"Lucas do Rio Verde";4;4;9
+"5105580";"Centro Oeste";"MT";"Marcelândia";1;2;2
+"5105606";"Centro Oeste";"MT";"Matupá";2;3;1
+"5106000";"Centro Oeste";"MT";"Nortelândia";2;2;1
+"5106208";"Centro Oeste";"MT";"Nova Brasilândia";1;1;1
+"5106224";"Centro Oeste";"MT";"Nova Mutum";3;5;9
+"5106257";"Centro Oeste";"MT";"Nova Xavantina";2;2;3
+"5106307";"Centro Oeste";"MT";"Paranatinga";1;4;2
+"5106422";"Centro Oeste";"MT";"Peixoto de Azevedo";6;3;4
+"5106505";"Centro Oeste";"MT";"Poconé";2;4;1
+"5106752";"Centro Oeste";"MT";"Pontes e Lacerda";7;1;3
+"5107008";"Centro Oeste";"MT";"Poxoréo";1;2;2
+"5107040";"Centro Oeste";"MT";"Primavera do Leste";12;8;9
+"5107065";"Centro Oeste";"MT";"Querência";1;1;1
+"5107107";"Centro Oeste";"MT";"São José dos Quatro Marcos";1;1;3
+"5107305";"Centro Oeste";"MT";"São José do Rio Claro";2;3;2
+"5107602";"Centro Oeste";"MT";"Rondonópolis";48;46;42
+"5107701";"Centro Oeste";"MT";"Rosário Oeste";2;4;1
+"5107859";"Centro Oeste";"MT";"São Félix do Araguaia";3;4;1
+"5107875";"Centro Oeste";"MT";"Sapezal";2;1;1
+"5107909";"Centro Oeste";"MT";"Sinop";10;19;17
+"5107925";"Centro Oeste";"MT";"Sorriso";21;28;16
+"5107958";"Centro Oeste";"MT";"Tangará da Serra";17;24;26
+"5108055";"Centro Oeste";"MT";"Terra Nova do Norte";1;1;1
+"5108402";"Centro Oeste";"MT";"Várzea Grande";31;26;21
+"5108600";"Centro Oeste";"MT";"Vila Rica";1;1;3
+"5200258";"Centro Oeste";"GO";"Águas Lindas de Goiás";2;3;2
+"5201108";"Centro Oeste";"GO";"Anápolis";76;73;110
+"5201405";"Centro Oeste";"GO";"Aparecida de Goiânia";38;38;36
+"5205109";"Centro Oeste";"GO";"Catalão";6;7;4
+"5205307";"Centro Oeste";"GO";"Cavalcante";3;1;1
+"5205406";"Centro Oeste";"GO";"Ceres";6;7;8
+"5206206";"Centro Oeste";"GO";"Cristalina";3;1;3
+"5208004";"Centro Oeste";"GO";"Formosa";13;15;11
+"5208608";"Centro Oeste";"GO";"Goianésia";4;11;5
+"5208707";"Centro Oeste";"GO";"Goiânia";696;786;795
+"5209903";"Centro Oeste";"GO";"Iaciara";2;1;2
+"5210109";"Centro Oeste";"GO";"Ipameri";1;2;1
+"5210208";"Centro Oeste";"GO";"Iporá";2;3;3
+"5210802";"Centro Oeste";"GO";"Itajá";1;1;1
+"5211503";"Centro Oeste";"GO";"Itumbiara";6;6;8
+"5211909";"Centro Oeste";"GO";"Jataí";7;7;5
+"5212501";"Centro Oeste";"GO";"Luziânia";2;2;4
+"5213087";"Centro Oeste";"GO";"Minaçu";2;4;3
+"5213103";"Centro Oeste";"GO";"Mineiros";4;11;13
+"5213806";"Centro Oeste";"GO";"Morrinhos";1;3;2
+"5214002";"Centro Oeste";"GO";"Mozarlândia";1;1;1
+"5214051";"Centro Oeste";"GO";"Mundo Novo";1;1;2
+"5214606";"Centro Oeste";"GO";"Niquelândia";2;2;2
+"5217104";"Centro Oeste";"GO";"Piracanjuba";3;1;1
+"5217401";"Centro Oeste";"GO";"Pires do Rio";1;2;1
+"5217609";"Centro Oeste";"GO";"Planaltina";4;3;2
+"5218003";"Centro Oeste";"GO";"Porangatu";1;5;4
+"5218300";"Centro Oeste";"GO";"Posse";4;4;3
+"5218508";"Centro Oeste";"GO";"Quirinópolis";3;5;2
+"5218805";"Centro Oeste";"GO";"Rio Verde";15;17;20
+"5219753";"Centro Oeste";"GO";"Santo Antônio do Descoberto";1;5;2
+"5220108";"Centro Oeste";"GO";"São Luís de Montes Belos";1;1;1
+"5220405";"Centro Oeste";"GO";"São Simão";1;2;2
+"5220454";"Centro Oeste";"GO";"Senador Canedo";3;3;5
+"5221858";"Centro Oeste";"GO";"Valparaíso de Goiás";2;5;2
+"5300108";"Centro Oeste";"DF";"Brasília";761;724;755
